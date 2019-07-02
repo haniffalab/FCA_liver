@@ -1,0 +1,5 @@
+Package downloaded from https://github.com/bhargavchippada/forceatlas2
+forceatlas2.py has been modified and it is different from the original script.
+The modification allows for returning all FDG coordinates for each iteration. This is needed for the creation of animated force directed graph.
+
+It is the understanding of the person (Dorin-Mirel Popescu) who modified the published package that forceatlas2 is subjected to GPL version 3 terms which allows for modifications of original code and publishing the modified version. The original author of forceatlas2 (Mathieu Jacomy) is acknowledged. Furthermore the modifications within this version do not pertain to the algorithm but only functionalities that allow for keeping all transient states for the purpose of tracking the evolution of force directed graph visualised in a video format.

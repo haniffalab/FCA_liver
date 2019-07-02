@@ -1,0 +1,261 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>Color Picker</title>
+  <meta name="description" content="interactive page for color picker">
+  <meta name="author" content="Dorin-Mirel Popescu">
+  <style>
+  	#div_cats{
+  		overflow-y: scroll;
+  		height: 400px;
+  	}
+  	#instructionBtn {
+  		margin-bottom: 1em;
+  		font-size: 1em;
+  		background-color: #00bfff;
+    	border: none;
+    	color: white;
+    	padding: 10px 10px;
+    	text-align: center;
+    	text-decoration: none;
+    	cursor: pointer;
+  	}
+  	#end_div {
+  		margin-bottom: 3em;
+  	}
+  </style>
+</head>
+
+<body>
+	
+  <h2>Colors Management</h2>
+  <input id = 'instructionBtn' type = 'button' value = 'Show description and instructions' onclick = 'showHideInstructions(value)' />
+  <div id = 'instructionBoard'>
+  	<div><b>Author:</b> Dorin-Mirel Popescu</div>
+	<div><b>Description: </b>This is a tool used for generating color mappings. The output can be saved as a csv file that maps colours to categories.</div>
+	<div>
+		<b>Instructions:</b>
+		<ul>
+			<li>Enter a number in the text area right to "Number of categories:"</li>
+			<li>Press the button "Make". This will generate coloured dots on the plot at right. For each dot there is a corresponding control panel in the column at left</li>
+			<li>Each dot and its menu are linked by name. At generation names have the format "Name indes" (e.g. "Name 0", "Name 1")</li>
+			<li>Names can be edited. Any change will update the colour area</li>
+			<li>The colour of each category can be change by the 3 sliders in each colour menu</li>
+			<li>The sliders are "H" (for hue), "S" (for saturation) and L ('light')</li>
+			<li>The colour key can be saved to a csv file by pressing the button "Save color key as csv file"</li>
+		</ul>
+	</div>
+	<div id = 'end_div'><hr/></div>
+  </div>
+  
+  <table border='1'>
+   <tr>
+	<td>
+	 Number of categories: <input type = 'text' size = '2' id='noOfCats'> <input type ='button' value = 'Make' id='makeButton' onclick='makeCategories()'>	
+	</td>
+	<td>
+	 <input type='button' value='Save color key as csv file' disabled id='saveAsBttn' onclick='saveColorKey()'>
+	</td>
+   </tr>
+   <tr>
+    <td style="text-align: left;vertical-align: top;">
+     <div id='div_cats'></div>
+    </td>
+    <td>
+     <div>
+		 <label for='white_bg_input'>White background</label><input type='radio' id='white_bg_input' name='bg_color_input' value='white' checked onchange="setBG(value)">
+		 <label for='black_bg_input'>Black background</label><input type='radio' id='black_bg_input' name='bg_color_input' value='black' onchange="setBG(value)"></br>
+		<canvas width='640' height='400' id='canvas'></canvas>
+     </div>
+    </td>
+   </tr>
+  </table>
+  <script type="text/javascript">
+	var canvas = document.getElementById('canvas'),
+	    context = canvas.getContext('2d'),
+	    makeButton = document.getElementById('makeButton'),
+	    noOfCats = document.getElementById('noOfCats'),
+	    div_cats = document.getElementById('div_cats'),
+	    saveAsBttn = document.getElementById('saveAsBttn'),
+	    instructionBoard = document.getElementById('instructionBoard'),
+	    categories = [],
+	    categories_name = [],
+	    categories_coordinates = [],
+	    white_bg = true;
+	context.textAlign = 'center'
+	context.textBaseline = 'middle'
+	instructionBoard.style.display = 'none'
+	
+	// function to show/hide description and instructions
+	function showHideInstructions(val){
+		if (val == 'Show description and instructions'){
+			instructionBtn.value = 'Hide description and instructions'
+			instructionBoard.style.display = 'block'
+		}else{
+			instructionBtn.value = 'Show description and instructions'
+			instructionBoard.style.display = 'none'
+		}
+	}
+	
+	function saveColorKey(){
+		var num_items = categories.length,
+			content = "";
+		for(i=0;i<num_items;i++){
+			var hsl = categories[i]
+				h = hsl[0],
+				s = hsl[1],
+				l = hsl[2],
+				rgb = hslToHex(h, s, l),
+				category_name = categories_name[i]
+			content = content + category_name + "," + rgb + "\n"
+		}
+		uriContent = "data:application/octet-stream," + encodeURIComponent(content)
+		var fname = prompt("Please enter file name (must end with .csv otherwise ... best of luck!");
+		saveAs(uriContent, fname)
+	}
+	
+	function saveAs(uri, filename) {
+    var link = document.createElement('a');
+    if (typeof link.download === 'string') {
+        document.body.appendChild(link); // Firefox requires the link to be in the body
+        link.download = filename;
+        link.href = uri;
+        link.click();
+        document.body.removeChild(link); // remove the link when done
+    } else {
+        location.replace(uri);
+    }
+}
+	
+	function hslToHex(h, s, l) {
+	  h /= 360;
+	  s /= 100;
+	  l /= 100;
+	  let r, g, b;
+	  if (s === 0) {
+		r = g = b = l; // achromatic
+	  } else {
+		const hue2rgb = (p, q, t) => {
+		  if (t < 0) t += 1;
+		  if (t > 1) t -= 1;
+		  if (t < 1 / 6) return p + (q - p) * 6 * t;
+		  if (t < 1 / 2) return q;
+		  if (t < 2 / 3) return p + (q - p) * (2 / 3 - t) * 6;
+		  return p;
+		};
+		const q = l < 0.5 ? l * (1 + s) : l + s - l * s;
+		const p = 2 * l - q;
+		r = hue2rgb(p, q, h + 1 / 3);
+		g = hue2rgb(p, q, h);
+		b = hue2rgb(p, q, h - 1 / 3);
+	  }
+	  const toHex = x => {
+		const hex = Math.round(x * 255).toString(16);
+		return hex.length === 1 ? '0' + hex : hex;
+	  };
+	  return `#${toHex(r)}${toHex(g)}${toHex(b)}`;
+	}
+	function setBG(value){
+		white_bg = false
+		console.log(white_bg)
+		if (value == 'white'){
+			white_bg = true
+		}
+		paintAll()
+	}
+	function paintAll(){
+		context.fillStyle = '#000000';
+		if(white_bg){
+			context.fillStyle = '#FFFFFF';
+		}
+		context.fillRect(0, 0, canvas.width, canvas.height)
+		var num_items = categories.length
+		for(i=0;i<num_items;i++){
+			var flagCanvas = div_cats.children[i].children[1].children[0]
+				flagContext = flagCanvas.getContext('2d');
+				hsl = categories[i],
+				h = hsl[0],
+				s = hsl[1],
+				l = hsl[2],
+				rgb = hslToHex(h, s, l),
+				x = categories_coordinates[i][0],
+				y = categories_coordinates[i][1],
+				category_name = categories_name[i]
+			flagContext.fillStyle = rgb
+			flagContext.fillRect(0, 0, flagCanvas.width, flagCanvas.height)
+			context.fillStyle = rgb
+			context.beginPath()
+			context.arc(x, y, 25, 0, 2*Math.PI, false)
+			context.fill()
+			context.closePath()
+			context.fillStyle = '#FFFFFF';
+			if(white_bg){
+				context.fillStyle = '#000000';
+			}
+			context.fillText(category_name, x, y - 35)
+		}
+	}
+	function updateHSL(){
+		var num_items = categories.length
+		for(i=0;i<num_items;i++){
+			var inputs = div_cats.children[i].children[0],
+				name_input = inputs.children[0],
+				h_input = inputs.children[2],
+				s_input = inputs.children[4],
+				l_input = inputs.children[6],
+				h = h_input.value,
+				s = s_input.value,
+				l = l_input.value;
+			categories[i] = [h, s, l]
+			categories_name[i] = name_input.value
+		}
+		paintAll()
+	}
+	function makeCategories(){
+		var numOfCategories = parseInt(noOfCats.value)
+		if(isNaN(numOfCategories)){
+		 	div_cats.innerHTML = '<h3>please introduce an integer</h3>'
+		 	saveAsBttn.disabled = true
+		}else if (numOfCategories < 41){
+			categories_name = []
+			categories = []
+			saveAsBttn.disabled = false
+			div_cats.innerHTML = ""
+			for (i=0;i<numOfCategories;i++){
+				var h = parseInt(Math.random() * 359),
+					s = parseInt(Math.random() * 100),
+					l = parseInt(Math.random() * 100);
+				categories[i] = [h, s, l]
+				name_i = 'Name ' + i
+				categories_name[i] = name_i
+				y = 40 + Math.floor(i / 8) * 80
+				x = 40 + (i % 8) * 80
+				categories_coordinates[i] = [x,y]				
+				var innerDiv = document.createElement('div')
+					leftDiv = document.createElement('div'),
+					rightDiv = document.createElement('div');
+				div_cats.appendChild(innerDiv)
+				innerDiv.appendChild(leftDiv)
+				innerDiv.appendChild(rightDiv)
+				leftContent = '<input type="text" onchange = "updateHSL()" size = 35 value ="' + name_i + '"></br>'
+				leftContent = leftContent + 'H <input type="range" onchange="updateHSL()" min="0" max="360" value="' + h + '"></br>'
+				leftContent = leftContent + 'S <input type="range" onchange="updateHSL()" min="0" max="100" value="' + s + '"></br>'
+				leftContent = leftContent + 'L <input type="range" onchange="updateHSL()" min="0" max="100" value="' + l + '">'
+				leftDiv.innerHTML = leftContent
+				rightContent = '<canvas width="80" height="80"></canvas>'
+				rightDiv.innerHTML = rightContent
+				leftDiv.style.float = "left"
+				rightDiv.style.float = "right"
+			}
+			paintAll()
+		}else{
+			div_cats.innerHTML = '<h3>40 maximum categories permisible</h3>'
+		 	saveAsBttn.disabled = true
+		}
+	}
+  </script>
+</body>
+</html>

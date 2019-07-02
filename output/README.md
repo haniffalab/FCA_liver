@@ -1,0 +1,1 @@
+this folder is empty but you should have it with the single cell analysis bundle as place to save the output from the pipelines

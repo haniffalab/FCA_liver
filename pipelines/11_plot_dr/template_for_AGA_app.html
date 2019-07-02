@@ -1,0 +1,215 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Interactive linkage plot</title>
+  <meta name="description" content="An interactive plot for the linkage map">
+  <meta name="author" content="Dorin-Mirel Popescu">
+</head>
+<body>
+	<ul>
+		<li>Bubble size reflects population size; Edge thickness reflects connectivity scores;</li>
+		<li>Use the sliders to set plotting parameters;</li>
+		<li>Click the canvas area to select a cell population and reposition it by dragging;</li>
+		<li>Plot can be saved by right click on canvas area and choose 'Save as'; For higher image resolution increase canvas area, font size and scales before saving;</li>
+	</ul>	
+	<table>
+		<tr>
+			<td>Canvas width</td><td>Canvas height</td><td>Size scale</td><td>Edge scale</td><td>Edge threshold</td><td>Font size</td>
+			<tr>
+				<td><input type = 'range' min = '100' max = '3000' value = '500' onchange = 'setWidth(this.value)' /></td>
+				<td><input type = 'range' min = '100' max = '3000' value = '500' onchange = 'setHeight(this.value)' /></td>
+				<td><input type = 'range' min = '0'   max = '300'  value = '10'  onchange = 'setSizeScale(this.value)' /></td>
+				<td><input type = 'range' min = '.1'   max = '15' step = '.1'  value = '5'  onchange = 'setEdgeScale(this.value)' /></td>
+				<td><input type = 'range' min = '0'   max = '1' step = '.001'    value = '0'   onchange = 'setEdgeThreshold(this.value)'/></td>
+				<td><input type = 'range' min = '5' max = '80' value = '10' step = '1' onchange = 'setFontSize(this.value)' /></td>
+			</tr>
+		</tr>
+	</table>
+	<canvas id = 'canvas' width = '500' height = '500'></canvas>
+  <script type = 'text/javascript'>
+  	// global parameters
+  	var canvas    = document.getElementById('canvas'),
+  		canvasW   = 500,
+  		canvasH   = 500,
+  		sizeScale = .1,
+  		edgeScale = 5,
+  		edgeT     = 0,
+  		fontSize  = 10,
+  		context   = canvas.getContext('2d'),
+  		mouseX    = 0,
+  		mouseY    = 0,
+  		currentX  = 0,
+  		currentY  = 0,
+  		selectedX = 0,
+  		selectedY = 0,
+  		selectedPopulation = null;
+  		
+  	// data placeholders
+  	var data_coordinates = [], // for each cell name include x coordinate, y coordinate, and radius values
+  		data_edges       = [], // for each cell name include and array of edge values
+  		data_composition = []; // for each cell name include 8 numbers (first 4 for male gender, last 4 for female gender)
+  	// insert data here	
+  	
+  	// function to set the width of canvas. called from slider
+  	function setWidth(value){
+  		canvasW = parseFloat(value)
+  		canvas.width = canvasW
+  		context = canvas.getContext('2d')
+  		draw()
+  	}
+  	
+  	// function to set height of canvas. called from slider
+  	function setHeight(value){
+  		canvasH = parseFloat(value)
+  		canvas.height = canvasH
+  		context = canvas.getContext('2d')
+  		draw()
+  	}
+  	
+  	// function to set bubble size scale. called from slider
+  	function setSizeScale(value){
+  		sizeScale = parseFloat(value) / 100
+  		draw()
+  	}
+  	
+  	// function to set edge scale. called from slider
+  	function setEdgeScale(value){
+  		edgeScale = parseFloat(value)
+  		draw()
+  	}
+  	
+  	// function to set edge theshold. Any edge smaller than this threshold will not be drawn. called from slider
+  	function setEdgeThreshold(value){
+  		edgeT = parseFloat(value)
+  		draw()
+  	}
+  	
+  	// function to set font size of cell name labels in the plot. called from slider
+  	function setFontSize(value){
+  		fontSize = parseInt(value)
+  		draw()
+  	}
+  	
+  	// function to draw the canvas	
+  	function draw(){
+  		// clear canvas by drawing a rectangle
+  		context.fillStyle = '#efefef'
+  		context.fillRect(0, 0, canvas.width, canvas.height)
+  		// loop through all the cell name and draw their coresponding bubble reflect population size and write the label above the bubble
+  		for (key in data_coordinates){
+  			// get bubble parameters
+  			var bubble_data = data_coordinates[key],
+  				bubbleX     = canvasW * bubble_data[0],
+  				bubbleY     = canvasH * (1 - bubble_data[1]),
+  				bubbleA     = sizeScale * bubble_data[2],
+  				bubbleR     = Math.sqrt(bubbleA),
+  				bubbleC     = bubble_data[3];
+  			// draw edges
+  			var edges = data_edges[key]
+  			context.strokeStyle = '#888888'
+  			edges.forEach(function(edgeVal, i){
+  				if (edgeVal > edgeT){
+  					var connectingCellName = cell_names[i],
+  						connectingBubble   = data_coordinates[connectingCellName],
+  						endX               = canvasW * connectingBubble[0],
+  						endY               = canvasH * (1 - connectingBubble[1])
+  					edgeVal *= edgeScale
+  					context.lineWidth = edgeVal;
+  					context.beginPath()
+  					context.moveTo(bubbleX, bubbleY)
+  					context.lineTo(endX, endY)
+  					context.stroke()
+  				}
+  			})
+  		}
+  		// loop through all values in connectivities and draw corresponding edges if great the edge threshold
+  		for (key in data_coordinates){
+  			// get bubble parameters
+  			var bubble_data = data_coordinates[key],
+  				bubbleX     = canvasW * bubble_data[0],
+  				bubbleY     = canvasH * (1 - bubble_data[1]),
+  				bubbleA     = sizeScale * bubble_data[2],
+  				bubbleR     = Math.sqrt(bubbleA),
+  				bubbleC     = bubble_data[3];
+  			// draw bubble
+  			context.fillStyle = bubbleC
+  			context.beginPath()
+  			context.arc(bubbleX, bubbleY, bubbleR, 0, 2 * Math.PI, false)
+  			context.fill()
+  			// write cell name
+  			context.fillStyle = 'black';
+  			context.font = parseInt(fontSize) + 'px arial'
+  			context.textAlign = 'center'
+  			context.textBaseline = 'Alphabetical'
+  			context.fillText(key, bubbleX, bubbleY - bubbleR - 2)
+  		}
+  	}
+  	
+  	// function that takes an event as input and return x, y values of mouse cursor
+  	function getEventCoordinates(event){
+  		var canvasRect = canvas.getBoundingClientRect(),
+  			X = event.clientX - canvasRect.x,
+  			Y = event.clientY - canvasRect.y;
+  		return [X, Y]
+  	}
+  	
+  	// function that stops dragging of selected cell name
+  	function stopDraging(event){
+  		// first draw the data point at dropping location
+  		dragDataPoint(event)
+  		// remove dragDataPoint from canvas event listeners
+  		canvas.removeEventListener('mousemove', dragDataPoint)
+  		// remove stopDraging from canvas event listeners
+  		canvas.removeEventListener('mouseup', stopDraging)
+  	}
+  	
+  	// function that drags a selected bubble to follow the movement of the cursor
+  	function dragDataPoint(event){
+  		var XY = getEventCoordinates(event)
+  		currentX = XY[0];
+  		currentY = XY[1];
+  		var dx = (mouseX - currentX) / canvasW,
+  			dy = (mouseY - currentY) / canvasH;
+  		// reset coordinates of selected data point
+  		data_coordinates[selectedPopulation][0] = selectedX - dx;
+  		data_coordinates[selectedPopulation][1] = selectedY + dy;
+  		// then draw
+  		draw()
+  	}
+  	
+  	// draw the canvas and add the event listeners only when the entire document is loaded
+  	window.onload = function(){
+  		draw()
+  		canvas.addEventListener('mousedown', function(event){
+  			var XY  = getEventCoordinates(event),
+  				hit = false;
+  			mouseX = XY[0];
+  			mouseY = XY[1];
+  			// loop through all the data poins and check for hit
+  			for (key in data_coordinates){
+  				var bubble_data = data_coordinates[key],
+  					bubbleX     = canvasW * bubble_data[0],
+  					bubbleY     = canvasH * (1 - bubble_data[1]),
+  					bubbleA     = sizeScale * bubble_data[2],
+  					bubbleR     = Math.sqrt(bubbleA),
+  					dx          = mouseX - bubbleX,
+  					dy          = mouseY - bubbleY,
+  					distance    = Math.sqrt(Math.pow(dx, 2) + Math.pow(dy, 2))
+  					if (distance < bubbleR){
+  						hit = true;
+  						selectedPopulation = key;
+  						selectedX = data_coordinates[selectedPopulation][0]
+  						selectedY = data_coordinates[selectedPopulation][1]
+  					}
+  			}
+  			if (hit){
+  				canvas.addEventListener('mousemove', dragDataPoint)
+  				canvas.addEventListener('mouseup', stopDraging)
+  			}else{selectedPopulation = null}
+  		})
+  	}
+  </script>
+</body>
+</html>

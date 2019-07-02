@@ -1,0 +1,5018 @@
+ACOT11	adipocytes, adipocytes brown fat cell
+ADIG	adipocytes
+ADIPOQ	adipocytes
+ADIPOR1	adipocytes
+ADIPOR2	adipocytes
+ADIRF	adipocytes
+ADRB3	adipocytes
+AEBP1	adipocytes, smooth muscle cell
+AGPAT2	adipocytes, neutrophil granulocyte
+ANGPTL4	adipocytes, endothelial cells
+APPL1	adipocytes
+AQP7	adipocytes, epididymal basal cell, spermatid
+AQP9	adipocytes
+ARID5B	adipocytes, progenitor
+ASIP	adipocytes
+ASXL2	adipocytes, osteoclast
+ATG5	adipocytes
+ATG7	adipocytes, hematopoietic stem cell, neutrophil granulocyte
+BBS10	adipocytes, neuron retina horizontal cell
+BBS12	adipocytes
+BMP4	adipocytes
+BMP7	adipocytes
+BMP8B	adipocytes, adipocytes brown fat cell
+BSCL2	adipocytes
+CAND1	adipocytes, neutrophil granulocyte
+CARM1	adipocytes
+CCNC	adipocytes
+CCND3	adipocytes
+CD36	adipocytes, erythrocyte, megakaryocyte, neutrophil granulocyte
+CDK4	adipocytes, cdc, conventional dendritic cell
+CDK8	adipocytes
+CDK19	adipocytes
+CEBPA	adipocytes, myeloid
+CEBPB	adipocytes
+CEBPD	adipocytes, macrophage
+CFD	adipocytes, megakaryocyte, neutrophil granulocyte
+CHD9	adipocytes
+CIDEA	adipocytes, adipocytes brown fat cell
+CIDEC	adipocytes
+CLMP	adipocytes
+CREBBP	adipocytes, myeloid, progenitor
+CRTC3	adipocytes
+DDIT3	adipocytes
+DLK1	adipocytes
+EBF1	adipocytes
+EGR2	adipocytes
+EP300	adipocytes, megakaryocyte, progenitor
+FABP4	adipocytes
+FAM120B	adipocytes
+FASTKD3	adipocytes
+FBN1	adipocytes
+FGF21	adipocytes, fibroblasts
+GHRL	adipocytes, anterior pituitary cells somatotropes
+HDAC3	adipocytes, osteoblast
+HELZ2	adipocytes
+HMGA2	adipocytes
+HSD17B1	adipocytes
+KIAA1109	adipocytes, spermatocyte
+KLF2	adipocytes
+KLF4	adipocytes
+KLF5	adipocytes
+KLF7	adipocytes
+LEP	adipocytes
+LEPR	adipocytes, anterior pituitary cells gonadotropes
+LGALS12	adipocytes
+LINCADL	adipocytes
+LIPE	adipocytes
+LPIN1	adipocytes
+LPIN2	adipocytes
+LPL	adipocytes
+LYRM1	adipocytes
+MED1	adipocytes
+MED4	adipocytes
+MED6	adipocytes
+MED7	adipocytes
+MED8	adipocytes
+MED9	adipocytes
+MED10	adipocytes
+MED11	adipocytes
+MED12	adipocytes
+MED13	adipocytes
+MED13L	adipocytes
+MED14	adipocytes
+MED15	adipocytes
+MED16	adipocytes
+MED17	adipocytes
+MED18	adipocytes
+MED19	adipocytes
+MED20	adipocytes
+MED21	adipocytes
+MED22	adipocytes
+MED23	adipocytes
+MED24	adipocytes
+MED25	adipocytes
+MED26	adipocytes
+MED27	adipocytes
+MED28	adipocytes
+MED29	adipocytes
+MED30	adipocytes
+MED31	adipocytes
+MORC2	adipocytes
+MTCH2	adipocytes
+NCOA1	adipocytes
+NCOA2	adipocytes, myeloid
+NCOA3	adipocytes
+NCOA6	adipocytes
+NCOR1	adipocytes
+NCOR2	adipocytes
+NFKB1	adipocytes, b cell, neutrophil granulocyte
+NKX1-1	adipocytes
+NR1H2	adipocytes, adrenal gland cells, macrophage
+NR2F2	adipocytes
+OTOP1	adipocytes, outer hair cell of vestibular system of ear
+PCK1	adipocytes, adrenal gland secreting steroid hormones mineralocorticoids glucocorticoid
+PDZRN3	adipocytes, osteoblast
+PLIN1	adipocytes
+PLIN2	adipocytes, adrenal gland cells, fibroblasts, hepatocyte, leydig cell of testes secreting testosterone, mammary gland cell milk secretion
+PNPLA2	adipocytes
+PNPLA3	adipocytes
+PNPLA4	adipocytes
+PNPLA7	adipocytes
+PPARA	adipocytes, b cell
+PPARG	adipocytes
+PPARGC1A	adipocytes
+PPM1L	adipocytes
+PRKAR2B	adipocytes, megakaryocyte
+PUM2	adipocytes
+RARRES2	adipocytes, megakaryocyte
+RELA	adipocytes, b cell
+RETN	adipocytes, neutrophil granulocyte
+RXRA	adipocytes
+SLC2A4	adipocytes
+SMARCD3	adipocytes
+SRA1	adipocytes
+SREBF1	adipocytes, progenitor
+SREBF2	adipocytes
+STEAP4	adipocytes
+TBL1X	adipocytes
+TBL1XR1	adipocytes
+TGFB1	adipocytes, megakaryocyte
+TGS1	adipocytes
+THRAP3	adipocytes
+THRSP	adipocytes
+TMEM26	adipocytes, adipocytes brown fat cell
+TNF	adipocytes, macrophage
+UCP1	adipocytes, adipocytes brown fat cell
+WNT1	adipocytes
+WNT10B	adipocytes
+ZNF467	adipocytes, osteoblast
+ZNF638	adipocytes
+AGTR2	adrenal gland cells
+AKR1B10	adrenal gland cells
+AZIN2	adrenal gland cells, mast cell
+CYP11B1	adrenal gland cells, adrenal gland secreting steroid hormones mineralocorticoids glucocorticoid
+DBH	adrenal gland cells
+DHCR24	adrenal gland cells
+ELOVL5	adrenal gland cells
+GAL	adrenal gland cells, progenitor
+HRH1	adrenal gland cells, mast cell
+MC3R	adrenal gland cells
+MRAP	adrenal gland cells, adrenal gland secreting steroid hormones mineralocorticoids glucocorticoid
+NPW	adrenal gland cells
+PRKACA	adrenal gland cells, megakaryocyte
+SULT2A1	adrenal gland cells
+UBAP2	adrenal gland cells
+ADH6	adrenal gland secreting steroid hormones mineralocorticoids glucocorticoid
+ARHGAP35	adrenal gland secreting steroid hormones mineralocorticoids glucocorticoid
+ARID1A	adrenal gland secreting steroid hormones mineralocorticoids glucocorticoid
+CALR	adrenal gland secreting steroid hormones mineralocorticoids glucocorticoid
+CGA	adrenal gland secreting steroid hormones mineralocorticoids glucocorticoid
+CYP3A4	adrenal gland secreting steroid hormones mineralocorticoids glucocorticoid
+CYP11B2	adrenal gland secreting steroid hormones mineralocorticoids glucocorticoid
+CYP17A1	adrenal gland secreting steroid hormones mineralocorticoids glucocorticoid
+CYP21A2	adrenal gland secreting steroid hormones mineralocorticoids glucocorticoid
+DCAF6	adrenal gland secreting steroid hormones mineralocorticoids glucocorticoid
+GAS5	adrenal gland secreting steroid hormones mineralocorticoids glucocorticoid
+GLCCI1	adrenal gland secreting steroid hormones mineralocorticoids glucocorticoid
+GMEB1	adrenal gland secreting steroid hormones mineralocorticoids glucocorticoid
+GMEB2	adrenal gland secreting steroid hormones mineralocorticoids glucocorticoid
+HSD3B1	adrenal gland secreting steroid hormones mineralocorticoids glucocorticoid, progenitor
+HSD3B2	adrenal gland secreting steroid hormones mineralocorticoids glucocorticoid
+HSD11B1	adrenal gland secreting steroid hormones mineralocorticoids glucocorticoid
+HSD11B1L	adrenal gland secreting steroid hormones mineralocorticoids glucocorticoid
+HSD11B2	adrenal gland secreting steroid hormones mineralocorticoids glucocorticoid
+LHB	adrenal gland secreting steroid hormones mineralocorticoids glucocorticoid, anterior pituitary cells gonadotropes
+MC2R	adrenal gland secreting steroid hormones mineralocorticoids glucocorticoid
+MIF	adrenal gland secreting steroid hormones mineralocorticoids glucocorticoid, macrophage, neutrophil granulocyte
+MT1M	adrenal gland secreting steroid hormones mineralocorticoids glucocorticoid
+MYOC	adrenal gland secreting steroid hormones mineralocorticoids glucocorticoid
+NR3C1	adrenal gland secreting steroid hormones mineralocorticoids glucocorticoid
+NR3C2	adrenal gland secreting steroid hormones mineralocorticoids glucocorticoid
+ONECUT1	adrenal gland secreting steroid hormones mineralocorticoids glucocorticoid, progenitor
+PDCD6	adrenal gland secreting steroid hormones mineralocorticoids glucocorticoid
+PDK4	adrenal gland secreting steroid hormones mineralocorticoids glucocorticoid
+POMC	adrenal gland secreting steroid hormones mineralocorticoids glucocorticoid, anterior pituitary cells, anterior pituitary cells gonadotropes
+PPARGC1B	adrenal gland secreting steroid hormones mineralocorticoids glucocorticoid
+PSMC3IP	adrenal gland secreting steroid hormones mineralocorticoids glucocorticoid
+SCNN1A	adrenal gland secreting steroid hormones mineralocorticoids glucocorticoid
+SGK2	adrenal gland secreting steroid hormones mineralocorticoids glucocorticoid
+SNW1	adrenal gland secreting steroid hormones mineralocorticoids glucocorticoid, progenitor
+ST13	adrenal gland secreting steroid hormones mineralocorticoids glucocorticoid
+TRIP4	adrenal gland secreting steroid hormones mineralocorticoids glucocorticoid
+TSC22D3	adrenal gland secreting steroid hormones mineralocorticoids glucocorticoid
+TTLL5	adrenal gland secreting steroid hormones mineralocorticoids glucocorticoid
+ADRA2A	adrenergic neural cell
+ADRA2B	adrenergic neural cell
+ADRA2C	adrenergic neural cell
+TH	adrenergic neural cell
+AMBN	ameloblast epithelial cell
+AMTN	ameloblast epithelial cell, odontoblast, odontocyte
+LENEP	anterior lens epithelial cell, crystallin-containing lens fiber cell
+AVPR1B	anterior pituitary cells, anterior pituitary cells gonadotropes
+HESX1	anterior pituitary cells, anterior pituitary cells gonadotropes
+PRL	anterior pituitary cells, anterior pituitary cells gonadotropes
+PRLR	anterior pituitary cells, anterior pituitary cells gonadotropes
+ACVR1B	anterior pituitary cells gonadotropes
+ASIC4	anterior pituitary cells gonadotropes
+AVP	anterior pituitary cells gonadotropes, progenitor
+AVPR2	anterior pituitary cells gonadotropes
+BRINP3	anterior pituitary cells gonadotropes
+CHST8	anterior pituitary cells gonadotropes
+CLCF1	anterior pituitary cells gonadotropes, b cell
+CRH	anterior pituitary cells gonadotropes
+CRHBP	anterior pituitary cells gonadotropes
+CRHR1	anterior pituitary cells gonadotropes
+DIO2	anterior pituitary cells gonadotropes
+DPF2	anterior pituitary cells gonadotropes
+FSHB	anterior pituitary cells gonadotropes
+GALR2	anterior pituitary cells gonadotropes
+GH1	anterior pituitary cells gonadotropes, anterior pituitary cells somatotropes
+GH2	anterior pituitary cells gonadotropes, anterior pituitary cells somatotropes
+GHRH	anterior pituitary cells gonadotropes
+GNAS	anterior pituitary cells gonadotropes
+GNRHR	anterior pituitary cells gonadotropes, theca interna cell of ovarian follicle secreting estrogen
+HIGD1B	anterior pituitary cells gonadotropes
+INHA	anterior pituitary cells gonadotropes, theca interna cell of ovarian follicle secreting estrogen
+INHBA	anterior pituitary cells gonadotropes
+INHBB	anterior pituitary cells gonadotropes
+LHX3	anterior pituitary cells gonadotropes
+LHX4	anterior pituitary cells gonadotropes
+NUDT6	anterior pituitary cells gonadotropes
+OTX2	anterior pituitary cells gonadotropes, progenitor
+OXT	anterior pituitary cells gonadotropes, progenitor
+PCSK4	anterior pituitary cells gonadotropes, b cell, progenitor
+POU1F1	anterior pituitary cells gonadotropes
+PRLHR	anterior pituitary cells gonadotropes
+PROP1	anterior pituitary cells gonadotropes
+PTH2	anterior pituitary cells gonadotropes, progenitor
+PTTG1IP	anterior pituitary cells gonadotropes, fibroblasts
+QPCT	anterior pituitary cells gonadotropes, neutrophil granulocyte
+SST	anterior pituitary cells gonadotropes
+TBX19	anterior pituitary cells gonadotropes
+TEF	anterior pituitary cells gonadotropes
+UNCX	anterior pituitary cells gonadotropes, myeloid
+CSH1	anterior pituitary cells somatotropes
+CSH2	anterior pituitary cells somatotropes
+CSHL1	anterior pituitary cells somatotropes
+PITX2	anterior pituitary cells somatotropes
+PGPEP1	anterior pituitary cells thyrotropes
+TRH	anterior pituitary cells thyrotropes
+TRHDE	anterior pituitary cells thyrotropes
+TRHR	anterior pituitary cells thyrotropes
+EDARADD	apocrine sweat gland cell odoriferous secretion, eccrine sweat gland clear cell
+KRT77	apocrine sweat gland cell odoriferous secretion, eccrine sweat gland clear cell
+TBX3	apocrine sweat gland cell odoriferous secretion
+AREG	astrocyte, fibroblasts, mammary gland cell milk secretion, oocyte, schwann cell
+EFNA5	astrocyte
+GFAP	astrocyte
+NDRG4	astrocyte
+CEACAM16	auditory outer hair cell of organ of corti
+CHRNA9	auditory outer hair cell of organ of corti
+COCH	auditory outer hair cell of organ of corti
+DIAPH1	auditory outer hair cell of organ of corti, neutrophil granulocyte
+ELMOD3	auditory outer hair cell of organ of corti
+GIPC3	auditory outer hair cell of organ of corti
+GRXCR1	auditory outer hair cell of organ of corti
+LOXHD1	auditory outer hair cell of organ of corti
+MCOLN3	auditory outer hair cell of organ of corti
+MYO6	auditory outer hair cell of organ of corti
+MYO15A	auditory outer hair cell of organ of corti
+SERPINB6	auditory outer hair cell of organ of corti, neutrophil granulocyte
+SLC26A5	auditory outer hair cell of organ of corti
+STRC	auditory outer hair cell of organ of corti
+TECTA	auditory outer hair cell of organ of corti
+TECTB	auditory outer hair cell of organ of corti
+TMC1	auditory outer hair cell of organ of corti
+TMC2	auditory outer hair cell of organ of corti
+TMIE	auditory outer hair cell of organ of corti
+ASCL1	autonomic neuron cells
+DRD4	autonomic neuron cells
+P2RX3	autonomic neuron cells, megakaryocyte
+PHOX2A	autonomic neuron cells
+PRDM12	autonomic neuron cells, myeloid
+ACOT7	b cell
+ACSL1	b cell
+ACSL3	b cell
+ACSL4	b cell
+ACSL5	b cell
+AGXT	b cell
+AHCYL1	b cell
+AKAP7	b cell
+AKAP8	b cell
+ALDH1A1	b cell
+ALDH2	b cell
+ANKS1B	b cell, progenitor
+AP3S1	b cell
+ARG1	b cell, neutrophil granulocyte
+ARG2	b cell
+BANK1	b cell
+BCAP31	b cell
+BCL2L13	b cell
+BCL3	b cell
+BCL6	b cell
+BCL7A	b cell
+BCL9	b cell
+BCL10	b cell, lymphoid
+BCL11A	b cell, myeloid
+BCL11B	b cell
+BLK	b cell
+BLNK	b cell
+BOLA3	b cell
+BRCA1	b cell
+BRWD3	b cell
+BST1	b cell, neutrophil granulocyte
+BST2	b cell, neutrophil granulocyte
+BTBD1	b cell
+BTBD2	b cell
+BTG1	b cell
+BTK	b cell
+BTRC	b cell
+CA1	b cell, erythrocyte
+CA4	b cell, erythrocyte
+CA5A	b cell
+CA5B	b cell
+CA7	b cell
+CA9	b cell
+CA11	b cell
+CA14	b cell
+CALM1	b cell, megakaryocyte
+CARD11	b cell
+CBL	b cell, myeloid
+CBLB	b cell
+CCDC22	b cell
+CCHCR1	b cell
+CCL19	b cell, lymphoid
+CCL21	b cell, lymphoid, macrophage, neutrophil granulocyte
+CCNB2	b cell, cdc, conventional dendritic cell
+CCR6	b cell, dendritic cell, macrophage
+CD3D	b cell, lymphoid
+CD4	b cell, macrophage
+CD7	b cell, lymphoid
+CD19	b cell, lymphoid
+CD22	b cell, lymphoid
+CD24	b cell, progenitor
+CD27	b cell
+CD37	b cell
+CD40	b cell, lymphoid
+CD40LG	b cell, lymphoid
+CD70	b cell, natural killer cell
+CD79A	b cell
+CD79B	b cell
+CD180	b cell
+CD200	b cell, endothelial cells, lymphoid
+CD274	b cell, cytotoxic t cell
+CD320	b cell
+CDC6	b cell, cdc, conventional dendritic cell
+CDC14C	b cell, cdc, conventional dendritic cell
+CDS1	b cell
+CDS2	b cell
+CEP85	b cell
+CHST11	b cell
+CHST15	b cell
+CHUK	b cell
+CLDN23	b cell, endothelial cells
+CLECL1	b cell
+CLNK	b cell, mast cell
+CNOT7	b cell
+CRAT	b cell
+CSK	b cell
+CUL1	b cell
+CXCR5	b cell
+DAPP1	b cell
+DAXX	b cell
+DOCK2	b cell, megakaryocyte, neutrophil granulocyte
+DUSP2	b cell
+DUSP3	b cell
+DUSP4	b cell
+DUSP5	b cell
+DUSP6	b cell
+DUSP8	b cell
+DUSP9	b cell
+DUSP10	b cell
+DUSP11	b cell
+DUSP12	b cell
+EBF3	b cell
+EBF4	b cell
+FAIM	b cell
+FBXW11	b cell
+FCER2	b cell
+FCGR2B	b cell, lymphoid
+FCRL4	b cell
+FCRL5	b cell
+FCRLA	b cell
+FDCSP	b cell, dendritic cell
+FGFR1OP	b cell, fibroblasts
+FYN	b cell, megakaryocyte
+GAB2	b cell
+GBA2	b cell
+GCSAM	b cell
+GRB2	b cell
+HACE1	b cell
+HAO1	b cell
+HCK	b cell, lymphoid, myeloid, neutrophil granulocyte
+HIPK2	b cell
+HLA-DOA	b cell
+HMHB1	b cell
+HOOK1	b cell
+HOXB6	b cell, myeloid
+HRAS	b cell
+HVCN1	b cell, neutrophil granulocyte
+IBTK	b cell, macrophage, neutrophil granulocyte
+IFNB1	b cell, megakaryocyte
+IGBP1	b cell
+IGH	b cell
+IGHD	b cell
+IGHM	b cell
+IGHV1-2	b cell, lymphoid
+IGHV1-46	b cell, lymphoid
+IGHV1-69	b cell, lymphoid
+IGHV2-5	b cell, lymphoid
+IGHV2-70	b cell, lymphoid
+IGHV3-7	b cell, lymphoid
+IGHV3-11	b cell, lymphoid
+IGHV3-13	b cell, lymphoid
+IGHV3-23	b cell, lymphoid
+IGHV3-30	b cell, lymphoid
+IGHV3-33	b cell, lymphoid
+IGHV3-48	b cell, lymphoid
+IGHV3-53	b cell, lymphoid
+IGHV4-34	b cell, lymphoid
+IGHV4-39	b cell, lymphoid
+IGHV4-59	b cell, lymphoid
+IGKV1-5	b cell, lymphoid
+IGKV1-12	b cell, lymphoid
+IGKV1-16	b cell, lymphoid
+IGKV1-17	b cell, lymphoid
+IGKV1-33	b cell, lymphoid
+IGKV1-39	b cell, lymphoid
+IGKV1D-12	b cell, lymphoid
+IGKV1D-16	b cell, lymphoid
+IGKV1D-33	b cell, lymphoid
+IGKV1D-39	b cell, lymphoid
+IGKV2-28	b cell, lymphoid
+IGKV2-30	b cell, lymphoid
+IGKV2D-28	b cell, lymphoid
+IGKV2D-30	b cell, lymphoid
+IGKV2D-40	b cell, lymphoid
+IGKV3-11	b cell, lymphoid
+IGKV3-15	b cell, lymphoid
+IGKV3-20	b cell, lymphoid
+IGKV3D-20	b cell, lymphoid
+IGKV4-1	b cell, lymphoid
+IGKV5-2	b cell, lymphoid
+IGL	b cell
+IGLC2	b cell, lymphoid
+IGLC3	b cell, lymphoid
+IGLL1	b cell
+IGLV1-40	b cell, lymphoid
+IGLV1-44	b cell, lymphoid
+IGLV1-47	b cell, lymphoid
+IGLV1-51	b cell, lymphoid
+IGLV2-8	b cell, lymphoid
+IGLV2-11	b cell, lymphoid
+IGLV2-14	b cell, lymphoid
+IGLV2-23	b cell, lymphoid
+IGLV3-1	b cell, lymphoid
+IGLV3-19	b cell, lymphoid
+IGLV3-21	b cell, lymphoid
+IGLV3-25	b cell, lymphoid
+IGLV3-27	b cell, lymphoid
+IGLV6-57	b cell, lymphoid
+IGLV7-43	b cell, lymphoid
+IKBKB	b cell
+IKBKG	b cell
+IKZF1	b cell
+IL4I1	b cell
+IL5	b cell, eosinophil granulocyte
+IL6	b cell
+IL7	b cell, hepatocyte, isolated goblet cell of respiratory and digestive tract, lymphoid
+IL10	b cell, macrophage, monocyte
+IL11	b cell, hematopoietic stem cell, megakaryocyte, progenitor
+IL13	b cell, eosinophil granulocyte, macrophage
+IL21	b cell, cytotoxic t cell, macrophage, natural killer cell
+IL21R	b cell
+ITPR1	b cell
+ITPR2	b cell
+ITPR3	b cell
+KLHL6	b cell
+KRAS	b cell
+LAIR1	b cell, lymphoid, myeloid, natural killer cell, neutrophil granulocyte
+LASP1	b cell
+LILRA1	b cell, lymphoid
+LILRA2	b cell, dendritic cell, lymphoid, monocyte, natural killer cell
+LILRA3	b cell, dendritic cell, monocyte, natural killer cell
+LIME1	b cell
+LRBA	b cell, macrophage
+LRRC8A	b cell
+LRRC8E	b cell
+LTBP3	b cell
+LYN	b cell, erythrocyte, mast cell, megakaryocyte
+MALT1	b cell, lymphoid
+MAML2	b cell, progenitor
+MAP3K7	b cell
+MAP4K2	b cell, lymphoid
+MDFIC	b cell
+MKNK2	b cell
+MS4A1	b cell, lymphoid
+MSC	b cell
+N4BP2	b cell, progenitor
+NBEA	b cell
+NCK1	b cell
+NFAM1	b cell, neutrophil granulocyte
+NFKB2	b cell
+NFKBIA	b cell
+NFKBIB	b cell
+NFKBIE	b cell
+NLRP2	b cell
+NLRP4	b cell
+NOSTRIN	b cell
+NRAS	b cell, neutrophil granulocyte
+OAZ1	b cell
+OAZ2	b cell
+OCRL	b cell
+ORAI1	b cell
+ORAI2	b cell
+OTUD6B	b cell
+PAK5	b cell, cdc, conventional dendritic cell
+PASD1	b cell
+PAX5	b cell, plasmacytoid dc
+PBX1	b cell
+PBX2	b cell
+PBX4	b cell
+PCDHA@	b cell
+PCDHA1	b cell
+PCDHA2	b cell
+PCDHA3	b cell
+PCDHA4	b cell
+PCDHA5	b cell
+PCDHA6	b cell
+PCDHA7	b cell
+PCDHA8	b cell
+PCDHA9	b cell
+PCDHA10	b cell
+PCDHA11	b cell
+PCDHA12	b cell
+PCDHA13	b cell
+PCDHAC1	b cell
+PCDHAC2	b cell
+PCDHB1	b cell
+PCDHB2	b cell
+PCDHB3	b cell
+PCDHB4	b cell
+PCDHB5	b cell
+PCDHB6	b cell
+PCDHB7	b cell
+PCDHB8	b cell
+PCDHB9	b cell
+PCDHB10	b cell
+PCDHB11	b cell
+PCDHB12	b cell
+PCDHB13	b cell
+PCDHB14	b cell
+PCDHB15	b cell
+PCDHB16	b cell
+PCSK1	b cell, progenitor
+PCSK7	b cell, progenitor
+PDCD1	b cell
+PDCD2	b cell
+PDE6D	b cell
+PDZK1	b cell
+PEG10	b cell
+PICK1	b cell
+PIK3AP1	b cell
+PIK3CD	b cell
+PIK3R1	b cell
+PIR	b cell
+PLA2G6	b cell
+PLCG1	b cell, fibroblasts
+PLCG2	b cell
+PLD1	b cell, neutrophil granulocyte
+PLEC	b cell
+PNP	b cell, neutrophil granulocyte
+PPP1R1C	b cell
+PPP1R3D	b cell
+PPP2R3C	b cell
+PRDM10	b cell
+PREX2	b cell
+PRKAR2A	b cell, megakaryocyte
+PRKCB	b cell, endothelial cells, megakaryocyte, myeloid
+PRUNE2	b cell
+PSMA1	b cell, cdc, conventional dendritic cell, hematopoietic stem cell
+PSMA2	b cell, cdc, conventional dendritic cell, hematopoietic stem cell, neutrophil granulocyte
+PSMA3	b cell, cdc, conventional dendritic cell, hematopoietic stem cell
+PSMA4	b cell, cdc, conventional dendritic cell, hematopoietic stem cell
+PSMA5	b cell, cdc, conventional dendritic cell, hematopoietic stem cell, neutrophil granulocyte
+PSMA6	b cell, cdc, conventional dendritic cell, hematopoietic stem cell
+PSMA7	b cell, cdc, conventional dendritic cell, hematopoietic stem cell
+PSMA8	b cell, cdc, conventional dendritic cell, hematopoietic stem cell
+PSMB1	b cell, cdc, conventional dendritic cell, hematopoietic stem cell, neutrophil granulocyte
+PSMB2	b cell, cdc, conventional dendritic cell, hematopoietic stem cell
+PSMB3	b cell, cdc, conventional dendritic cell, hematopoietic stem cell
+PSMB4	b cell, cdc, conventional dendritic cell, hematopoietic stem cell
+PSMB5	b cell, cdc, conventional dendritic cell, hematopoietic stem cell
+PSMB6	b cell, cdc, conventional dendritic cell, hematopoietic stem cell
+PSMB7	b cell, cdc, conventional dendritic cell, hematopoietic stem cell, neutrophil granulocyte
+PSMB8	b cell, cdc, conventional dendritic cell, hematopoietic stem cell
+PSMB9	b cell, cdc, conventional dendritic cell, hematopoietic stem cell
+PSMB10	b cell, cdc, conventional dendritic cell, hematopoietic stem cell
+PSMB11	b cell, cdc, conventional dendritic cell, hematopoietic stem cell
+PSMC1	b cell, cdc, conventional dendritic cell, hematopoietic stem cell
+PSMC2	b cell, cdc, conventional dendritic cell, hematopoietic stem cell, neutrophil granulocyte
+PSMC3	b cell, cdc, conventional dendritic cell, hematopoietic stem cell, neutrophil granulocyte
+PSMC4	b cell, cdc, conventional dendritic cell, hematopoietic stem cell
+PSMC5	b cell, cdc, conventional dendritic cell, hematopoietic stem cell
+PSMC6	b cell, cdc, conventional dendritic cell, hematopoietic stem cell
+PSMD1	b cell, cdc, conventional dendritic cell, hematopoietic stem cell, neutrophil granulocyte
+PSMD2	b cell, cdc, conventional dendritic cell, hematopoietic stem cell, neutrophil granulocyte
+PSMD3	b cell, cdc, conventional dendritic cell, hematopoietic stem cell, neutrophil granulocyte
+PSMD4	b cell, cdc, conventional dendritic cell, hematopoietic stem cell
+PSMD5	b cell, cdc, conventional dendritic cell, hematopoietic stem cell
+PSMD6	b cell, cdc, conventional dendritic cell, hematopoietic stem cell, neutrophil granulocyte
+PSMD7	b cell, cdc, conventional dendritic cell, hematopoietic stem cell, neutrophil granulocyte
+PSMD8	b cell, cdc, conventional dendritic cell, hematopoietic stem cell
+PSMD9	b cell, cdc, conventional dendritic cell, hematopoietic stem cell
+PSMD10	b cell, cdc, conventional dendritic cell, hematopoietic stem cell
+PSMD11	b cell, cdc, conventional dendritic cell, hematopoietic stem cell, neutrophil granulocyte
+PSMD12	b cell, cdc, conventional dendritic cell, hematopoietic stem cell, neutrophil granulocyte
+PSMD13	b cell, cdc, conventional dendritic cell, hematopoietic stem cell, neutrophil granulocyte
+PSMD14	b cell, cdc, conventional dendritic cell, hematopoietic stem cell, neutrophil granulocyte
+PSME1	b cell, cdc, conventional dendritic cell, hematopoietic stem cell
+PSME2	b cell, cdc, conventional dendritic cell, hematopoietic stem cell
+PSME3	b cell, cdc, conventional dendritic cell, hematopoietic stem cell
+PSME4	b cell, cdc, conventional dendritic cell, hematopoietic stem cell
+PSMF1	b cell, cdc, conventional dendritic cell, hematopoietic stem cell
+PSPHP1	b cell, fibroblasts
+PTPN6	b cell, megakaryocyte, neutrophil granulocyte
+PTPRC	b cell, neutrophil granulocyte
+RASGRP1	b cell
+RASGRP3	b cell
+RCBTB1	b cell, lymphoid, smooth muscle cell
+REL	b cell
+RFX5	b cell
+RHOH	b cell
+RNF43	b cell
+ROR1	b cell
+RPS6KB1	b cell
+RPS27A	b cell, cdc, conventional dendritic cell, hematopoietic stem cell, progenitor
+SEM1	b cell, cdc, conventional dendritic cell, hematopoietic stem cell
+SH2B2	b cell, megakaryocyte
+SH2D1A	b cell, lymphoid
+SH3KBP1	b cell
+SHC1	b cell
+SIGLEC10	b cell, lymphoid
+SKP1	b cell
+SLA2	b cell
+SLAMF8	b cell, lymphoid
+SLC27A2	b cell, neutrophil granulocyte
+SLC30A6	b cell
+SMCP	b cell
+SORBS2	b cell
+SORT1	b cell
+SOS1	b cell
+SPANXA1	b cell
+SPANXA2	b cell
+SPANXB1	b cell
+SPANXC	b cell
+SPANXD	b cell
+SPATA18	b cell
+SSSCA1	b cell
+STAU1	b cell
+STAU2	b cell
+STIM1	b cell, fibroblasts
+SUMO4	b cell
+SYK	b cell
+TAF4B	b cell
+TCF3	b cell, hematopoietic stem cell, lymphoid
+TIGIT	b cell, dendritic cell, helper t cell
+TNFRSF4	b cell
+TNFRSF8	b cell
+TNFRSF13C	b cell
+TNFRSF17	b cell
+TNFSF8	b cell
+TNFSF13	b cell
+TNFSF13B	b cell
+TOB1	b cell
+TRIM5	b cell
+TRIM13	b cell
+TRNT1	b cell
+TRPC1	b cell
+UBA52	b cell, cdc, conventional dendritic cell, hematopoietic stem cell, progenitor
+UBB	b cell, cdc, conventional dendritic cell, hematopoietic stem cell, progenitor
+UBC	b cell, cdc, conventional dendritic cell, hematopoietic stem cell, progenitor
+VAMP3	b cell, megakaryocyte
+VAV1	b cell
+VPREB1	b cell
+VPREB3	b cell
+VPS28	b cell
+VRK2	b cell
+ZFAT-AS1	b cell
+BNC1	basal cell, theca interna cell of ovarian follicle secreting estrogen
+PTCH1	basal cell
+PTCH2	basal cell
+RASA1	basal cell
+ACSL6	basophil granulocyte, eosinophil granulocyte
+CCL2	basophil granulocyte, eosinophil granulocyte, monocyte, neutrophil granulocyte
+CCL5	basophil granulocyte, eosinophil granulocyte, monocyte
+CCL8	basophil granulocyte, eosinophil granulocyte, monocyte
+CCL13	basophil granulocyte, eosinophil granulocyte, monocyte, neutrophil granulocyte
+CCL26	basophil granulocyte, eosinophil granulocyte
+CCR3	basophil granulocyte, eosinophil granulocyte
+CLC	basophil granulocyte, eosinophil granulocyte, myeloid
+ENPP3	basophil granulocyte, mast cell
+IL33	basophil granulocyte, eosinophil granulocyte, mast cell, natural killer cell
+MS4A2	basophil granulocyte, lymphoid, mast cell
+PTGDR2	basophil granulocyte, eosinophil granulocyte
+SH3BP2	basophil granulocyte
+TPSAB1	basophil granulocyte, mast cell
+TPSB2	basophil granulocyte, mast cell
+TPSG1	basophil granulocyte, mast cell
+ABL1	cdc, conventional dendritic cell, hematopoietic stem cell, megakaryocyte, osteoblast
+ACAN	cdc, conventional dendritic cell
+ANAPC1	cdc, conventional dendritic cell
+ANAPC2	cdc, conventional dendritic cell
+ANAPC4	cdc, conventional dendritic cell
+ANAPC5	cdc, conventional dendritic cell
+ANAPC7	cdc, conventional dendritic cell
+ANAPC10	cdc, conventional dendritic cell
+ANAPC11	cdc, conventional dendritic cell
+ANAPC15	cdc, conventional dendritic cell
+ANAPC16	cdc, conventional dendritic cell
+ARHGAP17	cdc, conventional dendritic cell
+ARHGAP21	cdc, conventional dendritic cell
+ARHGAP26	cdc, conventional dendritic cell
+ARHGAP39	cdc, conventional dendritic cell
+ARHGEF9	cdc, conventional dendritic cell
+ATM	cdc, conventional dendritic cell
+AURKA	cdc, conventional dendritic cell
+AURKB	cdc, conventional dendritic cell
+BCAR3	cdc, conventional dendritic cell
+BNIPL	cdc, conventional dendritic cell
+BUB1B	cdc, conventional dendritic cell
+BUB3	cdc, conventional dendritic cell
+C7	cdc, conventional dendritic cell
+CCNA1	cdc, conventional dendritic cell
+CCNA2	cdc, conventional dendritic cell
+CCNB1	cdc, conventional dendritic cell
+CCNB3	cdc, conventional dendritic cell
+CCNE1	cdc, conventional dendritic cell
+CCNE2	cdc, conventional dendritic cell
+CCNH	cdc, conventional dendritic cell, hematopoietic stem cell
+CCNY	cdc, conventional dendritic cell
+CDC5L	cdc, conventional dendritic cell
+CDC14A	cdc, conventional dendritic cell
+CDC14B	cdc, conventional dendritic cell
+CDC16	cdc, conventional dendritic cell
+CDC20	cdc, conventional dendritic cell
+CDC23	cdc, conventional dendritic cell
+CDC25A	cdc, conventional dendritic cell
+CDC25B	cdc, conventional dendritic cell
+CDC25C	cdc, conventional dendritic cell
+CDC26	cdc, conventional dendritic cell
+CDC27	cdc, conventional dendritic cell
+CDC37	cdc, conventional dendritic cell
+CDC37L1	cdc, conventional dendritic cell, megakaryocyte
+CDC42	cdc, conventional dendritic cell, megakaryocyte
+CDC42BPA	cdc, conventional dendritic cell
+CDC42BPB	cdc, conventional dendritic cell
+CDC42EP1	cdc, conventional dendritic cell
+CDC42EP2	cdc, conventional dendritic cell
+CDC42EP3	cdc, conventional dendritic cell
+CDC42EP4	cdc, conventional dendritic cell, fibroblasts
+CDC42EP5	cdc, conventional dendritic cell, fibroblasts
+CDC45	cdc, conventional dendritic cell
+CDK1	cdc, conventional dendritic cell
+CDK2	cdc, conventional dendritic cell, megakaryocyte
+CDK7	cdc, conventional dendritic cell, hematopoietic stem cell
+CDK9	cdc, conventional dendritic cell
+CDK10	cdc, conventional dendritic cell
+CDK14	cdc, conventional dendritic cell
+CDK16	cdc, conventional dendritic cell
+CDK17	cdc, conventional dendritic cell
+CDKL1	cdc, conventional dendritic cell
+CDKL2	cdc, conventional dendritic cell
+CDKL3	cdc, conventional dendritic cell
+CDT1	cdc, conventional dendritic cell
+CETN3	cdc, conventional dendritic cell
+CHEK1	cdc, conventional dendritic cell
+CHEK2	cdc, conventional dendritic cell
+CHST6	cdc, conventional dendritic cell
+CLK1	cdc, conventional dendritic cell
+CLK4	cdc, conventional dendritic cell
+COMMD8	cdc, conventional dendritic cell
+CTNNBL1	cdc, conventional dendritic cell
+DEF6	cdc, conventional dendritic cell
+DOCK6	cdc, conventional dendritic cell, megakaryocyte
+DOCK7	cdc, conventional dendritic cell, megakaryocyte
+DUSP7	cdc, conventional dendritic cell
+E2F1	cdc, conventional dendritic cell
+E2F2	cdc, conventional dendritic cell
+E2F3	cdc, conventional dendritic cell
+FBXO5	cdc, conventional dendritic cell
+FGD1	cdc, conventional dendritic cell
+FGD2	cdc, conventional dendritic cell, dendritic cell, macrophage
+FGD4	cdc, conventional dendritic cell
+FMOD	cdc, conventional dendritic cell
+FNBP1	cdc, conventional dendritic cell
+FNBP1L	cdc, conventional dendritic cell
+FZR1	cdc, conventional dendritic cell
+GMIP	cdc, conventional dendritic cell
+GMNN	cdc, conventional dendritic cell
+ITSN1	cdc, conventional dendritic cell
+KERA	cdc, conventional dendritic cell
+LATS1	cdc, conventional dendritic cell
+LEO1	cdc, conventional dendritic cell
+LUM	cdc, conventional dendritic cell
+MAD2L1	cdc, conventional dendritic cell
+MAP3K11	cdc, conventional dendritic cell
+MAP4	cdc, conventional dendritic cell
+MAPK14	cdc, conventional dendritic cell, megakaryocyte, neutrophil granulocyte
+MCM2	cdc, conventional dendritic cell
+MCM3	cdc, conventional dendritic cell
+MCM4	cdc, conventional dendritic cell
+MCM5	cdc, conventional dendritic cell
+MCM6	cdc, conventional dendritic cell
+MCM8	cdc, conventional dendritic cell
+NEK2	cdc, conventional dendritic cell
+OGN	cdc, conventional dendritic cell, osteoblast
+OMD	cdc, conventional dendritic cell
+ORC1	cdc, conventional dendritic cell
+ORC2	cdc, conventional dendritic cell
+ORC3	cdc, conventional dendritic cell
+ORC4	cdc, conventional dendritic cell
+ORC5	cdc, conventional dendritic cell
+ORC6	cdc, conventional dendritic cell
+PAFAH1B3	cdc, conventional dendritic cell, megakaryocyte
+PAK1	cdc, conventional dendritic cell
+PAK2	cdc, conventional dendritic cell
+PAK3	cdc, conventional dendritic cell
+PAK4	cdc, conventional dendritic cell
+PAK6	cdc, conventional dendritic cell
+PARD6A	cdc, conventional dendritic cell
+PARD6B	cdc, conventional dendritic cell
+PIGU	cdc, conventional dendritic cell
+PLEKHG2	cdc, conventional dendritic cell
+PLK1	cdc, conventional dendritic cell
+PLRG1	cdc, conventional dendritic cell
+PPCDC	cdc, conventional dendritic cell
+PRELP	cdc, conventional dendritic cell
+PTTG1	cdc, conventional dendritic cell, fibroblasts
+RAC1	cdc, conventional dendritic cell, megakaryocyte, neutrophil granulocyte
+RASGRF1	cdc, conventional dendritic cell
+RBMS2	cdc, conventional dendritic cell
+RNF7	cdc, conventional dendritic cell
+ROBO1	cdc, conventional dendritic cell, progenitor
+SEPT7	cdc, conventional dendritic cell
+SGF29	cdc, conventional dendritic cell
+SKP2	cdc, conventional dendritic cell
+SLIT2	cdc, conventional dendritic cell
+SOHLH2	cdc, conventional dendritic cell
+SRGAP1	cdc, conventional dendritic cell
+SRGAP2	cdc, conventional dendritic cell
+SRGAP3	cdc, conventional dendritic cell
+STIL	cdc, conventional dendritic cell
+TBC1D1	cdc, conventional dendritic cell
+TBC1D3B	cdc, conventional dendritic cell
+TBC1D3C	cdc, conventional dendritic cell
+TBC1D4	cdc, conventional dendritic cell
+TBC1D8B	cdc, conventional dendritic cell
+TBC1D15	cdc, conventional dendritic cell
+TBCK	cdc, conventional dendritic cell
+TIAM1	cdc, conventional dendritic cell
+TNK2	cdc, conventional dendritic cell
+UBE2C	cdc, conventional dendritic cell
+UBE2D1	cdc, conventional dendritic cell
+UBE2E1	cdc, conventional dendritic cell
+UBE2M	cdc, conventional dendritic cell
+UBE2R2	cdc, conventional dendritic cell
+USP44	cdc, conventional dendritic cell
+WAS	cdc, conventional dendritic cell
+WASL	cdc, conventional dendritic cell
+WEE1	cdc, conventional dendritic cell, megakaryocyte
+YWHAB	cdc, conventional dendritic cell
+YWHAE	cdc, conventional dendritic cell
+CHAT	cholinergic neural cell
+HTR6	cholinergic neural cell
+SLC5A7	cholinergic neural cell
+SLC44A4	cholinergic neural cell
+CD68	connective tissue macrophage, macrophage, monocyte, neutrophil granulocyte
+CRYBA1	crystallin-containing lens fiber cell
+CRYBA2	crystallin-containing lens fiber cell
+CRYBA4	crystallin-containing lens fiber cell
+CRYBB1	crystallin-containing lens fiber cell
+CRYBB2	crystallin-containing lens fiber cell
+CRYBB3	crystallin-containing lens fiber cell
+CRYGA	crystallin-containing lens fiber cell
+CRYGB	crystallin-containing lens fiber cell
+CRYGD	crystallin-containing lens fiber cell
+CRYGS	crystallin-containing lens fiber cell
+AP1S3	cytotoxic t cell
+CTSW	cytotoxic t cell, megakaryocyte
+TNFSF9	cytotoxic t cell
+ACKR4	dendritic cell
+ADAM19	dendritic cell
+ADAMDEC1	dendritic cell
+CCL18	dendritic cell, macrophage, monocyte
+CCL22	dendritic cell, eosinophil granulocyte, monocyte, natural killer cell, neutrophil granulocyte
+CCL25	dendritic cell, macrophage, neutrophil granulocyte
+CCR7	dendritic cell, lymphoid
+CD48	dendritic cell, endothelial cells
+CD83	dendritic cell
+CD207	dendritic cell, epidermal langerhans cell
+CD209	dendritic cell, macrophage
+CLEC1A	dendritic cell
+CLEC4C	dendritic cell, neutrophil granulocyte
+CR1	dendritic cell, erythrocyte, kidney glomerulus podocyte, neutrophil granulocyte
+CXCL14	dendritic cell, macrophage, monocyte, neutrophil granulocyte
+CXCL17	dendritic cell, monocyte
+DCANP1	dendritic cell
+DCST1	dendritic cell
+DCSTAMP	dendritic cell, myeloid, osteoclast
+FLT3LG	dendritic cell, plasmacytoid dc
+HEBP1	dendritic cell, monocyte
+HLA-DMA	dendritic cell, macrophage
+HLA-DMB	dendritic cell, macrophage
+HLA-DOB	dendritic cell, macrophage
+HLA-DPA1	dendritic cell, macrophage
+HLA-DPB1	dendritic cell, macrophage
+HLA-DQA1	dendritic cell, macrophage
+HLA-DQA2	dendritic cell, macrophage
+HLA-DQB1	dendritic cell, macrophage
+HLA-DQB2	dendritic cell, macrophage
+HLA-DRA	dendritic cell, macrophage
+HLA-DRB1	dendritic cell, macrophage
+HLA-DRB3	dendritic cell, macrophage
+HLA-DRB4	dendritic cell, macrophage
+HLA-DRB5	dendritic cell, macrophage
+IDO1	dendritic cell, macrophage, monocyte
+LAMP3	dendritic cell, lymphoid
+LGMN	dendritic cell, monocyte
+LILRA4	dendritic cell, lymphoid, plasmacytoid dc
+NCAM1	dendritic cell
+TNFRSF11A	dendritic cell, osteoclast
+TSLP	dendritic cell, monocyte, myeloid
+UBD	dendritic cell
+ZBTB20	dendritic cell
+PRG4	elastic cartilage chondrocyte
+AAMP	endothelial cells, smooth muscle cell
+ACKR2	endothelial cells
+ADGRG6	endothelial cells
+AGGF1	endothelial cells
+AKAP12	endothelial cells, fibroblasts
+AMOT	endothelial cells
+AMOTL1	endothelial cells
+AMOTL2	endothelial cells
+ANGPT1	endothelial cells
+ANGPT2	endothelial cells
+ANGPT4	endothelial cells
+ANGPTL1	endothelial cells
+ANGPTL2	endothelial cells
+ANKRD1	endothelial cells, myocyte
+ANXA13	endothelial cells
+APOBR	endothelial cells, macrophage
+APOL3	endothelial cells
+APOLD1	endothelial cells
+CCM2	endothelial cells
+CCR4	endothelial cells
+CCR10	endothelial cells
+CD109	endothelial cells, megakaryocyte
+CD177	endothelial cells, megakaryocyte, neutrophil granulocyte
+CD226	endothelial cells, lymphoid, megakaryocyte, monocyte
+CDH13	endothelial cells
+CLDN1	endothelial cells
+CLDN3	endothelial cells
+CLDN5	endothelial cells
+CLDN6	endothelial cells
+CLDN7	endothelial cells, urinary epithelium cell
+CLDN8	endothelial cells
+CLDN9	endothelial cells
+CLDN10	endothelial cells
+CLDN11	endothelial cells, oligodendrocyte, sertoli cell in testis
+CLDN12	endothelial cells
+CLDN14	endothelial cells
+CLDN15	endothelial cells
+CLDN16	endothelial cells
+CLDN17	endothelial cells
+CLDN18	endothelial cells
+CLDN20	endothelial cells
+CLDN22	endothelial cells
+CLDN24	endothelial cells
+CLDN25	endothelial cells
+CLEC4M	endothelial cells
+CLEC14A	endothelial cells
+CLIC5	endothelial cells, kidney glomerulus podocyte
+COL8A1	endothelial cells
+COL8A2	endothelial cells
+COLEC12	endothelial cells, lymphoid
+CTGF	endothelial cells, megakaryocyte
+CXCL11	endothelial cells
+CXCR2	endothelial cells, neutrophil granulocyte, oligodendrocyte, progenitor
+CYR61	endothelial cells
+ECSCR	endothelial cells
+EDF1	endothelial cells, myocyte
+EDIL3	endothelial cells
+EDN3	endothelial cells, hematopoietic stem cell, progenitor
+EGFL7	endothelial cells
+EGR3	endothelial cells
+ENG	endothelial cells
+ERG	endothelial cells, megakaryocyte, myeloid
+ESM1	endothelial cells
+F11R	endothelial cells, megakaryocyte
+FBLN5	endothelial cells, smooth muscle cell
+FGF1	endothelial cells, fibroblasts
+FGF7	endothelial cells, fibroblasts
+FLT1	endothelial cells, monocyte
+FLT4	endothelial cells
+FLVCR2	endothelial cells
+GATA3	endothelial cells, hematopoietic stem cell, megakaryocyte
+GP1BA	endothelial cells, megakaryocyte
+GP1BB	endothelial cells, megakaryocyte, progenitor
+GPIHBP1	endothelial cells
+GRHL3	endothelial cells
+HECW2	endothelial cells
+HERC5	endothelial cells
+ICAM1	endothelial cells, lymphoid
+IGSF11	endothelial cells
+IL17D	endothelial cells
+IL17F	endothelial cells, monocyte
+ITGAM	endothelial cells, macrophage, monocyte, neutrophil granulocyte
+ITGAX	endothelial cells, monocyte, neutrophil granulocyte
+JAM2	endothelial cells, lymphoid
+JAM3	endothelial cells
+JCAD	endothelial cells
+KDR	endothelial cells
+KNDC1	endothelial cells
+LCP1	endothelial cells, fibroblasts
+LSP1	endothelial cells, macrophage, neutrophil granulocyte
+MADCAM1	endothelial cells, lymphoid, myeloid
+MALL	endothelial cells
+MAST1	endothelial cells
+MMRN1	endothelial cells, megakaryocyte
+NECTIN1	endothelial cells
+NTN4	endothelial cells
+NUCB2	endothelial cells
+OSM	endothelial cells, macrophage
+P2RX6	endothelial cells, megakaryocyte
+PECAM1	endothelial cells, megakaryocyte, monocyte, neutrophil granulocyte
+PHACTR1	endothelial cells
+PLS3	endothelial cells, fibroblasts
+PODXL	endothelial cells, kidney glomerulus podocyte
+PROK1	endothelial cells
+PTGIR	endothelial cells, megakaryocyte
+PTGS1	endothelial cells
+PTX3	endothelial cells, neutrophil granulocyte
+RCAN2	endothelial cells, fibroblasts
+REM1	endothelial cells
+RHOJ	endothelial cells
+S1PR1	endothelial cells
+S1PR3	endothelial cells
+SASH1	endothelial cells
+SCARF1	endothelial cells
+SCUBE1	endothelial cells, megakaryocyte
+SELE	endothelial cells
+SELL	endothelial cells, lymphoid, neutrophil granulocyte
+SELP	endothelial cells, megakaryocyte, monocyte, neutrophil granulocyte
+SEMA3F	endothelial cells
+SEMA3G	endothelial cells
+SEMA4A	endothelial cells, neuron retina horizontal cell
+SHROOM2	endothelial cells, neuron retina horizontal cell
+SLC7A14	endothelial cells, fibroblasts, neuron retina horizontal cell
+SMOC2	endothelial cells
+SPRY2	endothelial cells, fibroblasts
+STAB1	endothelial cells
+STAB2	endothelial cells
+THSD7A	endothelial cells
+TIMP2	endothelial cells, neutrophil granulocyte
+TJP2	endothelial cells
+TNFAIP1	endothelial cells
+TNFAIP2	endothelial cells
+TNFSF4	endothelial cells
+TNFSF12	endothelial cells
+TNFSF15	endothelial cells
+TNFSF18	endothelial cells
+TNIP2	endothelial cells
+TNMD	endothelial cells
+TYMP	endothelial cells
+VCAM1	endothelial cells, lymphoid
+VEGFA	endothelial cells, megakaryocyte
+VEGFB	endothelial cells, megakaryocyte
+VEGFC	endothelial cells, megakaryocyte
+VEGFD	endothelial cells, megakaryocyte
+CCL11	eosinophil granulocyte, neutrophil granulocyte
+CCL28	eosinophil granulocyte
+COLCA1	eosinophil granulocyte
+CYSLTR1	eosinophil granulocyte, smooth muscle cell
+EPX	eosinophil granulocyte, neutrophil granulocyte
+FAF2	eosinophil granulocyte, neutrophil granulocyte
+FCAR	eosinophil granulocyte, macrophage, monocyte, myeloid, neutrophil granulocyte
+FIP1L1	eosinophil granulocyte, megakaryocyte, progenitor
+PDE4DIP	eosinophil granulocyte
+PDGFRA	eosinophil granulocyte, megakaryocyte
+PDGFRB	eosinophil granulocyte, macrophage, megakaryocyte
+PRG2	eosinophil granulocyte, neutrophil granulocyte
+CRISP1	epididymal basal cell
+EDDM3A	epididymal basal cell
+EDDM3B	epididymal basal cell
+ACHE	erythrocyte
+ACTN1	erythrocyte, megakaryocyte
+ACYP1	erythrocyte
+ACYP2	erythrocyte
+ADD2	erythrocyte
+ADD3	erythrocyte
+AK1	erythrocyte
+ALAS1	erythrocyte
+ALAS2	erythrocyte
+AMPD3	erythrocyte, neutrophil granulocyte
+ANK1	erythrocyte
+AQP1	erythrocyte
+ART4	erythrocyte
+BCAM	erythrocyte
+BPGM	erythrocyte
+CA2	erythrocyte
+CD47	erythrocyte, neutrophil granulocyte
+CYB5R1	erythrocyte, megakaryocyte
+CYB5R2	erythrocyte, macrophage, neutrophil granulocyte
+CYB5R3	erythrocyte, neutrophil granulocyte
+CYB5R4	erythrocyte
+CYB5RL	erythrocyte
+DMTN	erythrocyte
+EDRF1	erythrocyte
+EPB41	erythrocyte
+EPB41L1	erythrocyte
+EPB42	erythrocyte
+EPO	erythrocyte
+EPOR	erythrocyte
+ERMAP	erythrocyte
+FERMT3	erythrocyte, megakaryocyte
+FLVCR1	erythrocyte
+FRMD3	erythrocyte
+FUT3	erythrocyte, progenitor
+GATA1	erythrocyte, hematopoietic stem cell, megakaryocyte
+GCNT2	erythrocyte
+GFI1B	erythrocyte, megakaryocyte
+GIF	erythrocyte
+GYPA	erythrocyte
+GYPB	erythrocyte
+GYPC	erythrocyte
+HBA1	erythrocyte
+HBA2	erythrocyte
+HBB	erythrocyte, megakaryocyte, neutrophil granulocyte
+HBQ1	erythrocyte
+HBS1L	erythrocyte, megakaryocyte, monocyte
+HNMT	erythrocyte
+ITCH	erythrocyte, hematopoietic stem cell, lymphoid
+ITPA	erythrocyte
+KLF1	erythrocyte
+MAFB	erythrocyte, myeloid
+MAFG	erythrocyte, megakaryocyte
+MAFK	erythrocyte, megakaryocyte
+MPP1	erythrocyte, neuron retina horizontal cell
+NFE2L1	erythrocyte
+NFE4	erythrocyte
+NRF1	erythrocyte
+RHAG	erythrocyte
+RHBG	erythrocyte
+RHCE	erythrocyte
+RHD	erythrocyte
+RPS19	erythrocyte, progenitor
+SEMA7A	erythrocyte
+SLC4A1	erythrocyte
+SLC14A1	erythrocyte
+SLC16A1	erythrocyte
+SMIM1	erythrocyte
+SPIC	erythrocyte, macrophage
+SPTA1	erythrocyte
+SPTB	erythrocyte
+STOM	erythrocyte, neutrophil granulocyte
+TFCP2	erythrocyte
+TFR2	erythrocyte, hepatocyte
+TMOD1	erythrocyte
+TRIM10	erythrocyte
+ZNF16	erythrocyte
+ADRA1B	fibroblasts
+AKT1	fibroblasts, megakaryocyte
+C19orf33	fibroblasts
+CASP5	fibroblasts
+CEP57	fibroblasts
+CFAP53	fibroblasts
+CLCN3	fibroblasts, smooth muscle cell
+CNTRL	fibroblasts
+COL16A1	fibroblasts
+CRKL	fibroblasts
+DCHS1	fibroblasts
+ELN	fibroblasts, monocyte
+EXOC2	fibroblasts
+FAP	fibroblasts
+FAS	fibroblasts
+FBRS	fibroblasts
+FGF2	fibroblasts
+FGF3	fibroblasts
+FGF4	fibroblasts
+FGF5	fibroblasts
+FGF6	fibroblasts
+FGF8	fibroblasts
+FGF9	fibroblasts
+FGF10	fibroblasts, progenitor
+FGF11	fibroblasts
+FGF12	fibroblasts
+FGF13	fibroblasts
+FGF14	fibroblasts
+FGF17	fibroblasts
+FGF18	fibroblasts
+FGF19	fibroblasts
+FGF20	fibroblasts
+FGF22	fibroblasts
+FGF23	fibroblasts
+FGFBP1	fibroblasts
+FGFBP2	fibroblasts
+FGFR1	fibroblasts
+FGFR2	fibroblasts
+FGFR3	fibroblasts
+FGFR4	fibroblasts
+FGFRL1	fibroblasts
+FIBP	fibroblasts
+FRS3	fibroblasts
+GALNT6	fibroblasts
+HAS1	fibroblasts
+HAS2	fibroblasts
+IL17RD	fibroblasts
+KIAA0556	fibroblasts
+LRIT3	fibroblasts
+MAGOH	fibroblasts
+MAPK6	fibroblasts
+MYT1L	fibroblasts
+NR4A1	fibroblasts
+PCDHGB4	fibroblasts
+PDAP1	fibroblasts, neutrophil granulocyte
+PRKAR1A	fibroblasts, megakaryocyte
+PRRX2	fibroblasts
+QSOX1	fibroblasts, megakaryocyte, neutrophil granulocyte
+RNF213	fibroblasts
+ROCK1	fibroblasts, megakaryocyte, neutrophil granulocyte
+RTTN	fibroblasts
+SGO1	fibroblasts
+ST3GAL5	fibroblasts
+TLN1	fibroblasts, megakaryocyte, osteoclast
+TLN2	fibroblasts, osteoclast
+TMEM107	fibroblasts
+TMEM138	fibroblasts
+TMEM165	fibroblasts
+UQCC1	fibroblasts
+WISP1	fibroblasts
+ZMYM2	fibroblasts
+ACRBP	gastric gland zymogenic cell, progenitor
+ATP6AP1	gastric gland zymogenic cell
+ATP6V1A	gastric gland zymogenic cell
+ATP6V1B1	gastric gland zymogenic cell
+ATP6V1B2	gastric gland zymogenic cell, osteoclast
+ATP6V1C1	gastric gland zymogenic cell
+ATP6V1C2	gastric gland zymogenic cell
+ATP6V1D	gastric gland zymogenic cell, neutrophil granulocyte
+ATP6V1E1	gastric gland zymogenic cell
+ATP6V1F	gastric gland zymogenic cell
+ATP6V1G1	gastric gland zymogenic cell
+ATP6V1G2	gastric gland zymogenic cell
+ATP6V1G3	gastric gland zymogenic cell
+ATP6V1H	gastric gland zymogenic cell
+ATP6V0A1	gastric gland zymogenic cell, neutrophil granulocyte
+ATP6V0A4	gastric gland zymogenic cell
+ATP6V0B	gastric gland zymogenic cell
+ATP6V0C	gastric gland zymogenic cell, neutrophil granulocyte
+ATP6V0D1	gastric gland zymogenic cell
+ATP6V0E1	gastric gland zymogenic cell
+CELA2A	gastric gland zymogenic cell
+CELA2B	gastric gland zymogenic cell
+CELA3A	gastric gland zymogenic cell
+CELA3B	gastric gland zymogenic cell
+CPA4	gastric gland zymogenic cell
+CTRL	gastric gland zymogenic cell
+DNASE1	gastric gland zymogenic cell
+F7	gastric gland zymogenic cell, progenitor
+F9	gastric gland zymogenic cell, progenitor
+F11	gastric gland zymogenic cell
+F12	gastric gland zymogenic cell
+F13A1	gastric gland zymogenic cell, megakaryocyte
+F13B	gastric gland zymogenic cell, megakaryocyte
+GP2	gastric gland zymogenic cell
+MASP1	gastric gland zymogenic cell
+NAPSA	gastric gland zymogenic cell
+PGC	gastric gland zymogenic cell
+PLG	gastric gland zymogenic cell, megakaryocyte
+SPINK1	gastric gland zymogenic cell, pancreatic acinar cell
+TCIRG1	gastric gland zymogenic cell, neutrophil granulocyte
+VMP1	gastric gland zymogenic cell
+IL1RL1	helper t cell
+IL27RA	helper t cell
+BAG2	hematopoietic stem cell
+BAG3	hematopoietic stem cell
+BAG4	hematopoietic stem cell
+BAG5	hematopoietic stem cell
+CBFB	hematopoietic stem cell, megakaryocyte, myeloid, osteoblast
+DNAJC13	hematopoietic stem cell, neutrophil granulocyte
+GATA2	hematopoietic stem cell, megakaryocyte
+H2AFB1	hematopoietic stem cell, megakaryocyte
+H2AFJ	hematopoietic stem cell, megakaryocyte
+H2AFV	hematopoietic stem cell, megakaryocyte
+H2AFX	hematopoietic stem cell, megakaryocyte
+H2AFZ	hematopoietic stem cell, megakaryocyte
+H2BFS	hematopoietic stem cell, megakaryocyte
+H3F3A	hematopoietic stem cell, megakaryocyte
+H3F3B	hematopoietic stem cell, megakaryocyte
+HIST1H2AB	hematopoietic stem cell, megakaryocyte
+HIST1H2AC	hematopoietic stem cell, megakaryocyte
+HIST1H2AD	hematopoietic stem cell, megakaryocyte
+HIST1H2AE	hematopoietic stem cell, megakaryocyte
+HIST1H2AJ	hematopoietic stem cell, megakaryocyte
+HIST1H2BA	hematopoietic stem cell, megakaryocyte
+HIST1H2BB	hematopoietic stem cell, megakaryocyte
+HIST1H2BC	hematopoietic stem cell, megakaryocyte
+HIST1H2BD	hematopoietic stem cell, megakaryocyte
+HIST1H2BE	hematopoietic stem cell, megakaryocyte
+HIST1H2BF	hematopoietic stem cell, megakaryocyte
+HIST1H2BG	hematopoietic stem cell, megakaryocyte
+HIST1H2BH	hematopoietic stem cell, megakaryocyte
+HIST1H2BI	hematopoietic stem cell, megakaryocyte
+HIST1H2BJ	hematopoietic stem cell, megakaryocyte
+HIST1H2BK	hematopoietic stem cell, megakaryocyte
+HIST1H2BL	hematopoietic stem cell, megakaryocyte
+HIST1H2BM	hematopoietic stem cell, megakaryocyte
+HIST1H2BN	hematopoietic stem cell, megakaryocyte
+HIST1H2BO	hematopoietic stem cell, megakaryocyte
+HIST1H3A	hematopoietic stem cell, megakaryocyte
+HIST1H3B	hematopoietic stem cell, megakaryocyte
+HIST1H3C	hematopoietic stem cell, megakaryocyte
+HIST1H3D	hematopoietic stem cell, megakaryocyte
+HIST1H3E	hematopoietic stem cell, megakaryocyte
+HIST1H3F	hematopoietic stem cell, megakaryocyte
+HIST1H3G	hematopoietic stem cell, megakaryocyte
+HIST1H3H	hematopoietic stem cell, megakaryocyte
+HIST1H3I	hematopoietic stem cell, megakaryocyte
+HIST1H3J	hematopoietic stem cell, megakaryocyte
+HIST1H4A	hematopoietic stem cell, megakaryocyte
+HIST1H4B	hematopoietic stem cell, megakaryocyte
+HIST1H4C	hematopoietic stem cell, megakaryocyte
+HIST1H4D	hematopoietic stem cell, megakaryocyte
+HIST1H4E	hematopoietic stem cell, megakaryocyte
+HIST1H4F	hematopoietic stem cell, megakaryocyte
+HIST1H4H	hematopoietic stem cell, megakaryocyte
+HIST1H4I	hematopoietic stem cell, megakaryocyte
+HIST1H4J	hematopoietic stem cell, megakaryocyte
+HIST1H4K	hematopoietic stem cell, megakaryocyte
+HIST1H4L	hematopoietic stem cell, megakaryocyte
+HIST2H2AA3	hematopoietic stem cell, megakaryocyte
+HIST2H2AA4	hematopoietic stem cell, megakaryocyte
+HIST2H2AC	hematopoietic stem cell, megakaryocyte
+HIST2H2BE	hematopoietic stem cell, megakaryocyte
+HIST2H3A	hematopoietic stem cell, megakaryocyte
+HIST2H3C	hematopoietic stem cell, megakaryocyte
+HIST2H3D	hematopoietic stem cell, megakaryocyte
+HIST2H4A	hematopoietic stem cell, megakaryocyte
+HIST2H4B	hematopoietic stem cell, megakaryocyte
+HIST3H2BB	hematopoietic stem cell, megakaryocyte
+HIST4H4	hematopoietic stem cell, megakaryocyte
+HSCB	hematopoietic stem cell
+HSPH1	hematopoietic stem cell
+KMT2A	hematopoietic stem cell, lymphoid, megakaryocyte, myeloid
+LDB1	hematopoietic stem cell
+LMO1	hematopoietic stem cell
+LMO2	hematopoietic stem cell
+MNAT1	hematopoietic stem cell
+MYB	hematopoietic stem cell, megakaryocyte
+NELFB	hematopoietic stem cell
+PIWIL1	hematopoietic stem cell
+RUNX1	hematopoietic stem cell, megakaryocyte, myeloid
+SPI1	hematopoietic stem cell, lymphoid, myeloid
+TAL1	hematopoietic stem cell
+TCF12	hematopoietic stem cell
+THY1	hematopoietic stem cell
+TP73	hematopoietic stem cell
+VPS72	hematopoietic stem cell
+WNT7A	hematopoietic stem cell
+YAP1	hematopoietic stem cell, osteoblast
+ZFX	hematopoietic stem cell
+ABCB4	hepatocyte
+ABCC2	hepatocyte
+AHSG	hepatocyte, megakaryocyte, neutrophil granulocyte
+CFHR4	hepatocyte
+CTNND2	hepatocyte
+FETUB	hepatocyte
+FOXA1	hepatocyte
+FOXA2	hepatocyte
+FOXA3	hepatocyte
+GATA5	hepatocyte, megakaryocyte, smooth muscle cell
+GPT2	hepatocyte
+HABP2	hepatocyte
+HAP1	hepatocyte
+HEPN1	hepatocyte
+HGF	hepatocyte, megakaryocyte
+HGFAC	hepatocyte, progenitor
+HNF1B	hepatocyte, progenitor
+HNF4A	hepatocyte
+ITIH1	hepatocyte
+MACC1	hepatocyte
+MET	hepatocyte
+ONECUT2	hepatocyte
+SLC10A1	hepatocyte
+SLCO1B1	hepatocyte
+SNX15	hepatocyte
+SPINT2	hepatocyte
+ST14	hepatocyte
+STAM	hepatocyte
+TNFSF14	hepatocyte, lymphoid
+TTPA	hepatocyte
+TCF7	innate lymphoid cell, lymphoid, natural killer cell
+COBL	intestinal brush border cell with microvilli
+DNAAF1	intestinal brush border cell with microvilli
+MYO7B	intestinal brush border cell with microvilli
+KRT20	isolated goblet cell of respiratory and digestive tract
+SLC26A3	isolated goblet cell of respiratory and digestive tract
+TFF3	isolated goblet cell of respiratory and digestive tract
+PRKG2	juxtaglomerular cell renin secretion
+AQP3	kidney collecting duct cell
+NPHS1	kidney glomerulus podocyte
+ARHGEF25	lens cells
+AMH	leydig cell of testes secreting testosterone
+LHCGR	leydig cell of testes secreting testosterone
+SLC12A1	loop of henle thin segment cell
+UMOD	loop of henle thin segment cell
+AFF1	lymphoid
+AFF3	lymphoid
+ARHGEF12	lymphoid, myeloid
+B2M	lymphoid, neutrophil granulocyte
+C3	lymphoid, neutrophil granulocyte
+CCR8	lymphoid, macrophage, monocyte
+CD1A	lymphoid
+CD1B	lymphoid
+CD1C	lymphoid
+CD1D	lymphoid
+CD3E	lymphoid
+CD3G	lymphoid
+CD8A	lymphoid
+CD8B	lymphoid
+CD33	lymphoid, neutrophil granulocyte
+CD34	lymphoid
+CD81	lymphoid
+CD96	lymphoid
+CD99	lymphoid
+CD160	lymphoid
+CD200R1	lymphoid, myeloid
+CD247	lymphoid
+CD300A	lymphoid, neutrophil granulocyte
+CD300C	lymphoid, monocyte, neutrophil granulocyte
+CD300E	lymphoid, myeloid
+CD300LB	lymphoid, myeloid
+CD300LD	lymphoid
+CD300LF	lymphoid
+CD300LG	lymphoid
+CDH1	lymphoid
+CLEC2B	lymphoid
+CLEC2D	lymphoid, natural killer cell, osteoclast
+CLEC4G	lymphoid
+COL1A1	lymphoid, megakaryocyte, osteoblast
+COL1A2	lymphoid, megakaryocyte
+COL2A1	lymphoid
+COL3A1	lymphoid
+COL17A1	lymphoid
+CRTAM	lymphoid
+CXADR	lymphoid
+ELF1	lymphoid
+FCGR1A	lymphoid
+FCGR3A	lymphoid, neutrophil granulocyte
+FIZ1	lymphoid, neuron retina horizontal cell
+GPR183	lymphoid
+HCST	lymphoid
+HELLS	lymphoid
+HLA-A	lymphoid
+HLA-B	lymphoid, neutrophil granulocyte
+HLA-C	lymphoid, neutrophil granulocyte
+HLA-F	lymphoid
+HLA-G	lymphoid
+HLF	lymphoid
+ICAM2	lymphoid
+ICAM3	lymphoid
+ICAM4	lymphoid
+ICAM5	lymphoid, microglial cell central nervous system
+IFITM1	lymphoid
+IKZF4	lymphoid
+IKZF5	lymphoid
+IRF7	lymphoid
+ITGA4	lymphoid
+ITGAL	lymphoid, neutrophil granulocyte
+ITGB1	lymphoid, megakaryocyte
+ITGB2	lymphoid, neutrophil granulocyte
+ITGB7	lymphoid
+JAML	lymphoid
+KIR2DL1	lymphoid, natural killer cell
+KIR2DL3	lymphoid, natural killer cell
+KIR2DL4	lymphoid, natural killer cell
+KIR3DL1	lymphoid, natural killer cell
+KIR3DL2	lymphoid, natural killer cell
+KLRB1	lymphoid
+KLRC1	lymphoid
+KLRD1	lymphoid
+KLRF1	lymphoid
+KLRG1	lymphoid
+KLRK1	lymphoid
+KMT2C	lymphoid, megakaryocyte, myeloid
+KMT2E	lymphoid, megakaryocyte, myeloid
+LAIR2	lymphoid, megakaryocyte
+LILRA5	lymphoid, monocyte
+LILRA6	lymphoid
+LILRB1	lymphoid
+LILRB2	lymphoid, neutrophil granulocyte
+LILRB3	lymphoid, neutrophil granulocyte
+LILRB4	lymphoid
+LILRB5	lymphoid
+LPXN	lymphoid
+LRMP	lymphoid, neutrophil granulocyte
+LTA	lymphoid
+LTB	lymphoid
+LTBR	lymphoid
+MICB	lymphoid
+MLLT11	lymphoid
+MRVI1	lymphoid, myeloid
+MS4A3	lymphoid, neutrophil granulocyte
+MS4A4A	lymphoid
+MS4A5	lymphoid
+MS4A6A	lymphoid
+MS4A6E	lymphoid
+MS4A7	lymphoid
+MS4A8	lymphoid
+MYDGF	lymphoid
+NCKIPSD	lymphoid, myeloid
+NCR1	lymphoid
+NCR2	lymphoid
+NCR3	lymphoid
+NCR3LG1	lymphoid
+NECTIN2	lymphoid
+NHLH1	lymphoid
+NPDC1	lymphoid
+OSCAR	lymphoid, monocyte, neutrophil granulocyte, osteoclast
+PBK	lymphoid
+PIANP	lymphoid
+PILRA	lymphoid
+PILRB	lymphoid
+PIM1	lymphoid, myeloid
+PTPN22	lymphoid
+PVR	lymphoid
+RAET1E	lymphoid
+RORC	lymphoid
+S1PR4	lymphoid
+SARNP	lymphoid, myeloid
+SFTPD	lymphoid
+SH2D1B	lymphoid
+SH3GL1	lymphoid, myeloid
+SIGLEC1	lymphoid, macrophage
+SIGLEC5	lymphoid, macrophage, monocyte, neutrophil granulocyte
+SIGLEC6	lymphoid
+SIGLEC7	lymphoid
+SIGLEC8	lymphoid
+SIGLEC9	lymphoid, neutrophil granulocyte
+SIGLEC11	lymphoid
+SIGLEC12	lymphoid, macrophage
+SLAMF6	lymphoid
+SLAMF7	lymphoid
+SPIB	lymphoid
+TCF7L1	lymphoid
+TLR10	lymphoid
+TRAV8-4	lymphoid
+TRAV19	lymphoid
+TRAV29DV5	lymphoid
+TRBV7-9	lymphoid
+TREM1	lymphoid, monocyte, myeloid, neutrophil granulocyte
+TREM2	lymphoid
+TREML1	lymphoid, megakaryocyte, myeloid
+TREML2	lymphoid
+TREML4	lymphoid
+TSN	lymphoid
+TYROBP	lymphoid, myeloid, neutrophil granulocyte
+ULBP1	lymphoid
+ULBP3	lymphoid
+ABCA2	macrophage
+ABCA6	macrophage
+ABCA9	macrophage, monocyte
+ABCG1	macrophage
+AIF1	macrophage, smooth muscle cell
+ANPEP	macrophage, neutrophil granulocyte
+APOC1	macrophage, monocyte
+AUH	macrophage
+BCL2A1	macrophage
+CCL3	macrophage
+CCL7	macrophage, monocyte
+CCR1	macrophage, monocyte, myeloid, progenitor
+CCR5	macrophage, monocyte
+CCRL2	macrophage, monocyte, neutrophil granulocyte
+CD14	macrophage, monocyte, neutrophil granulocyte
+CD74	macrophage, progenitor
+CD163	macrophage, monocyte
+CHI3L1	macrophage, neutrophil granulocyte
+CHIT1	macrophage, monocyte, neutrophil granulocyte
+CPM	macrophage, monocyte
+CSF1	macrophage, progenitor
+CSF1R	macrophage, myeloid
+CSF2	macrophage, myeloid
+CSF2RA	macrophage
+CTSS	macrophage, neutrophil granulocyte
+CXCL13	macrophage
+DGKG	macrophage
+FCGR2A	macrophage, neutrophil granulocyte
+FOLR2	macrophage
+GAB3	macrophage
+GAPDH	macrophage
+GCA	macrophage, neutrophil granulocyte
+GLIPR1	macrophage, neutrophil granulocyte
+GPBAR1	macrophage
+HAMP	macrophage
+HAVCR2	macrophage
+IFNA1	macrophage, megakaryocyte
+IL1A	macrophage, monocyte
+IL1B	macrophage
+IL12B	macrophage, natural killer cell
+IL32	macrophage
+IL34	macrophage, monocyte
+IRAK3	macrophage, monocyte
+LACC1	macrophage
+LGALS3BP	macrophage, megakaryocyte
+LITAF	macrophage, monocyte
+MAEA	macrophage
+MMD	macrophage, monocyte
+MRC1	macrophage
+MSR1	macrophage
+MST1R	macrophage, progenitor
+NR1H3	macrophage
+P2RX7	macrophage, megakaryocyte
+PADI2	macrophage, neutrophil granulocyte
+PADI4	macrophage
+PAM16	macrophage
+PRKCE	macrophage
+PRKX	macrophage
+SCARA3	macrophage
+SLC40A1	macrophage
+XCR1	macrophage
+ZC3H12B	macrophage
+CEL	mammary gland cell milk secretion
+CTSV	mammary gland cell milk secretion
+PPFIA1	mammary gland cell milk secretion
+PPFIA2	mammary gland cell milk secretion
+PPFIA3	mammary gland cell milk secretion
+PPFIBP1	mammary gland cell milk secretion
+PTHLH	mammary gland cell milk secretion
+STAT5B	mammary gland cell milk secretion
+TNNI2	mammary gland cell milk secretion
+UACA	mammary gland cell milk secretion
+UGP2	mammary gland cell milk secretion, progenitor
+C12orf4	mast cell
+CMA1	mast cell
+CPA3	mast cell
+HPGDS	mast cell, megakaryocyte
+HRH2	mast cell
+HRH3	mast cell
+HRH4	mast cell
+KIT	mast cell
+MCEMP1	mast cell, neutrophil granulocyte
+MYO1G	mast cell
+RASGRP4	mast cell, myeloid
+SCRN1	mast cell
+TMPRSS11D	mast cell
+A1BG	megakaryocyte, neutrophil granulocyte
+A2M	megakaryocyte
+ABCC4	megakaryocyte
+ACBD5	megakaryocyte
+ACTB	megakaryocyte
+ACTN2	megakaryocyte
+ACTN4	megakaryocyte
+AGO1	megakaryocyte
+AGO3	megakaryocyte
+AGO4	megakaryocyte
+AK3	megakaryocyte
+AKAP1	megakaryocyte
+AKAP10	megakaryocyte
+AKT3	megakaryocyte
+ALB	megakaryocyte
+ALDOA	megakaryocyte, neutrophil granulocyte
+ALOX12	megakaryocyte
+ANO6	megakaryocyte, neutrophil granulocyte
+ANXA5	megakaryocyte
+AP3B1	megakaryocyte
+AP3D1	megakaryocyte
+APLP2	megakaryocyte, progenitor
+APOA1	megakaryocyte
+APOB	megakaryocyte
+APOH	megakaryocyte
+APOOL	megakaryocyte
+APP	megakaryocyte, progenitor
+ASH2L	megakaryocyte
+AVPR1A	megakaryocyte
+BLOC1S1	megakaryocyte
+BLOC1S3	megakaryocyte
+BLOC1S4	megakaryocyte
+BLOC1S5	megakaryocyte
+BRPF3	megakaryocyte
+CABLES1	megakaryocyte
+CABLES2	megakaryocyte
+CALU	megakaryocyte
+CAP1	megakaryocyte, neutrophil granulocyte
+CAPZA1	megakaryocyte
+CAPZA2	megakaryocyte
+CAPZB	megakaryocyte
+CARMIL1	megakaryocyte
+CAST	megakaryocyte, progenitor
+CBX5	megakaryocyte
+CD9	megakaryocyte, oocyte
+CD63	megakaryocyte, neutrophil granulocyte
+CD69	megakaryocyte, natural killer cell
+CDK5	megakaryocyte
+CFL1	megakaryocyte
+CHID1	megakaryocyte
+CIB1	megakaryocyte
+CLEC3B	megakaryocyte
+CLK2	megakaryocyte
+CLNS1A	megakaryocyte
+CLU	megakaryocyte
+DCX	megakaryocyte
+DNM3	megakaryocyte
+DOCK1	megakaryocyte
+DOCK3	megakaryocyte
+DOCK4	megakaryocyte
+DOCK5	megakaryocyte
+DOCK8	megakaryocyte
+DOCK9	megakaryocyte
+DOCK10	megakaryocyte
+DOCK11	megakaryocyte
+DPY30	megakaryocyte, progenitor
+DTNBP1	megakaryocyte
+ECM1	megakaryocyte
+EGF	megakaryocyte
+EHD1	megakaryocyte
+EHD2	megakaryocyte
+EHD3	megakaryocyte
+ENDOD1	megakaryocyte
+F2	megakaryocyte, progenitor
+F5	megakaryocyte
+F8	megakaryocyte
+FAM3C	megakaryocyte
+FAM49B	megakaryocyte
+FBLN1	megakaryocyte
+FCER1G	megakaryocyte, neutrophil granulocyte
+FGA	megakaryocyte
+FGB	megakaryocyte
+FGG	megakaryocyte
+FGL1	megakaryocyte
+FGR	megakaryocyte, neutrophil granulocyte
+FLNA	megakaryocyte
+FLNB	megakaryocyte
+FN1	megakaryocyte
+FYB1	megakaryocyte
+GAS6	megakaryocyte, progenitor
+GATA4	megakaryocyte
+GATA6	megakaryocyte
+GNAQ	megakaryocyte
+GP5	megakaryocyte
+GP6	megakaryocyte
+GP9	megakaryocyte
+GTPBP2	megakaryocyte
+HABP4	megakaryocyte
+HBD	megakaryocyte
+HBE1	megakaryocyte
+HBG1	megakaryocyte
+HBG2	megakaryocyte
+HDAC1	megakaryocyte
+HDAC2	megakaryocyte
+HMG20B	megakaryocyte
+HPS1	megakaryocyte
+HPS3	megakaryocyte
+HPS4	megakaryocyte
+HPS5	megakaryocyte
+HPS6	megakaryocyte
+HRG	megakaryocyte
+HSPA5	megakaryocyte
+IFNA2	megakaryocyte
+IFNA4	megakaryocyte
+IFNA5	megakaryocyte
+IFNA6	megakaryocyte
+IFNA7	megakaryocyte
+IFNA8	megakaryocyte
+IFNA10	megakaryocyte
+IFNA13	megakaryocyte
+IFNA14	megakaryocyte
+IFNA16	megakaryocyte
+IFNA17	megakaryocyte
+IFNA21	megakaryocyte
+IGF1	megakaryocyte, progenitor
+IGF2	megakaryocyte
+IRF1	megakaryocyte
+IRF2	megakaryocyte
+ISLR	megakaryocyte
+ITGA1	megakaryocyte
+ITGA2	megakaryocyte
+ITGA2B	megakaryocyte
+ITGA10	megakaryocyte
+ITGB3	megakaryocyte
+ITIH3	megakaryocyte
+ITIH4	megakaryocyte
+ITPK1	megakaryocyte
+JAK2	megakaryocyte
+JMJD1C	megakaryocyte, myeloid
+KANK1	megakaryocyte
+KAT2B	megakaryocyte, progenitor
+KDM1A	megakaryocyte
+KMT2B	megakaryocyte
+KMT2D	megakaryocyte
+KNG1	megakaryocyte
+LAMP2	megakaryocyte, neutrophil granulocyte
+LCP2	megakaryocyte
+LEFTY2	megakaryocyte
+LHFPL2	megakaryocyte
+LIPH	megakaryocyte
+LPAR1	megakaryocyte
+LPCAT1	megakaryocyte, neutrophil granulocyte
+LPCAT2	megakaryocyte, progenitor
+LRP8	megakaryocyte
+LY6G6F	megakaryocyte
+MAFF	megakaryocyte
+MAGED2	megakaryocyte
+MANF	megakaryocyte
+MFN1	megakaryocyte
+MFN2	megakaryocyte, smooth muscle cell
+MICAL1	megakaryocyte, progenitor
+MIR27A	megakaryocyte, progenitor
+MOV10	megakaryocyte
+MPL	megakaryocyte
+MSLN	megakaryocyte
+MYL9	megakaryocyte
+NAPG	megakaryocyte
+NBEAL2	megakaryocyte, neutrophil granulocyte
+NFE2	megakaryocyte
+NHLRC2	megakaryocyte
+NR4A3	megakaryocyte
+OLA1	megakaryocyte
+ORM1	megakaryocyte, neutrophil granulocyte
+ORM2	megakaryocyte, neutrophil granulocyte
+P2RX1	megakaryocyte, neutrophil granulocyte
+P2RX2	megakaryocyte
+P2RX4	megakaryocyte
+P2RX5	megakaryocyte
+P2RY1	megakaryocyte
+P2RY12	megakaryocyte
+PABPC4	megakaryocyte
+PAFAH1B1	megakaryocyte
+PAFAH1B2	megakaryocyte, neutrophil granulocyte
+PAFAH2	megakaryocyte
+PCDH7	megakaryocyte
+PCYOX1L	megakaryocyte
+PDE3A	megakaryocyte
+PDGFA	megakaryocyte
+PDGFB	megakaryocyte
+PDGFC	megakaryocyte
+PDGFD	megakaryocyte
+PDGFRL	megakaryocyte
+PEAR1	megakaryocyte
+PF4	megakaryocyte
+PF4V1	megakaryocyte, neuron retina horizontal cell
+PFKM	megakaryocyte
+PFKP	megakaryocyte
+PFN1	megakaryocyte
+PHACTR2	megakaryocyte
+PHF21A	megakaryocyte
+PLA2G4A	megakaryocyte
+PLA2G7	megakaryocyte
+PLAU	megakaryocyte, neutrophil granulocyte
+PLCB2	megakaryocyte, taste receptor cell of taste bud
+PLEK	megakaryocyte
+PPBP	megakaryocyte, neutrophil granulocyte
+PPIA	megakaryocyte, neutrophil granulocyte
+PPP2CA	megakaryocyte
+PPP2CB	megakaryocyte
+PPP2R1A	megakaryocyte
+PPP2R1B	megakaryocyte
+PPP2R5A	megakaryocyte
+PPP2R5B	megakaryocyte
+PPP2R5C	megakaryocyte
+PPP2R5D	megakaryocyte
+PPP2R5E	megakaryocyte
+PRKACB	megakaryocyte
+PRKACG	megakaryocyte
+PRKAR1B	megakaryocyte
+PRKCA	megakaryocyte, myocyte
+PRKCG	megakaryocyte
+PRKCQ	megakaryocyte
+PRKG1	megakaryocyte, purkinje cells
+PRMT1	megakaryocyte
+PRMT6	megakaryocyte
+PROS1	megakaryocyte, progenitor
+PRR5	megakaryocyte
+PSAP	megakaryocyte, neutrophil granulocyte, progenitor
+PSG9	megakaryocyte
+PTAFR	megakaryocyte, neutrophil granulocyte
+PTGDS	megakaryocyte
+PTGIS	megakaryocyte
+PTPN11	megakaryocyte, myeloid
+RAB5A	megakaryocyte
+RAB27B	megakaryocyte
+RAD51B	megakaryocyte
+RAD51C	megakaryocyte
+RAP1B	megakaryocyte, neutrophil granulocyte
+RAP1GAP2	megakaryocyte
+RBBP5	megakaryocyte
+RBSN	megakaryocyte
+RCOR1	megakaryocyte
+SCCPDH	megakaryocyte
+SCG3	megakaryocyte, progenitor
+SELENOP	megakaryocyte
+SELPLG	megakaryocyte, myeloid
+SEPT5	megakaryocyte, myeloid
+SERPINA1	megakaryocyte, neutrophil granulocyte
+SERPINA3	megakaryocyte, neutrophil granulocyte
+SERPINA4	megakaryocyte
+SERPINB8	megakaryocyte
+SERPINE1	megakaryocyte
+SERPINF2	megakaryocyte
+SERPING1	megakaryocyte
+SETD1A	megakaryocyte
+SETD1B	megakaryocyte
+SH2B1	megakaryocyte
+SH2B3	megakaryocyte
+SIN3A	megakaryocyte
+SIN3B	megakaryocyte
+SLFN14	megakaryocyte
+SNAPIN	megakaryocyte
+SNX4	megakaryocyte
+SNX6	megakaryocyte
+SOD1	megakaryocyte
+SPARC	megakaryocyte
+SPECC1	megakaryocyte
+SPP2	megakaryocyte
+SRGN	megakaryocyte
+STXBP2	megakaryocyte, natural killer cell
+SYTL4	megakaryocyte
+TAGLN2	megakaryocyte
+TBXA2R	megakaryocyte
+TBXAS1	megakaryocyte
+TCF20	megakaryocyte
+TEX264	megakaryocyte
+TF	megakaryocyte
+TGFB2	megakaryocyte
+TGFB3	megakaryocyte
+THBS1	megakaryocyte
+THPO	megakaryocyte
+TIMP1	megakaryocyte
+TIMP3	megakaryocyte
+TIMP4	megakaryocyte
+TMSB4X	megakaryocyte
+TMX3	megakaryocyte, neuron retina horizontal cell
+TNRC6A	megakaryocyte
+TNRC6B	megakaryocyte
+TNRC6C	megakaryocyte
+TOR4A	megakaryocyte
+TP53	megakaryocyte
+TTN	megakaryocyte
+TUBA4A	megakaryocyte
+TUBB1	megakaryocyte
+UBASH3B	megakaryocyte
+VCL	megakaryocyte, neutrophil granulocyte
+VPS45	megakaryocyte
+VTI1B	megakaryocyte
+VWF	megakaryocyte
+WDR1	megakaryocyte
+WDR5	megakaryocyte
+WDR66	megakaryocyte
+WIPF2	megakaryocyte
+ZFPM1	megakaryocyte
+ZFPM2	megakaryocyte
+ADA2	monocyte, neutrophil granulocyte
+AZU1	monocyte, neutrophil granulocyte
+CCL1	monocyte, neutrophil granulocyte
+CCL14	monocyte
+CCL15	monocyte
+CCL16	monocyte, myeloid, neutrophil granulocyte, progenitor
+CCL17	monocyte
+CCL23	monocyte, neutrophil granulocyte, progenitor
+CCL24	monocyte, neutrophil granulocyte, progenitor
+CCR2	monocyte
+CKLF	monocyte, neutrophil granulocyte, skeletal muscle cell
+CLEC12A	monocyte, neutrophil granulocyte
+CXCL10	monocyte
+HHLA2	monocyte
+IL19	monocyte
+IL31RA	monocyte
+LBP	monocyte
+MNDA	monocyte, myeloid, neutrophil granulocyte
+NLRP12	monocyte
+NUP85	monocyte
+SPN	monocyte
+TNFRSF9	monocyte
+UBE2V2	monocyte
+AATK	myeloid, progenitor
+ABI1	myeloid
+ADGRE2	myeloid
+ADGRE3	myeloid, neutrophil granulocyte
+AFDN	myeloid
+ARL6IP1	myeloid, progenitor
+ASB2	myeloid
+ATG2B	myeloid
+BAALC	myeloid
+CBFA2T2	myeloid
+CBFA2T3	myeloid
+CCL20	myeloid, progenitor
+CD93	myeloid, neutrophil granulocyte
+CEBPZ	myeloid
+CHIC2	myeloid
+CLEC1B	myeloid
+CLEC9A	myeloid
+DDX10	myeloid
+FLT3	myeloid
+GPX3	myeloid
+HEPACAM2	myeloid
+HMSD	myeloid
+HOXA9	myeloid
+HOXB3	myeloid
+HOXB5	myeloid
+HUWE1	myeloid, neutrophil granulocyte
+IL10RA	myeloid, progenitor
+INPP5D	myeloid
+ITGAD	myeloid
+JARID2	myeloid
+KAT6A	myeloid
+KAT6B	myeloid
+LECT2	myeloid, neutrophil granulocyte, osteoblast
+LGALS3	myeloid, neutrophil granulocyte
+LIF	myeloid
+MLF1	myeloid
+MPO	myeloid, neutrophil granulocyte, progenitor
+MYH11	myeloid
+NCF4	myeloid, neutrophil granulocyte
+NMI	myeloid
+NPM1	myeloid
+NSD1	myeloid
+NUP214	myeloid
+PCM1	myeloid
+PICALM	myeloid
+PIK3CG	myeloid
+POU4F1	myeloid, neuron retina horizontal cell
+PRDM16	myeloid
+PSTPIP1	myeloid
+PVT1	myeloid
+RGS2	myeloid
+RNF130	myeloid, progenitor
+RPL22	myeloid
+RUNX1T1	myeloid
+RUNX2	myeloid, osteoblast
+SAMD9L	myeloid
+SCAND1	myeloid
+SEPT6	myeloid
+SP110	myeloid
+TRIB2	myeloid
+YTHDF2	myeloid
+ANK2	myocyte
+BMP10	myocyte
+BORCS8-MEF2B	myocyte
+CTF1	myocyte
+CXXC5	myocyte
+FBLIM1	myocyte
+FHOD3	myocyte
+HDAC5	myocyte
+IL6ST	myocyte
+MEF2D	myocyte
+MYLK3	myocyte
+MYZAP	myocyte
+PDLIM5	myocyte
+SLC2A4RG	myocyte
+SLC8A1	myocyte
+SNTA1	myocyte
+SPEG	myocyte
+TMEM43	myocyte
+ZC3H12A	myocyte
+CD53	natural killer cell, neutrophil granulocyte
+ELF4	natural killer cell
+GNLY	natural killer cell
+GZMA	natural killer cell
+IL12A	natural killer cell
+IL15	natural killer cell
+IL18	natural killer cell
+KIR2DL2	natural killer cell
+KIR2DL5A	natural killer cell
+KIR2DL5B	natural killer cell
+KIR2DS1	natural killer cell
+KIR2DS2	natural killer cell
+KIR2DS3	natural killer cell
+KIR2DS4	natural killer cell
+KIR2DS5	natural killer cell
+KIR3DL3	natural killer cell
+KIR3DP1	natural killer cell
+KIR3DS1	natural killer cell
+NKTR	natural killer cell
+TBX21	natural killer cell, progenitor
+OPN4	neuron amacrine cells, neuron retina horizontal cell
+MAG	neuron cells
+MTPN	neuron granule cells
+VSNL1	neuron granule cells
+ABCA4	neuron retina horizontal cell, photoreceptor blue-sensitive cone cell of eye, photoreceptor rod cells
+ADAMTS18	neuron retina horizontal cell
+AIPL1	neuron retina horizontal cell
+ALDH1A2	neuron retina horizontal cell
+ALDH1A3	neuron retina horizontal cell
+ALDH8A1	neuron retina horizontal cell
+AOC2	neuron retina horizontal cell
+ATOH7	neuron retina horizontal cell
+ATXN1	neuron retina horizontal cell
+ATXN7	neuron retina horizontal cell
+BBS5	neuron retina horizontal cell
+BBS7	neuron retina horizontal cell
+BCO1	neuron retina horizontal cell
+BEST1	neuron retina horizontal cell
+BEST2	neuron retina horizontal cell
+BHLHE23	neuron retina horizontal cell
+BTC	neuron retina horizontal cell
+C1QTNF5	neuron retina horizontal cell
+C8orf37	neuron retina horizontal cell
+CABP1	neuron retina horizontal cell
+CABP5	neuron retina horizontal cell
+CDHR1	neuron retina horizontal cell
+CEP41	neuron retina horizontal cell
+CEP78	neuron retina horizontal cell
+CEP104	neuron retina horizontal cell
+CHM	neuron retina horizontal cell
+CHML	neuron retina horizontal cell
+CHRDL1	neuron retina horizontal cell
+CLDN19	neuron retina horizontal cell
+CLRN1	neuron retina horizontal cell
+COL18A1	neuron retina horizontal cell
+CTC1	neuron retina horizontal cell
+CYGB	neuron retina horizontal cell
+CYP4V2	neuron retina horizontal cell, progenitor
+DGKI	neuron retina horizontal cell
+DHX30	neuron retina horizontal cell
+DRAM2	neuron retina horizontal cell
+EFEMP1	neuron retina horizontal cell
+ELOVL4	neuron retina horizontal cell, photoreceptor blue-sensitive cone cell of eye
+EYS	neuron retina horizontal cell
+FAM161A	neuron retina horizontal cell, progenitor
+FOXD1	neuron retina horizontal cell, progenitor
+GLRA4	neuron retina horizontal cell
+GNG13	neuron retina horizontal cell
+GRK7	neuron retina horizontal cell
+GUCA1A	neuron retina horizontal cell
+GUCY2D	neuron retina horizontal cell
+GUCY2F	neuron retina horizontal cell
+HPCA	neuron retina horizontal cell, photoreceptor blue-sensitive cone cell of eye
+HPCAL1	neuron retina horizontal cell
+IGFBP7	neuron retina horizontal cell
+IMPG1	neuron retina horizontal cell, photoreceptor blue-sensitive cone cell of eye
+INPP5E	neuron retina horizontal cell
+IRX5	neuron retina horizontal cell
+KCNJ13	neuron retina horizontal cell
+LDB2	neuron retina horizontal cell
+LRAT	neuron retina horizontal cell
+MDM1	neuron retina horizontal cell
+MERTK	neuron retina horizontal cell
+MIAT	neuron retina horizontal cell
+MPP4	neuron retina horizontal cell
+MPP5	neuron retina horizontal cell, schwann cell
+MTNR1B	neuron retina horizontal cell
+MYL5	neuron retina horizontal cell
+MYO3A	neuron retina horizontal cell
+MYO7A	neuron retina horizontal cell, outer hair cell of vestibular system of ear
+NAPEPLD	neuron retina horizontal cell
+NPHP1	neuron retina horizontal cell
+NR2E1	neuron retina horizontal cell
+NR2E3	neuron retina horizontal cell
+NRL	neuron retina horizontal cell
+NYX	neuron retina horizontal cell
+OCLM	neuron retina horizontal cell
+OPN3	neuron retina horizontal cell
+OPN5	neuron retina horizontal cell
+OPTC	neuron retina horizontal cell
+P3H2	neuron retina horizontal cell
+PCDH15	neuron retina horizontal cell
+PDC	neuron retina horizontal cell
+PDCL	neuron retina horizontal cell
+PDE6A	neuron retina horizontal cell
+PDE6H	neuron retina horizontal cell
+PITPNM1	neuron retina horizontal cell
+PITPNM2	neuron retina horizontal cell
+PLCB4	neuron retina horizontal cell
+POU4F2	neuron retina horizontal cell
+POU4F3	neuron retina horizontal cell
+PPEF1	neuron retina horizontal cell
+PPEF2	neuron retina horizontal cell
+PRCD	neuron retina horizontal cell
+PRPH2	neuron retina horizontal cell, photoreceptor blue-sensitive cone cell of eye, photoreceptor rod cells
+RAX	neuron retina horizontal cell
+RAX2	neuron retina horizontal cell, photoreceptor blue-sensitive cone cell of eye, photoreceptor rod cells
+RBP3	neuron retina horizontal cell, photoreceptor blue-sensitive cone cell of eye
+RCVRN	neuron retina horizontal cell
+RD3	neuron retina horizontal cell
+RDH5	neuron retina horizontal cell
+RDH8	neuron retina horizontal cell
+RDH10	neuron retina horizontal cell
+RDH11	neuron retina horizontal cell
+RDH12	neuron retina horizontal cell
+REEP6	neuron retina horizontal cell
+RGR	neuron retina horizontal cell, photoreceptor blue-sensitive cone cell of eye
+RGS9	neuron retina horizontal cell
+RGS9BP	neuron retina horizontal cell
+RHO	neuron retina horizontal cell
+RLBP1	neuron retina horizontal cell
+ROM1	neuron retina horizontal cell
+RP1	neuron retina horizontal cell
+RP1L1	neuron retina horizontal cell
+RP2	neuron retina horizontal cell
+RPE65	neuron retina horizontal cell
+RRH	neuron retina horizontal cell
+RS1	neuron retina horizontal cell
+RTBDN	neuron retina horizontal cell
+SAG	neuron retina horizontal cell
+SDCCAG8	neuron retina horizontal cell
+SDR16C5	neuron retina horizontal cell
+SFRP1	neuron retina horizontal cell, photoreceptor blue-sensitive cone cell of eye
+SFRP5	neuron retina horizontal cell, photoreceptor blue-sensitive cone cell of eye
+SLC24A1	neuron retina horizontal cell
+SLC24A2	neuron retina horizontal cell
+SPATA7	neuron retina horizontal cell
+TEAD1	neuron retina horizontal cell
+TECPR2	neuron retina horizontal cell
+TTC8	neuron retina horizontal cell
+TUG1	neuron retina horizontal cell
+UNC119	neuron retina horizontal cell
+USH2A	neuron retina horizontal cell
+VAX2	neuron retina horizontal cell
+VSX2	neuron retina horizontal cell
+WDR17	neuron retina horizontal cell
+ZNF408	neuron retina horizontal cell
+ZNF513	neuron retina horizontal cell
+ABCA13	neutrophil granulocyte
+ACAA1	neutrophil granulocyte
+ACLY	neutrophil granulocyte
+ACPP	neutrophil granulocyte, prostate gland cell secretes seminal fluid
+ACTR1B	neutrophil granulocyte
+ACTR2	neutrophil granulocyte
+ACTR10	neutrophil granulocyte
+ADAM8	neutrophil granulocyte
+ADAM10	neutrophil granulocyte
+ADGRE5	neutrophil granulocyte
+ADGRG3	neutrophil granulocyte
+ADORA3	neutrophil granulocyte
+AGA	neutrophil granulocyte
+AGL	neutrophil granulocyte
+ALAD	neutrophil granulocyte, progenitor
+ALDH3B1	neutrophil granulocyte
+ALDOC	neutrophil granulocyte, purkinje cells
+ALOX5	neutrophil granulocyte
+ANXA2	neutrophil granulocyte, osteoclast
+AOC1	neutrophil granulocyte
+AP1M1	neutrophil granulocyte
+AP2A2	neutrophil granulocyte
+APAF1	neutrophil granulocyte
+APEH	neutrophil granulocyte
+APRT	neutrophil granulocyte
+ARHGAP9	neutrophil granulocyte
+ARHGAP45	neutrophil granulocyte
+ARL8A	neutrophil granulocyte
+ARMC8	neutrophil granulocyte
+ARPC5	neutrophil granulocyte
+ARSA	neutrophil granulocyte
+ARSB	neutrophil granulocyte
+ASAH1	neutrophil granulocyte
+ATAD3B	neutrophil granulocyte
+ATP6AP2	neutrophil granulocyte
+ATP8A1	neutrophil granulocyte
+ATP8B4	neutrophil granulocyte
+ATP11A	neutrophil granulocyte
+ATP11B	neutrophil granulocyte
+B4GALT1	neutrophil granulocyte
+BIN2	neutrophil granulocyte
+BPI	neutrophil granulocyte
+BRI3	neutrophil granulocyte
+C1orf35	neutrophil granulocyte
+C3AR1	neutrophil granulocyte
+C5AR1	neutrophil granulocyte
+C6orf120	neutrophil granulocyte
+CAB39	neutrophil granulocyte
+CALML5	neutrophil granulocyte
+CAMK1D	neutrophil granulocyte
+CAMP	neutrophil granulocyte
+CANT1	neutrophil granulocyte
+CAPN1	neutrophil granulocyte
+CAT	neutrophil granulocyte
+CCT2	neutrophil granulocyte
+CCT8	neutrophil granulocyte
+CD44	neutrophil granulocyte
+CD55	neutrophil granulocyte
+CD58	neutrophil granulocyte
+CD59	neutrophil granulocyte
+CDA	neutrophil granulocyte
+CDK13	neutrophil granulocyte
+CEACAM1	neutrophil granulocyte
+CEACAM3	neutrophil granulocyte
+CEACAM6	neutrophil granulocyte
+CEACAM8	neutrophil granulocyte
+CEP290	neutrophil granulocyte
+CFP	neutrophil granulocyte
+CHRNB4	neutrophil granulocyte
+CKAP4	neutrophil granulocyte
+CLEC4D	neutrophil granulocyte
+CLEC5A	neutrophil granulocyte
+CMTM6	neutrophil granulocyte
+CNN2	neutrophil granulocyte
+COMMD3	neutrophil granulocyte
+COMMD9	neutrophil granulocyte
+COPB1	neutrophil granulocyte
+COTL1	neutrophil granulocyte
+CPNE1	neutrophil granulocyte
+CPNE3	neutrophil granulocyte
+CPPED1	neutrophil granulocyte
+CRACR2A	neutrophil granulocyte
+CREG1	neutrophil granulocyte
+CRISP3	neutrophil granulocyte
+CRISPLD2	neutrophil granulocyte
+CSNK2B	neutrophil granulocyte
+CST3	neutrophil granulocyte, smooth muscle cell
+CSTB	neutrophil granulocyte
+CTSA	neutrophil granulocyte
+CTSB	neutrophil granulocyte, progenitor
+CTSC	neutrophil granulocyte
+CTSD	neutrophil granulocyte
+CTSG	neutrophil granulocyte
+CTSH	neutrophil granulocyte, progenitor
+CTSL	neutrophil granulocyte, progenitor
+CTSZ	neutrophil granulocyte
+CXCL1	neutrophil granulocyte
+CXCL3	neutrophil granulocyte
+CXCL5	neutrophil granulocyte
+CXCL8	neutrophil granulocyte
+CXCL9	neutrophil granulocyte
+CXCR1	neutrophil granulocyte, oligodendrocyte, progenitor
+CYBA	neutrophil granulocyte
+CYBB	neutrophil granulocyte
+CYFIP1	neutrophil granulocyte
+CYSTM1	neutrophil granulocyte
+DBNL	neutrophil granulocyte
+DDOST	neutrophil granulocyte
+DDX3X	neutrophil granulocyte
+DEFA1	neutrophil granulocyte, urinary epithelium cell
+DEFA1B	neutrophil granulocyte, urinary epithelium cell
+DEFA3	neutrophil granulocyte, urinary epithelium cell
+DEFA4	neutrophil granulocyte, urinary epithelium cell
+DEFA5	neutrophil granulocyte, urinary epithelium cell
+DEFA6	neutrophil granulocyte, urinary epithelium cell
+DEFB1	neutrophil granulocyte
+DEFB4A	neutrophil granulocyte
+DEFB4B	neutrophil granulocyte
+DEFB103A	neutrophil granulocyte
+DEFB103B	neutrophil granulocyte
+DEFB104A	neutrophil granulocyte
+DEFB104B	neutrophil granulocyte
+DEFB105A	neutrophil granulocyte
+DEFB105B	neutrophil granulocyte
+DEFB106A	neutrophil granulocyte
+DEFB106B	neutrophil granulocyte
+DEFB107A	neutrophil granulocyte
+DEFB107B	neutrophil granulocyte
+DEFB108B	neutrophil granulocyte
+DEFB110	neutrophil granulocyte
+DEFB112	neutrophil granulocyte
+DEFB113	neutrophil granulocyte
+DEFB114	neutrophil granulocyte
+DEFB115	neutrophil granulocyte
+DEFB116	neutrophil granulocyte
+DEGS1	neutrophil granulocyte
+DERA	neutrophil granulocyte
+DGAT1	neutrophil granulocyte
+DNAJC3	neutrophil granulocyte
+DNAJC5	neutrophil granulocyte
+DNASE1L1	neutrophil granulocyte
+DOK3	neutrophil granulocyte
+DPP7	neutrophil granulocyte
+DSC1	neutrophil granulocyte
+DSG1	neutrophil granulocyte
+DSN1	neutrophil granulocyte
+DSP	neutrophil granulocyte
+DYNC1H1	neutrophil granulocyte
+DYNC1LI1	neutrophil granulocyte
+DYNLL1	neutrophil granulocyte
+DYNLT1	neutrophil granulocyte
+EEF1A1	neutrophil granulocyte
+EEF2	neutrophil granulocyte
+ELANE	neutrophil granulocyte
+ENPP4	neutrophil granulocyte
+ERP44	neutrophil granulocyte
+FABP5	neutrophil granulocyte
+FCGR3B	neutrophil granulocyte
+FCN1	neutrophil granulocyte
+FGL2	neutrophil granulocyte
+FLG2	neutrophil granulocyte
+FOLR3	neutrophil granulocyte
+FPR1	neutrophil granulocyte
+FPR2	neutrophil granulocyte
+FRK	neutrophil granulocyte
+FRMPD3	neutrophil granulocyte
+FTH1	neutrophil granulocyte
+FTL	neutrophil granulocyte
+FUCA1	neutrophil granulocyte
+FUCA2	neutrophil granulocyte
+GAA	neutrophil granulocyte
+GALNS	neutrophil granulocyte
+GDI2	neutrophil granulocyte
+GGH	neutrophil granulocyte
+GHDC	neutrophil granulocyte
+GLA	neutrophil granulocyte
+GLB1	neutrophil granulocyte
+GM2A	neutrophil granulocyte
+GMFG	neutrophil granulocyte
+GNS	neutrophil granulocyte
+GOLGA7	neutrophil granulocyte
+GPI	neutrophil granulocyte
+GPR84	neutrophil granulocyte
+GRN	neutrophil granulocyte, progenitor
+GSDMD	neutrophil granulocyte
+GSN	neutrophil granulocyte
+GSTP1	neutrophil granulocyte
+GUSB	neutrophil granulocyte
+GYG1	neutrophil granulocyte
+HEBP2	neutrophil granulocyte
+HEXB	neutrophil granulocyte
+HGSNAT	neutrophil granulocyte
+HK3	neutrophil granulocyte
+HMGB1	neutrophil granulocyte
+HMOX2	neutrophil granulocyte
+HP	neutrophil granulocyte
+HPSE	neutrophil granulocyte
+HRNR	neutrophil granulocyte
+HSP90AA1	neutrophil granulocyte
+HSP90AB1	neutrophil granulocyte
+HSPA1A	neutrophil granulocyte
+HSPA1B	neutrophil granulocyte
+HSPA6	neutrophil granulocyte
+HSPA8	neutrophil granulocyte
+IDH1	neutrophil granulocyte
+IGF2R	neutrophil granulocyte
+IL17RA	neutrophil granulocyte, progenitor
+ILF2	neutrophil granulocyte
+IMPDH1	neutrophil granulocyte
+IMPDH2	neutrophil granulocyte
+IQGAP1	neutrophil granulocyte
+IQGAP2	neutrophil granulocyte
+ISG15	neutrophil granulocyte
+IST1	neutrophil granulocyte
+ITGAV	neutrophil granulocyte
+JAGN1	neutrophil granulocyte
+JUP	neutrophil granulocyte
+KCMF1	neutrophil granulocyte
+KCNAB2	neutrophil granulocyte
+KPNB1	neutrophil granulocyte
+KRT1	neutrophil granulocyte, wet stratified barrier epithelial cells
+LAMP1	neutrophil granulocyte
+LAMTOR1	neutrophil granulocyte
+LAMTOR2	neutrophil granulocyte
+LAMTOR3	neutrophil granulocyte
+LCN2	neutrophil granulocyte
+LRG1	neutrophil granulocyte
+LRRC7	neutrophil granulocyte
+LTA4H	neutrophil granulocyte
+LTF	neutrophil granulocyte
+LYZ	neutrophil granulocyte
+MAGT1	neutrophil granulocyte
+MAN2B1	neutrophil granulocyte
+MANBA	neutrophil granulocyte
+MAPK1	neutrophil granulocyte, osteoblast
+METTL7A	neutrophil granulocyte
+MGAM	neutrophil granulocyte
+MGST1	neutrophil granulocyte
+MLEC	neutrophil granulocyte
+MME	neutrophil granulocyte
+MMP8	neutrophil granulocyte
+MMP9	neutrophil granulocyte, progenitor
+MMP25	neutrophil granulocyte
+MOSPD2	neutrophil granulocyte
+MVP	neutrophil granulocyte
+NAPRT	neutrophil granulocyte
+NCF1	neutrophil granulocyte
+NCF1C	neutrophil granulocyte
+NCF2	neutrophil granulocyte
+NCKAP1L	neutrophil granulocyte
+NCSTN	neutrophil granulocyte, progenitor
+NDUFC2	neutrophil granulocyte
+NEU1	neutrophil granulocyte
+NFASC	neutrophil granulocyte
+NHLRC3	neutrophil granulocyte
+NIT2	neutrophil granulocyte
+NME2	neutrophil granulocyte
+NPC2	neutrophil granulocyte
+OLFM4	neutrophil granulocyte
+OLR1	neutrophil granulocyte
+ORMDL3	neutrophil granulocyte
+OSTF1	neutrophil granulocyte, osteoclast
+PA2G4	neutrophil granulocyte
+PDXK	neutrophil granulocyte
+PFKL	neutrophil granulocyte
+PGAM1	neutrophil granulocyte
+PGLYRP1	neutrophil granulocyte
+PGM1	neutrophil granulocyte
+PGM2	neutrophil granulocyte
+PGRMC1	neutrophil granulocyte
+PIGR	neutrophil granulocyte
+PIK3CB	neutrophil granulocyte
+PKM	neutrophil granulocyte
+PKP1	neutrophil granulocyte
+PLAC8	neutrophil granulocyte
+PLAUR	neutrophil granulocyte
+PLEKHO2	neutrophil granulocyte
+PPIE	neutrophil granulocyte
+PRCP	neutrophil granulocyte
+PRDX4	neutrophil granulocyte
+PRDX6	neutrophil granulocyte
+PRG3	neutrophil granulocyte
+PRKCD	neutrophil granulocyte
+PRSS2	neutrophil granulocyte
+PRSS3	neutrophil granulocyte
+PRSS57	neutrophil granulocyte
+PRTN3	neutrophil granulocyte
+PSEN1	neutrophil granulocyte, progenitor
+PTGES2	neutrophil granulocyte
+PTPRB	neutrophil granulocyte
+PTPRJ	neutrophil granulocyte
+PTPRN2	neutrophil granulocyte
+PYCARD	neutrophil granulocyte
+PYGB	neutrophil granulocyte
+PYGL	neutrophil granulocyte
+RAB3A	neutrophil granulocyte
+RAB3D	neutrophil granulocyte
+RAB4B	neutrophil granulocyte
+RAB5B	neutrophil granulocyte
+RAB5C	neutrophil granulocyte
+RAB6A	neutrophil granulocyte
+RAB7A	neutrophil granulocyte
+RAB9B	neutrophil granulocyte
+RAB10	neutrophil granulocyte
+RAB14	neutrophil granulocyte
+RAB18	neutrophil granulocyte
+RAB24	neutrophil granulocyte
+RAB27A	neutrophil granulocyte
+RAB31	neutrophil granulocyte
+RAB37	neutrophil granulocyte
+RAB44	neutrophil granulocyte
+RAC2	neutrophil granulocyte
+RAP1A	neutrophil granulocyte
+RAP2B	neutrophil granulocyte
+RAP2C	neutrophil granulocyte
+RHOA	neutrophil granulocyte
+RHOF	neutrophil granulocyte
+RHOG	neutrophil granulocyte
+RIPOR2	neutrophil granulocyte
+RNASE2	neutrophil granulocyte
+RNASE3	neutrophil granulocyte
+RNASET2	neutrophil granulocyte
+S100A7	neutrophil granulocyte
+S100A8	neutrophil granulocyte
+S100A9	neutrophil granulocyte
+S100A11	neutrophil granulocyte
+S100A12	neutrophil granulocyte
+S100P	neutrophil granulocyte
+SCAMP1	neutrophil granulocyte
+SDCBP	neutrophil granulocyte
+SERPINB1	neutrophil granulocyte
+SERPINB3	neutrophil granulocyte
+SERPINB10	neutrophil granulocyte
+SERPINB12	neutrophil granulocyte
+SIGLEC14	neutrophil granulocyte
+SIRPA	neutrophil granulocyte
+SIRPB1	neutrophil granulocyte
+SLC2A3	neutrophil granulocyte
+SLC2A5	neutrophil granulocyte
+SLC11A1	neutrophil granulocyte
+SLC15A4	neutrophil granulocyte
+SLC44A2	neutrophil granulocyte
+SLCO4C1	neutrophil granulocyte
+SLPI	neutrophil granulocyte
+SNAP23	neutrophil granulocyte
+SNAP25	neutrophil granulocyte
+SNAP29	neutrophil granulocyte
+SPTAN1	neutrophil granulocyte
+SRP14	neutrophil granulocyte
+STBD1	neutrophil granulocyte
+STK10	neutrophil granulocyte
+STK11IP	neutrophil granulocyte
+SURF4	neutrophil granulocyte
+SVIP	neutrophil granulocyte
+SYNGR1	neutrophil granulocyte
+TARM1	neutrophil granulocyte
+TBC1D10C	neutrophil granulocyte
+TCN1	neutrophil granulocyte
+TICAM2	neutrophil granulocyte
+TLR2	neutrophil granulocyte
+TMBIM1	neutrophil granulocyte
+TMC6	neutrophil granulocyte
+TMEM30A	neutrophil granulocyte
+TMEM63A	neutrophil granulocyte
+TMEM173	neutrophil granulocyte
+TMEM179B	neutrophil granulocyte
+TNFAIP6	neutrophil granulocyte
+TNFRSF1B	neutrophil granulocyte
+TOLLIP	neutrophil granulocyte
+TOM1	neutrophil granulocyte
+TRAPPC1	neutrophil granulocyte
+TRPM2	neutrophil granulocyte
+TSPAN14	neutrophil granulocyte
+TTR	neutrophil granulocyte
+TUBB	neutrophil granulocyte
+TUBB4B	neutrophil granulocyte
+TXNDC5	neutrophil granulocyte
+UBR4	neutrophil granulocyte
+UNC13D	neutrophil granulocyte
+VAMP8	neutrophil granulocyte
+VAPA	neutrophil granulocyte
+VAT1	neutrophil granulocyte
+VCP	neutrophil granulocyte
+VNN1	neutrophil granulocyte, progenitor
+VNN2	neutrophil granulocyte
+VPS35L	neutrophil granulocyte
+XRCC5	neutrophil granulocyte
+XRCC6	neutrophil granulocyte
+YPEL5	neutrophil granulocyte
+DSPP	odontoblast, odontocyte
+OMP	olfactory receptor neuron
+CNTF	oligodendrocyte
+DUSP15	oligodendrocyte
+MBP	oligodendrocyte, schwann cell
+MOG	oligodendrocyte
+MYRF	oligodendrocyte
+PLP1	oligodendrocyte
+QKI	oligodendrocyte
+RTN4R	oligodendrocyte
+BCAR4	oocyte
+BMP15	oocyte
+CD46	oocyte
+DAZL	oocyte, spermatid, spermatogonium cell
+EREG	oocyte
+FIGLA	oocyte
+H1FOO	oocyte
+IZUMO1	oocyte
+IZUMO2	oocyte
+IZUMO3	oocyte
+IZUMO4	oocyte
+KHDC3L	oocyte
+MOB4	oocyte
+NLRP5	oocyte
+NLRP8	oocyte
+NOBOX	oocyte
+OVGP1	oocyte
+PANX1	oocyte
+PANX2	oocyte
+PARN	oocyte
+REC8	oocyte, spermatocyte
+SPA17	oocyte
+SPAM1	oocyte
+TP63	oocyte, progenitor
+TRX-CAT2-1	oocyte
+TUBB8	oocyte
+WBP2NL	oocyte
+ZAR1	oocyte
+ZAR1L	oocyte
+ZP1	oocyte
+ZP2	oocyte
+ZP3	oocyte
+ZP4	oocyte
+AR	osteoblast
+BBS9	osteoblast
+BGLAP	osteoblast, progenitor
+BMP2K	osteoblast
+BMP3	osteoblast
+BMPER	osteoblast
+CDH11	osteoblast
+CHRDL2	osteoblast
+CRTAC1	osteoblast, stem cell of osteoblasts
+CTDSP1	osteoblast
+DMP1	osteoblast
+EBF2	osteoblast
+ESRRG	osteoblast
+FIGNL1	osteoblast
+GDPD2	osteoblast
+GLI3	osteoblast
+GPM6B	osteoblast
+HDAC6	osteoblast
+HES1	osteoblast, progenitor
+HEY1	osteoblast
+HEY2	osteoblast
+IBSP	osteoblast, osteoclast, osteocyte
+MAF	osteoblast
+MAPK3	osteoblast
+MIR2861	osteoblast
+RB1	osteoblast
+SATB2	osteoblast
+SP7	osteoblast
+SRC	osteoblast
+THNSL2	osteoblast
+TNFRSF11B	osteoblast, osteoclast
+TWIST2	osteoblast
+UCMA	osteoblast
+WWTR1	osteoblast
+YES1	osteoblast
+ZNF521	osteoblast
+CALCR	osteoclast
+CTSK	osteoclast
+DNM2	osteoclast
+OCSTAMP	osteoclast
+PLEKHM1	osteoclast
+PTPRO	osteoclast
+SPP1	osteoclast
+TAB2	osteoclast
+TFEC	osteoclast
+TNFSF11	osteoclast
+ABR	outer hair cell of vestibular system of ear
+EML1	outer hair cell of vestibular system of ear
+ESPN	outer hair cell of vestibular system of ear, sensory transducer cells
+HMX2	outer hair cell of vestibular system of ear
+LHFPL5	outer hair cell of vestibular system of ear
+LRTOMT	outer hair cell of vestibular system of ear
+OTOG	outer hair cell of vestibular system of ear
+OTOL1	outer hair cell of vestibular system of ear
+GPR149	ovarian follicle cell, theca interna cell of ovarian follicle secreting estrogen
+CLPS	pancreatic acinar cell
+PLA2G1B	pancreatic acinar cell
+PPY	pancreatic islets of langerhans alpha cells secreting glucagon
+SLC30A8	pancreatic islets of langerhans alpha cells secreting glucagon
+CERKL	photoreceptor blue-sensitive cone cell of eye, photoreceptor rod cells
+CIB2	photoreceptor blue-sensitive cone cell of eye
+CRX	photoreceptor blue-sensitive cone cell of eye, photoreceptor rod cells
+IQCB1	photoreceptor blue-sensitive cone cell of eye
+RPGRIP1	photoreceptor blue-sensitive cone cell of eye, photoreceptor rod cells
+AADAT	progenitor
+ABCB7	progenitor
+ACADSB	progenitor
+ACER2	progenitor
+ACR	progenitor, spermatid
+ADAM17	progenitor
+AGT	progenitor
+AIMP1	progenitor
+AKAP17A	progenitor
+ALG1	progenitor
+ALG2	progenitor
+ALG3	progenitor
+ALG6	progenitor
+ALG8	progenitor
+ALG9	progenitor
+ALG10	progenitor
+ALG10B	progenitor
+ALG11	progenitor
+ALG12	progenitor
+ALG13	progenitor
+ALG14	progenitor
+AMBP	progenitor
+APBA1	progenitor
+APBA2	progenitor
+APBA3	progenitor
+APBB1	progenitor
+APBB2	progenitor
+APBB3	progenitor
+APH1A	progenitor
+APH1B	progenitor
+APLP1	progenitor
+APPBP2	progenitor
+ASCL2	progenitor
+ATP5MC2	progenitor
+BACE1	progenitor
+BACE2	progenitor
+BCDIN3D	progenitor
+BOC	progenitor
+C1GALT1	progenitor
+C4A	progenitor
+C4B	progenitor
+C4B_2	progenitor
+C8B	progenitor
+CALCA	progenitor
+CALHM1	progenitor
+CASP1	progenitor
+CASP3	progenitor
+CASP4	progenitor
+CASP7	progenitor
+CBLN1	progenitor, purkinje cells
+CD164	progenitor
+CDON	progenitor
+CEBPE	progenitor
+CEP120	progenitor
+CES5A	progenitor
+CHGA	progenitor
+CHGB	progenitor
+CILP	progenitor
+CKAP2L	progenitor
+CLCA1	progenitor
+CLEC11A	progenitor
+CLSTN1	progenitor
+CNMD	progenitor
+CPOX	progenitor
+CRLF2	progenitor
+CSTA	progenitor
+CTPS2	progenitor
+CTRB1	progenitor
+CTSF	progenitor
+CXCL2	progenitor
+DALRD3	progenitor
+DHH	progenitor
+DHPS	progenitor
+DMBT1	progenitor
+DNAJC21	progenitor
+DOK2	progenitor
+DPAGT1	progenitor
+DROSHA	progenitor
+DUOXA1	progenitor
+DUT	progenitor
+ECE1	progenitor
+EFTUD2	progenitor
+ELAC2	progenitor
+ELOVL3	progenitor
+ERAP1	progenitor
+F3	progenitor
+F10	progenitor
+FLG	progenitor
+FNDC5	progenitor
+FST	progenitor, theca interna cell of ovarian follicle secreting estrogen
+FURIN	progenitor
+FUT1	progenitor
+FUT2	progenitor
+FUT9	progenitor
+GALE	progenitor
+GATM	progenitor
+GGCX	progenitor
+GGT1	progenitor
+GGTLC3	progenitor
+GNE	progenitor
+GPNMB	progenitor
+GSAP	progenitor
+GSTA3	progenitor
+HCRT	progenitor
+HNRNPL	progenitor
+HOMER3	progenitor
+HOXB4	progenitor
+IDI2	progenitor
+IGF1R	progenitor
+IGFL1	progenitor
+IMPA1	progenitor
+INS	progenitor
+INSL4	progenitor
+INSM1	progenitor
+ITM2B	progenitor
+KAT2A	progenitor
+KIF1B	progenitor
+KLK6	progenitor
+KLK14	progenitor
+LBX1	progenitor
+LHX5	progenitor
+LPCAT4	progenitor
+LPGAT1	progenitor
+LPIN3	progenitor
+LRP1	progenitor
+MALAT1	progenitor
+MAML1	progenitor
+MAML3	progenitor
+MAMLD1	progenitor
+MAP1A	progenitor
+MAP1B	progenitor
+MBTPS1	progenitor
+MIR1-1	progenitor
+MIR1-2	progenitor
+MIR7-1	progenitor
+MIR7-2	progenitor
+MIR7-3	progenitor
+MIR9-1	progenitor
+MIR9-2	progenitor
+MIR9-3	progenitor
+MIR10A	progenitor
+MIR10B	progenitor
+MIR15A	progenitor
+MIR15B	progenitor
+MIR16-1	progenitor
+MIR16-2	progenitor
+MIR17	progenitor
+MIR18A	progenitor
+MIR18B	progenitor
+MIR19A	progenitor
+MIR19B1	progenitor
+MIR19B2	progenitor
+MIR20A	progenitor
+MIR20B	progenitor
+MIR21	progenitor
+MIR22	progenitor
+MIR23A	progenitor
+MIR23B	progenitor
+MIR23C	progenitor
+MIR24-1	progenitor
+MIR24-2	progenitor
+MIR25	progenitor
+MIR26A1	progenitor
+MIR26A2	progenitor
+MIR26B	progenitor
+MIR27B	progenitor
+MIR28	progenitor
+MIR29A	progenitor
+MIR29B1	progenitor
+MIR29B2	progenitor
+MIR29C	progenitor
+MIR30A	progenitor
+MIR30B	progenitor
+MIR30C1	progenitor
+MIR30C2	progenitor
+MIR30D	progenitor
+MIR30E	progenitor
+MIR31	progenitor
+MIR32	progenitor
+MIR33A	progenitor
+MIR33B	progenitor
+MIR34A	progenitor
+MIR34B	progenitor
+MIR34C	progenitor
+MIR92A1	progenitor
+MIR92A2	progenitor
+MIR92B	progenitor
+MIR93	progenitor
+MIR95	progenitor
+MIR96	progenitor
+MIR98	progenitor
+MIR99A	progenitor
+MIR99B	progenitor
+MIR100	progenitor
+MIR101-1	progenitor
+MIR101-2	progenitor
+MIR103A1	progenitor
+MIR103A2	progenitor
+MIR103B1	progenitor
+MIR103B2	progenitor
+MIR105-1	progenitor
+MIR105-2	progenitor
+MIR106A	progenitor
+MIR106B	progenitor
+MIR107	progenitor
+MIR122	progenitor
+MIR124-1	progenitor
+MIR124-2	progenitor
+MIR124-3	progenitor
+MIR125A	progenitor
+MIR125B1	progenitor
+MIR125B2	progenitor
+MIR126	progenitor
+MIR127	progenitor
+MIR128-1	progenitor
+MIR128-2	progenitor
+MIR129-1	progenitor
+MIR129-2	progenitor
+MIR130A	progenitor
+MIR130B	progenitor
+MIR132	progenitor
+MIR133A1	progenitor
+MIR133A2	progenitor
+MIR133B	progenitor
+MIR134	progenitor
+MIR135A1	progenitor
+MIR135A2	progenitor
+MIR135B	progenitor
+MIR136	progenitor
+MIR137	progenitor
+MIR138-1	progenitor
+MIR138-2	progenitor
+MIR139	progenitor
+MIR140	progenitor
+MIR141	progenitor
+MIR142	progenitor
+MIR143	progenitor
+MIR144	progenitor
+MIR145	progenitor
+MIR146A	progenitor
+MIR146B	progenitor
+MIR147A	progenitor
+MIR147B	progenitor
+MIR148A	progenitor
+MIR148B	progenitor
+MIR149	progenitor
+MIR150	progenitor
+MIR151A	progenitor
+MIR151B	progenitor
+MIR152	progenitor
+MIR153-1	progenitor
+MIR153-2	progenitor
+MIR154	progenitor
+MIR155	progenitor
+MIR181A1	progenitor
+MIR181A2	progenitor
+MIR181B1	progenitor
+MIR181B2	progenitor
+MIR181C	progenitor
+MIR181D	progenitor
+MIR182	progenitor
+MIR183	progenitor
+MIR185	progenitor
+MIR186	progenitor
+MIR187	progenitor
+MIR188	progenitor
+MIR190A	progenitor
+MIR190B	progenitor
+MIR191	progenitor
+MIR192	progenitor
+MIR193A	progenitor
+MIR193B	progenitor
+MIR194-1	progenitor
+MIR194-2	progenitor
+MIR195	progenitor
+MIR196A1	progenitor
+MIR196A2	progenitor
+MIR196B	progenitor
+MIR197	progenitor
+MIR198	progenitor
+MIR199A1	progenitor
+MIR199A2	progenitor
+MIR199B	progenitor
+MIR200A	progenitor
+MIR200B	progenitor
+MIR200C	progenitor
+MIR202	progenitor
+MIR203A	progenitor
+MIR203B	progenitor
+MIR204	progenitor
+MIR205	progenitor
+MIR206	progenitor
+MIR208A	progenitor
+MIR208B	progenitor
+MIR210	progenitor
+MIR211	progenitor
+MIR212	progenitor
+MIR214	progenitor
+MIR215	progenitor
+MIR216A	progenitor
+MIR216B	progenitor
+MIR217	progenitor
+MIR218-1	progenitor
+MIR218-2	progenitor
+MIR219A1	progenitor
+MIR219A2	progenitor
+MIR219B	progenitor
+MIR221	progenitor
+MIR222	progenitor
+MIR223	progenitor
+MIR224	progenitor
+MIR296	progenitor
+MIR297	progenitor
+MIR298	progenitor
+MIR299	progenitor
+MIR300	progenitor
+MIR301A	progenitor
+MIR301B	progenitor
+MIR302A	progenitor
+MIR302B	progenitor
+MIR302C	progenitor
+MIR302D	progenitor
+MIR302E	progenitor
+MIR302F	progenitor
+MIR320A	progenitor
+MIR320B1	progenitor
+MIR320B2	progenitor
+MIR320C1	progenitor
+MIR320C2	progenitor
+MIR320D1	progenitor
+MIR320D2	progenitor
+MIR320E	progenitor
+MIR323A	progenitor
+MIR323B	progenitor
+MIR324	progenitor
+MIR325	progenitor
+MIR326	progenitor
+MIR328	progenitor
+MIR329-1	progenitor
+MIR329-2	progenitor
+MIR330	progenitor
+MIR331	progenitor
+MIR335	progenitor
+MIR337	progenitor
+MIR338	progenitor
+MIR339	progenitor
+MIR340	progenitor
+MIR342	progenitor
+MIR345	progenitor
+MIR346	progenitor
+MIR361	progenitor
+MIR362	progenitor
+MIR363	progenitor
+MIR365A	progenitor
+MIR365B	progenitor
+MIR367	progenitor
+MIR369	progenitor
+MIR370	progenitor
+MIR371A	progenitor
+MIR371B	progenitor
+MIR372	progenitor
+MIR373	progenitor
+MIR374A	progenitor
+MIR374B	progenitor
+MIR374C	progenitor
+MIR375	progenitor
+MIR376A1	progenitor
+MIR376A2	progenitor
+MIR376B	progenitor
+MIR376C	progenitor
+MIR377	progenitor
+MIR378A	progenitor
+MIR378B	progenitor
+MIR378C	progenitor
+MIR378D1	progenitor
+MIR378D2	progenitor
+MIR378E	progenitor
+MIR378F	progenitor
+MIR378G	progenitor
+MIR378H	progenitor
+MIR378I	progenitor
+MIR378J	progenitor
+MIR379	progenitor
+MIR380	progenitor
+MIR381	progenitor
+MIR382	progenitor
+MIR383	progenitor
+MIR384	progenitor
+MIR409	progenitor
+MIR410	progenitor
+MIR411	progenitor
+MIR412	progenitor
+MIR421	progenitor
+MIR422A	progenitor
+MIR423	progenitor
+MIR424	progenitor
+MIR425	progenitor
+MIR429	progenitor
+MIR431	progenitor
+MIR432	progenitor
+MIR433	progenitor
+MIR448	progenitor
+MIR449A	progenitor
+MIR449B	progenitor
+MIR449C	progenitor
+MIR450A1	progenitor
+MIR450A2	progenitor
+MIR450B	progenitor
+MIR451A	progenitor
+MIR451B	progenitor
+MIR452	progenitor
+MIR454	progenitor
+MIR455	progenitor
+MIR466	progenitor
+MIR483	progenitor
+MIR484	progenitor
+MIR485	progenitor
+MIR486-1	progenitor
+MIR486-2	progenitor
+MIR487A	progenitor
+MIR487B	progenitor
+MIR488	progenitor
+MIR489	progenitor
+MIR490	progenitor
+MIR491	progenitor
+MIR492	progenitor
+MIR493	progenitor
+MIR494	progenitor
+MIR495	progenitor
+MIR496	progenitor
+MIR497	progenitor
+MIR498	progenitor
+MIR499A	progenitor
+MIR499B	progenitor
+MIR500A	progenitor
+MIR500B	progenitor
+MIR501	progenitor
+MIR502	progenitor
+MIR503	progenitor
+MIR504	progenitor
+MIR505	progenitor
+MIR506	progenitor
+MIR507	progenitor
+MIR508	progenitor
+MIR509-1	progenitor
+MIR509-2	progenitor
+MIR509-3	progenitor
+MIR510	progenitor
+MIR511	progenitor
+MIR512-1	progenitor
+MIR512-2	progenitor
+MIR513A1	progenitor
+MIR513A2	progenitor
+MIR513B	progenitor
+MIR513C	progenitor
+MIR514A1	progenitor
+MIR514A2	progenitor
+MIR514A3	progenitor
+MIR514B	progenitor
+MIR515-1	progenitor
+MIR515-2	progenitor
+MIR516A1	progenitor
+MIR516A2	progenitor
+MIR516B1	progenitor
+MIR516B2	progenitor
+MIR517A	progenitor
+MIR517B	progenitor
+MIR517C	progenitor
+MIR518A1	progenitor
+MIR518A2	progenitor
+MIR518B	progenitor
+MIR518C	progenitor
+MIR518D	progenitor
+MIR518E	progenitor
+MIR518F	progenitor
+MIR519A1	progenitor
+MIR519A2	progenitor
+MIR519B	progenitor
+MIR519C	progenitor
+MIR519D	progenitor
+MIR519E	progenitor
+MIR520A	progenitor
+MIR520B	progenitor
+MIR520C	progenitor
+MIR520D	progenitor
+MIR520E	progenitor
+MIR520F	progenitor
+MIR520G	progenitor
+MIR520H	progenitor
+MIR521-1	progenitor
+MIR521-2	progenitor
+MIR522	progenitor
+MIR523	progenitor
+MIR524	progenitor
+MIR525	progenitor
+MIR526A1	progenitor
+MIR526A2	progenitor
+MIR526B	progenitor
+MIR527	progenitor
+MIR532	progenitor
+MIR539	progenitor
+MIR541	progenitor
+MIR542	progenitor
+MIR543	progenitor
+MIR544A	progenitor
+MIR544B	progenitor
+MIR545	progenitor
+MIR548A1	progenitor
+MIR548A2	progenitor
+MIR548A3	progenitor
+MIR548AA1	progenitor
+MIR548AA2	progenitor
+MIR548AB	progenitor
+MIR548AC	progenitor
+MIR548AD	progenitor
+MIR548AE1	progenitor
+MIR548AE2	progenitor
+MIR548AG1	progenitor
+MIR548AG2	progenitor
+MIR548AH	progenitor
+MIR548AI	progenitor
+MIR548AJ1	progenitor
+MIR548AJ2	progenitor
+MIR548AK	progenitor
+MIR548AL	progenitor
+MIR548AM	progenitor
+MIR548AN	progenitor
+MIR548AO	progenitor
+MIR548AP	progenitor
+MIR548AQ	progenitor
+MIR548AR	progenitor
+MIR548AS	progenitor
+MIR548AT	progenitor
+MIR548AU	progenitor
+MIR548AV	progenitor
+MIR548AW	progenitor
+MIR548AX	progenitor
+MIR548AY	progenitor
+MIR548AZ	progenitor
+MIR548B	progenitor
+MIR548BA	progenitor
+MIR548BB	progenitor
+MIR548C	progenitor
+MIR548D1	progenitor
+MIR548D2	progenitor
+MIR548E	progenitor
+MIR548F1	progenitor
+MIR548F2	progenitor
+MIR548F3	progenitor
+MIR548F4	progenitor
+MIR548F5	progenitor
+MIR548G	progenitor
+MIR548H1	progenitor
+MIR548H2	progenitor
+MIR548H3	progenitor
+MIR548H4	progenitor
+MIR548H5	progenitor
+MIR548I1	progenitor
+MIR548I2	progenitor
+MIR548I3	progenitor
+MIR548I4	progenitor
+MIR548J	progenitor
+MIR548K	progenitor
+MIR548L	progenitor
+MIR548M	progenitor
+MIR548N	progenitor
+MIR548O	progenitor
+MIR548O2	progenitor
+MIR548P	progenitor
+MIR548Q	progenitor
+MIR548S	progenitor
+MIR548T	progenitor
+MIR548U	progenitor
+MIR548V	progenitor
+MIR548W	progenitor
+MIR548X	progenitor
+MIR548X2	progenitor
+MIR548Y	progenitor
+MIR548Z	progenitor
+MIR549A	progenitor
+MIR550A1	progenitor
+MIR550A2	progenitor
+MIR550A3	progenitor
+MIR550B1	progenitor
+MIR550B2	progenitor
+MIR551A	progenitor
+MIR551B	progenitor
+MIR552	progenitor
+MIR553	progenitor
+MIR554	progenitor
+MIR555	progenitor
+MIR556	progenitor
+MIR557	progenitor
+MIR558	progenitor
+MIR559	progenitor
+MIR561	progenitor
+MIR562	progenitor
+MIR563	progenitor
+MIR564	progenitor
+MIR567	progenitor
+MIR568	progenitor
+MIR569	progenitor
+MIR570	progenitor
+MIR571	progenitor
+MIR572	progenitor
+MIR573	progenitor
+MIR574	progenitor
+MIR575	progenitor
+MIR576	progenitor
+MIR577	progenitor
+MIR578	progenitor
+MIR579	progenitor
+MIR580	progenitor
+MIR581	progenitor
+MIR582	progenitor
+MIR583	progenitor
+MIR584	progenitor
+MIR585	progenitor
+MIR586	progenitor
+MIR587	progenitor
+MIR588	progenitor
+MIR589	progenitor
+MIR590	progenitor
+MIR591	progenitor
+MIR592	progenitor
+MIR593	progenitor
+MIR595	progenitor
+MIR596	progenitor
+MIR597	progenitor
+MIR598	progenitor
+MIR599	progenitor
+MIR600	progenitor
+MIR601	progenitor
+MIR602	progenitor
+MIR603	progenitor
+MIR604	progenitor
+MIR605	progenitor
+MIR606	progenitor
+MIR607	progenitor
+MIR608	progenitor
+MIR609	progenitor
+MIR610	progenitor
+MIR611	progenitor
+MIR612	progenitor
+MIR613	progenitor
+MIR614	progenitor
+MIR615	progenitor
+MIR616	progenitor
+MIR617	progenitor
+MIR618	progenitor
+MIR619	progenitor
+MIR620	progenitor
+MIR621	progenitor
+MIR622	progenitor
+MIR623	progenitor
+MIR624	progenitor
+MIR625	progenitor
+MIR626	progenitor
+MIR627	progenitor
+MIR628	progenitor
+MIR629	progenitor
+MIR630	progenitor
+MIR631	progenitor
+MIR632	progenitor
+MIR633	progenitor
+MIR634	progenitor
+MIR635	progenitor
+MIR636	progenitor
+MIR637	progenitor
+MIR638	progenitor
+MIR639	progenitor
+MIR640	progenitor
+MIR641	progenitor
+MIR642A	progenitor
+MIR642B	progenitor
+MIR643	progenitor
+MIR644A	progenitor
+MIR645	progenitor
+MIR646	progenitor
+MIR647	progenitor
+MIR648	progenitor
+MIR649	progenitor
+MIR650	progenitor
+MIR651	progenitor
+MIR652	progenitor
+MIR653	progenitor
+MIR654	progenitor
+MIR655	progenitor
+MIR656	progenitor
+MIR657	progenitor
+MIR658	progenitor
+MIR659	progenitor
+MIR660	progenitor
+MIR661	progenitor
+MIR662	progenitor
+MIR663A	progenitor
+MIR663B	progenitor
+MIR664A	progenitor
+MIR664B	progenitor
+MIR665	progenitor
+MIR668	progenitor
+MIR670	progenitor
+MIR671	progenitor
+MIR675	progenitor
+MIR676	progenitor
+MIR708	progenitor
+MIR711	progenitor
+MIR718	progenitor
+MIR744	progenitor
+MIR758	progenitor
+MIR759	progenitor
+MIR760	progenitor
+MIR761	progenitor
+MIR762	progenitor
+MIR764	progenitor
+MIR765	progenitor
+MIR766	progenitor
+MIR767	progenitor
+MIR769	progenitor
+MIR770	progenitor
+MIR802	progenitor
+MIR873	progenitor
+MIR874	progenitor
+MIR875	progenitor
+MIR876	progenitor
+MIR877	progenitor
+MIR885	progenitor
+MIR887	progenitor
+MIR888	progenitor
+MIR889	progenitor
+MIR890	progenitor
+MIR891A	progenitor
+MIR891B	progenitor
+MIR892A	progenitor
+MIR892B	progenitor
+MIR892C	progenitor
+MIR920	progenitor
+MIR921	progenitor
+MIR922	progenitor
+MIR924	progenitor
+MIR933	progenitor
+MIR934	progenitor
+MIR935	progenitor
+MIR936	progenitor
+MIR937	progenitor
+MIR938	progenitor
+MIR939	progenitor
+MIR940	progenitor
+MIR941-1	progenitor
+MIR941-2	progenitor
+MIR941-3	progenitor
+MIR941-4	progenitor
+MIR941-5	progenitor
+MIR942	progenitor
+MIR943	progenitor
+MIR944	progenitor
+MIR1178	progenitor
+MIR1179	progenitor
+MIR1180	progenitor
+MIR1181	progenitor
+MIR1182	progenitor
+MIR1183	progenitor
+MIR1184-1	progenitor
+MIR1184-2	progenitor
+MIR1184-3	progenitor
+MIR1185-1	progenitor
+MIR1185-2	progenitor
+MIR1193	progenitor
+MIR1197	progenitor
+MIR1199	progenitor
+MIR1200	progenitor
+MIR1202	progenitor
+MIR1203	progenitor
+MIR1204	progenitor
+MIR1205	progenitor
+MIR1206	progenitor
+MIR1207	progenitor
+MIR1208	progenitor
+MIR1224	progenitor
+MIR1225	progenitor
+MIR1226	progenitor
+MIR1227	progenitor
+MIR1228	progenitor
+MIR1229	progenitor
+MIR1231	progenitor
+MIR1233-1	progenitor
+MIR1233-2	progenitor
+MIR1234	progenitor
+MIR1236	progenitor
+MIR1237	progenitor
+MIR1238	progenitor
+MIR1243	progenitor
+MIR1244-1	progenitor
+MIR1244-2	progenitor
+MIR1244-3	progenitor
+MIR1244-4	progenitor
+MIR1245A	progenitor
+MIR1245B	progenitor
+MIR1246	progenitor
+MIR1247	progenitor
+MIR1248	progenitor
+MIR1249	progenitor
+MIR1250	progenitor
+MIR1251	progenitor
+MIR1252	progenitor
+MIR1253	progenitor
+MIR1255A	progenitor
+MIR1255B1	progenitor
+MIR1255B2	progenitor
+MIR1256	progenitor
+MIR1257	progenitor
+MIR1258	progenitor
+MIR1260A	progenitor
+MIR1260B	progenitor
+MIR1261	progenitor
+MIR1262	progenitor
+MIR1263	progenitor
+MIR1264	progenitor
+MIR1265	progenitor
+MIR1266	progenitor
+MIR1267	progenitor
+MIR1268A	progenitor
+MIR1268B	progenitor
+MIR1269A	progenitor
+MIR1269B	progenitor
+MIR1270	progenitor
+MIR1271	progenitor
+MIR1272	progenitor
+MIR1273C	progenitor
+MIR1273H	progenitor
+MIR1275	progenitor
+MIR1276	progenitor
+MIR1277	progenitor
+MIR1278	progenitor
+MIR1279	progenitor
+MIR1281	progenitor
+MIR1282	progenitor
+MIR1283-1	progenitor
+MIR1283-2	progenitor
+MIR1284	progenitor
+MIR1285-1	progenitor
+MIR1285-2	progenitor
+MIR1286	progenitor
+MIR1287	progenitor
+MIR1288	progenitor
+MIR1289-1	progenitor
+MIR1289-2	progenitor
+MIR1290	progenitor
+MIR1291	progenitor
+MIR1292	progenitor
+MIR1293	progenitor
+MIR1294	progenitor
+MIR1295A	progenitor
+MIR1295B	progenitor
+MIR1296	progenitor
+MIR1297	progenitor
+MIR1298	progenitor
+MIR1299	progenitor
+MIR1301	progenitor
+MIR1302-1	progenitor
+MIR1302-2	progenitor
+MIR1302-3	progenitor
+MIR1302-4	progenitor
+MIR1302-5	progenitor
+MIR1302-6	progenitor
+MIR1302-7	progenitor
+MIR1302-8	progenitor
+MIR1302-9	progenitor
+MIR1302-10	progenitor
+MIR1302-11	progenitor
+MIR1303	progenitor
+MIR1304	progenitor
+MIR1305	progenitor
+MIR1306	progenitor
+MIR1307	progenitor
+MIR1321	progenitor
+MIR1322	progenitor
+MIR1323	progenitor
+MIR1324	progenitor
+MIR1343	progenitor
+MIR1468	progenitor
+MIR1469	progenitor
+MIR1470	progenitor
+MIR1471	progenitor
+MIR1537	progenitor
+MIR1538	progenitor
+MIR1539	progenitor
+MIR1587	progenitor
+MIR1825	progenitor
+MIR1827	progenitor
+MIR1908	progenitor
+MIR1909	progenitor
+MIR1910	progenitor
+MIR1911	progenitor
+MIR1912	progenitor
+MIR1913	progenitor
+MIR1914	progenitor
+MIR1915	progenitor
+MIR1972-1	progenitor
+MIR1972-2	progenitor
+MIR1973	progenitor
+MIR1976	progenitor
+MIR2052	progenitor
+MIR2053	progenitor
+MIR2054	progenitor
+MIR2110	progenitor
+MIR2113	progenitor
+MIR2114	progenitor
+MIR2115	progenitor
+MIR2116	progenitor
+MIR2117	progenitor
+MIR2276	progenitor
+MIR2277	progenitor
+MIR2278	progenitor
+MIR2355	progenitor
+MIR2392	progenitor
+MIR2467	progenitor
+MIR2681	progenitor
+MIR2682	progenitor
+MIR2909	progenitor
+MIR3064	progenitor
+MIR3065	progenitor
+MIR3074	progenitor
+MIR3115	progenitor
+MIR3116-1	progenitor
+MIR3116-2	progenitor
+MIR3117	progenitor
+MIR3118-1	progenitor
+MIR3118-2	progenitor
+MIR3118-3	progenitor
+MIR3118-4	progenitor
+MIR3119-1	progenitor
+MIR3119-2	progenitor
+MIR3120	progenitor
+MIR3121	progenitor
+MIR3122	progenitor
+MIR3123	progenitor
+MIR3124	progenitor
+MIR3125	progenitor
+MIR3126	progenitor
+MIR3127	progenitor
+MIR3128	progenitor
+MIR3129	progenitor
+MIR3130-1	progenitor
+MIR3130-2	progenitor
+MIR3131	progenitor
+MIR3132	progenitor
+MIR3133	progenitor
+MIR3134	progenitor
+MIR3135A	progenitor
+MIR3135B	progenitor
+MIR3136	progenitor
+MIR3137	progenitor
+MIR3138	progenitor
+MIR3139	progenitor
+MIR3140	progenitor
+MIR3141	progenitor
+MIR3142	progenitor
+MIR3143	progenitor
+MIR3144	progenitor
+MIR3145	progenitor
+MIR3146	progenitor
+MIR3147	progenitor
+MIR3148	progenitor
+MIR3149	progenitor
+MIR3150A	progenitor
+MIR3150B	progenitor
+MIR3151	progenitor
+MIR3152	progenitor
+MIR3153	progenitor
+MIR3154	progenitor
+MIR3155A	progenitor
+MIR3155B	progenitor
+MIR3156-1	progenitor
+MIR3156-2	progenitor
+MIR3156-3	progenitor
+MIR3157	progenitor
+MIR3158-1	progenitor
+MIR3158-2	progenitor
+MIR3159	progenitor
+MIR3160-1	progenitor
+MIR3160-2	progenitor
+MIR3161	progenitor
+MIR3162	progenitor
+MIR3163	progenitor
+MIR3164	progenitor
+MIR3165	progenitor
+MIR3166	progenitor
+MIR3167	progenitor
+MIR3168	progenitor
+MIR3169	progenitor
+MIR3170	progenitor
+MIR3171	progenitor
+MIR3173	progenitor
+MIR3174	progenitor
+MIR3175	progenitor
+MIR3176	progenitor
+MIR3177	progenitor
+MIR3178	progenitor
+MIR3179-1	progenitor
+MIR3179-2	progenitor
+MIR3179-3	progenitor
+MIR3179-4	progenitor
+MIR3180-1	progenitor
+MIR3180-2	progenitor
+MIR3180-3	progenitor
+MIR3180-4	progenitor
+MIR3180-5	progenitor
+MIR3181	progenitor
+MIR3182	progenitor
+MIR3183	progenitor
+MIR3184	progenitor
+MIR3185	progenitor
+MIR3186	progenitor
+MIR3187	progenitor
+MIR3188	progenitor
+MIR3189	progenitor
+MIR3190	progenitor
+MIR3191	progenitor
+MIR3192	progenitor
+MIR3193	progenitor
+MIR3194	progenitor
+MIR3195	progenitor
+MIR3196	progenitor
+MIR3197	progenitor
+MIR3198-1	progenitor
+MIR3198-2	progenitor
+MIR3199-1	progenitor
+MIR3199-2	progenitor
+MIR3200	progenitor
+MIR3201	progenitor
+MIR3202-1	progenitor
+MIR3202-2	progenitor
+MIR3529	progenitor
+MIR3591	progenitor
+MIR3605	progenitor
+MIR3606	progenitor
+MIR3609	progenitor
+MIR3610	progenitor
+MIR3611	progenitor
+MIR3612	progenitor
+MIR3613	progenitor
+MIR3614	progenitor
+MIR3615	progenitor
+MIR3616	progenitor
+MIR3617	progenitor
+MIR3618	progenitor
+MIR3619	progenitor
+MIR3620	progenitor
+MIR3621	progenitor
+MIR3622A	progenitor
+MIR3622B	progenitor
+MIR3646	progenitor
+MIR3648-1	progenitor
+MIR3648-2	progenitor
+MIR3649	progenitor
+MIR3650	progenitor
+MIR3651	progenitor
+MIR3652	progenitor
+MIR3654	progenitor
+MIR3655	progenitor
+MIR3657	progenitor
+MIR3658	progenitor
+MIR3659	progenitor
+MIR3660	progenitor
+MIR3661	progenitor
+MIR3662	progenitor
+MIR3663	progenitor
+MIR3664	progenitor
+MIR3665	progenitor
+MIR3666	progenitor
+MIR3667	progenitor
+MIR3668	progenitor
+MIR3670-1	progenitor
+MIR3670-2	progenitor
+MIR3670-3	progenitor
+MIR3670-4	progenitor
+MIR3671	progenitor
+MIR3672	progenitor
+MIR3674	progenitor
+MIR3675	progenitor
+MIR3677	progenitor
+MIR3678	progenitor
+MIR3679	progenitor
+MIR3680-1	progenitor
+MIR3680-2	progenitor
+MIR3681	progenitor
+MIR3682	progenitor
+MIR3683	progenitor
+MIR3684	progenitor
+MIR3685	progenitor
+MIR3686	progenitor
+MIR3688-1	progenitor
+MIR3688-2	progenitor
+MIR3689A	progenitor
+MIR3689B	progenitor
+MIR3689C	progenitor
+MIR3689D1	progenitor
+MIR3689D2	progenitor
+MIR3689E	progenitor
+MIR3689F	progenitor
+MIR3690	progenitor
+MIR3691	progenitor
+MIR3692	progenitor
+MIR3713	progenitor
+MIR3714	progenitor
+MIR3907	progenitor
+MIR3908	progenitor
+MIR3909	progenitor
+MIR3910-1	progenitor
+MIR3910-2	progenitor
+MIR3911	progenitor
+MIR3912	progenitor
+MIR3913-1	progenitor
+MIR3913-2	progenitor
+MIR3914-1	progenitor
+MIR3914-2	progenitor
+MIR3915	progenitor
+MIR3916	progenitor
+MIR3917	progenitor
+MIR3918	progenitor
+MIR3919	progenitor
+MIR3920	progenitor
+MIR3921	progenitor
+MIR3922	progenitor
+MIR3923	progenitor
+MIR3924	progenitor
+MIR3925	progenitor
+MIR3926-1	progenitor
+MIR3926-2	progenitor
+MIR3927	progenitor
+MIR3928	progenitor
+MIR3929	progenitor
+MIR3934	progenitor
+MIR3935	progenitor
+MIR3936	progenitor
+MIR3937	progenitor
+MIR3938	progenitor
+MIR3939	progenitor
+MIR3940	progenitor
+MIR3941	progenitor
+MIR3942	progenitor
+MIR3943	progenitor
+MIR3944	progenitor
+MIR3945	progenitor
+MIR3960	progenitor
+MIR3972	progenitor
+MIR3973	progenitor
+MIR3974	progenitor
+MIR3975	progenitor
+MIR3976	progenitor
+MIR3977	progenitor
+MIR3978	progenitor
+MIR4251	progenitor
+MIR4252	progenitor
+MIR4253	progenitor
+MIR4254	progenitor
+MIR4255	progenitor
+MIR4256	progenitor
+MIR4257	progenitor
+MIR4258	progenitor
+MIR4259	progenitor
+MIR4260	progenitor
+MIR4261	progenitor
+MIR4262	progenitor
+MIR4263	progenitor
+MIR4264	progenitor
+MIR4265	progenitor
+MIR4266	progenitor
+MIR4267	progenitor
+MIR4268	progenitor
+MIR4269	progenitor
+MIR4270	progenitor
+MIR4271	progenitor
+MIR4272	progenitor
+MIR4273	progenitor
+MIR4274	progenitor
+MIR4275	progenitor
+MIR4276	progenitor
+MIR4277	progenitor
+MIR4278	progenitor
+MIR4279	progenitor
+MIR4280	progenitor
+MIR4281	progenitor
+MIR4282	progenitor
+MIR4283-1	progenitor
+MIR4283-2	progenitor
+MIR4284	progenitor
+MIR4285	progenitor
+MIR4286	progenitor
+MIR4287	progenitor
+MIR4288	progenitor
+MIR4289	progenitor
+MIR4290	progenitor
+MIR4291	progenitor
+MIR4292	progenitor
+MIR4293	progenitor
+MIR4294	progenitor
+MIR4295	progenitor
+MIR4296	progenitor
+MIR4297	progenitor
+MIR4298	progenitor
+MIR4299	progenitor
+MIR4300	progenitor
+MIR4301	progenitor
+MIR4302	progenitor
+MIR4303	progenitor
+MIR4304	progenitor
+MIR4305	progenitor
+MIR4306	progenitor
+MIR4307	progenitor
+MIR4308	progenitor
+MIR4309	progenitor
+MIR4310	progenitor
+MIR4311	progenitor
+MIR4312	progenitor
+MIR4313	progenitor
+MIR4314	progenitor
+MIR4315-1	progenitor
+MIR4315-2	progenitor
+MIR4316	progenitor
+MIR4317	progenitor
+MIR4318	progenitor
+MIR4319	progenitor
+MIR4320	progenitor
+MIR4321	progenitor
+MIR4322	progenitor
+MIR4323	progenitor
+MIR4324	progenitor
+MIR4325	progenitor
+MIR4326	progenitor
+MIR4327	progenitor
+MIR4328	progenitor
+MIR4329	progenitor
+MIR4330	progenitor
+MIR4418	progenitor
+MIR4420	progenitor
+MIR4421	progenitor
+MIR4422	progenitor
+MIR4423	progenitor
+MIR4424	progenitor
+MIR4425	progenitor
+MIR4426	progenitor
+MIR4427	progenitor
+MIR4428	progenitor
+MIR4429	progenitor
+MIR4430	progenitor
+MIR4431	progenitor
+MIR4432	progenitor
+MIR4433A	progenitor
+MIR4433B	progenitor
+MIR4434	progenitor
+MIR4435-1	progenitor
+MIR4435-2	progenitor
+MIR4436A	progenitor
+MIR4436B1	progenitor
+MIR4436B2	progenitor
+MIR4437	progenitor
+MIR4438	progenitor
+MIR4439	progenitor
+MIR4440	progenitor
+MIR4441	progenitor
+MIR4442	progenitor
+MIR4443	progenitor
+MIR4444-1	progenitor
+MIR4444-2	progenitor
+MIR4445	progenitor
+MIR4446	progenitor
+MIR4447	progenitor
+MIR4448	progenitor
+MIR4449	progenitor
+MIR4450	progenitor
+MIR4451	progenitor
+MIR4452	progenitor
+MIR4453	progenitor
+MIR4454	progenitor
+MIR4455	progenitor
+MIR4456	progenitor
+MIR4457	progenitor
+MIR4458	progenitor
+MIR4460	progenitor
+MIR4462	progenitor
+MIR4463	progenitor
+MIR4464	progenitor
+MIR4465	progenitor
+MIR4466	progenitor
+MIR4467	progenitor
+MIR4468	progenitor
+MIR4469	progenitor
+MIR4470	progenitor
+MIR4471	progenitor
+MIR4472-1	progenitor
+MIR4472-2	progenitor
+MIR4473	progenitor
+MIR4474	progenitor
+MIR4475	progenitor
+MIR4476	progenitor
+MIR4477A	progenitor
+MIR4477B	progenitor
+MIR4478	progenitor
+MIR4479	progenitor
+MIR4480	progenitor
+MIR4481	progenitor
+MIR4482	progenitor
+MIR4483	progenitor
+MIR4484	progenitor
+MIR4485	progenitor
+MIR4486	progenitor
+MIR4487	progenitor
+MIR4488	progenitor
+MIR4489	progenitor
+MIR4490	progenitor
+MIR4491	progenitor
+MIR4492	progenitor
+MIR4493	progenitor
+MIR4494	progenitor
+MIR4495	progenitor
+MIR4496	progenitor
+MIR4497	progenitor
+MIR4498	progenitor
+MIR4499	progenitor
+MIR4500	progenitor
+MIR4501	progenitor
+MIR4502	progenitor
+MIR4503	progenitor
+MIR4504	progenitor
+MIR4505	progenitor
+MIR4506	progenitor
+MIR4507	progenitor
+MIR4508	progenitor
+MIR4509-1	progenitor
+MIR4509-2	progenitor
+MIR4509-3	progenitor
+MIR4510	progenitor
+MIR4511	progenitor
+MIR4512	progenitor
+MIR4513	progenitor
+MIR4514	progenitor
+MIR4515	progenitor
+MIR4516	progenitor
+MIR4517	progenitor
+MIR4518	progenitor
+MIR4519	progenitor
+MIR4520-1	progenitor
+MIR4520-2	progenitor
+MIR4521	progenitor
+MIR4522	progenitor
+MIR4523	progenitor
+MIR4524A	progenitor
+MIR4524B	progenitor
+MIR4525	progenitor
+MIR4526	progenitor
+MIR4527	progenitor
+MIR4528	progenitor
+MIR4529	progenitor
+MIR4530	progenitor
+MIR4531	progenitor
+MIR4533	progenitor
+MIR4534	progenitor
+MIR4535	progenitor
+MIR4536-1	progenitor
+MIR4536-2	progenitor
+MIR4537	progenitor
+MIR4538	progenitor
+MIR4539	progenitor
+MIR4540	progenitor
+MIR4632	progenitor
+MIR4633	progenitor
+MIR4634	progenitor
+MIR4635	progenitor
+MIR4636	progenitor
+MIR4637	progenitor
+MIR4638	progenitor
+MIR4639	progenitor
+MIR4640	progenitor
+MIR4641	progenitor
+MIR4642	progenitor
+MIR4643	progenitor
+MIR4644	progenitor
+MIR4645	progenitor
+MIR4646	progenitor
+MIR4647	progenitor
+MIR4648	progenitor
+MIR4649	progenitor
+MIR4650-1	progenitor
+MIR4650-2	progenitor
+MIR4651	progenitor
+MIR4652	progenitor
+MIR4653	progenitor
+MIR4654	progenitor
+MIR4655	progenitor
+MIR4656	progenitor
+MIR4657	progenitor
+MIR4658	progenitor
+MIR4659A	progenitor
+MIR4659B	progenitor
+MIR4660	progenitor
+MIR4661	progenitor
+MIR4662A	progenitor
+MIR4662B	progenitor
+MIR4663	progenitor
+MIR4664	progenitor
+MIR4665	progenitor
+MIR4666A	progenitor
+MIR4666B	progenitor
+MIR4667	progenitor
+MIR4668	progenitor
+MIR4669	progenitor
+MIR4670	progenitor
+MIR4671	progenitor
+MIR4672	progenitor
+MIR4673	progenitor
+MIR4674	progenitor
+MIR4675	progenitor
+MIR4676	progenitor
+MIR4677	progenitor
+MIR4678	progenitor
+MIR4679-1	progenitor
+MIR4679-2	progenitor
+MIR4680	progenitor
+MIR4681	progenitor
+MIR4682	progenitor
+MIR4683	progenitor
+MIR4684	progenitor
+MIR4685	progenitor
+MIR4686	progenitor
+MIR4687	progenitor
+MIR4688	progenitor
+MIR4689	progenitor
+MIR4690	progenitor
+MIR4691	progenitor
+MIR4692	progenitor
+MIR4693	progenitor
+MIR4694	progenitor
+MIR4695	progenitor
+MIR4696	progenitor
+MIR4697	progenitor
+MIR4698	progenitor
+MIR4699	progenitor
+MIR4700	progenitor
+MIR4701	progenitor
+MIR4703	progenitor
+MIR4704	progenitor
+MIR4705	progenitor
+MIR4706	progenitor
+MIR4707	progenitor
+MIR4708	progenitor
+MIR4709	progenitor
+MIR4710	progenitor
+MIR4711	progenitor
+MIR4712	progenitor
+MIR4713	progenitor
+MIR4714	progenitor
+MIR4715	progenitor
+MIR4716	progenitor
+MIR4717	progenitor
+MIR4718	progenitor
+MIR4719	progenitor
+MIR4720	progenitor
+MIR4721	progenitor
+MIR4722	progenitor
+MIR4723	progenitor
+MIR4724	progenitor
+MIR4725	progenitor
+MIR4726	progenitor
+MIR4727	progenitor
+MIR4728	progenitor
+MIR4729	progenitor
+MIR4730	progenitor
+MIR4731	progenitor
+MIR4732	progenitor
+MIR4733	progenitor
+MIR4734	progenitor
+MIR4735	progenitor
+MIR4736	progenitor
+MIR4737	progenitor
+MIR4738	progenitor
+MIR4739	progenitor
+MIR4740	progenitor
+MIR4741	progenitor
+MIR4742	progenitor
+MIR4743	progenitor
+MIR4744	progenitor
+MIR4745	progenitor
+MIR4746	progenitor
+MIR4747	progenitor
+MIR4748	progenitor
+MIR4749	progenitor
+MIR4750	progenitor
+MIR4751	progenitor
+MIR4752	progenitor
+MIR4753	progenitor
+MIR4754	progenitor
+MIR4755	progenitor
+MIR4756	progenitor
+MIR4757	progenitor
+MIR4758	progenitor
+MIR4759	progenitor
+MIR4760	progenitor
+MIR4761	progenitor
+MIR4762	progenitor
+MIR4763	progenitor
+MIR4764	progenitor
+MIR4765	progenitor
+MIR4766	progenitor
+MIR4767	progenitor
+MIR4768	progenitor
+MIR4769	progenitor
+MIR4770	progenitor
+MIR4771-1	progenitor
+MIR4771-2	progenitor
+MIR4772	progenitor
+MIR4773-1	progenitor
+MIR4773-2	progenitor
+MIR4774	progenitor
+MIR4775	progenitor
+MIR4776-1	progenitor
+MIR4776-2	progenitor
+MIR4777	progenitor
+MIR4778	progenitor
+MIR4779	progenitor
+MIR4780	progenitor
+MIR4781	progenitor
+MIR4782	progenitor
+MIR4783	progenitor
+MIR4784	progenitor
+MIR4785	progenitor
+MIR4786	progenitor
+MIR4787	progenitor
+MIR4788	progenitor
+MIR4789	progenitor
+MIR4790	progenitor
+MIR4791	progenitor
+MIR4793	progenitor
+MIR4794	progenitor
+MIR4795	progenitor
+MIR4796	progenitor
+MIR4797	progenitor
+MIR4798	progenitor
+MIR4799	progenitor
+MIR4800	progenitor
+MIR4801	progenitor
+MIR4802	progenitor
+MIR4803	progenitor
+MIR4804	progenitor
+MIR4999	progenitor
+MIR5000	progenitor
+MIR5001	progenitor
+MIR5002	progenitor
+MIR5003	progenitor
+MIR5004	progenitor
+MIR5006	progenitor
+MIR5007	progenitor
+MIR5008	progenitor
+MIR5009	progenitor
+MIR5010	progenitor
+MIR5011	progenitor
+MIR5047	progenitor
+MIR5087	progenitor
+MIR5088	progenitor
+MIR5089	progenitor
+MIR5090	progenitor
+MIR5091	progenitor
+MIR5092	progenitor
+MIR5093	progenitor
+MIR5094	progenitor
+MIR5100	progenitor
+MIR5186	progenitor
+MIR5187	progenitor
+MIR5188	progenitor
+MIR5189	progenitor
+MIR5190	progenitor
+MIR5191	progenitor
+MIR5192	progenitor
+MIR5193	progenitor
+MIR5194	progenitor
+MIR5195	progenitor
+MIR5196	progenitor
+MIR5197	progenitor
+MIR5571	progenitor
+MIR5572	progenitor
+MIR5579	progenitor
+MIR5580	progenitor
+MIR5581	progenitor
+MIR5582	progenitor
+MIR5583-1	progenitor
+MIR5583-2	progenitor
+MIR5584	progenitor
+MIR5585	progenitor
+MIR5586	progenitor
+MIR5587	progenitor
+MIR5588	progenitor
+MIR5589	progenitor
+MIR5590	progenitor
+MIR5591	progenitor
+MIR5680	progenitor
+MIR5681A	progenitor
+MIR5681B	progenitor
+MIR5682	progenitor
+MIR5683	progenitor
+MIR5684	progenitor
+MIR5685	progenitor
+MIR5687	progenitor
+MIR5688	progenitor
+MIR5689	progenitor
+MIR5690	progenitor
+MIR5691	progenitor
+MIR5692A1	progenitor
+MIR5692A2	progenitor
+MIR5692B	progenitor
+MIR5692C1	progenitor
+MIR5692C2	progenitor
+MIR5693	progenitor
+MIR5694	progenitor
+MIR5695	progenitor
+MIR5696	progenitor
+MIR5697	progenitor
+MIR5698	progenitor
+MIR5699	progenitor
+MIR5700	progenitor
+MIR5701-1	progenitor
+MIR5701-2	progenitor
+MIR5701-3	progenitor
+MIR5702	progenitor
+MIR5703	progenitor
+MIR5704	progenitor
+MIR5705	progenitor
+MIR5706	progenitor
+MIR5707	progenitor
+MIR5708	progenitor
+MIR5739	progenitor
+MIR5787	progenitor
+MIR6068	progenitor
+MIR6069	progenitor
+MIR6070	progenitor
+MIR6071	progenitor
+MIR6072	progenitor
+MIR6073	progenitor
+MIR6074	progenitor
+MIR6075	progenitor
+MIR6076	progenitor
+MIR6077	progenitor
+MIR6078	progenitor
+MIR6079	progenitor
+MIR6080	progenitor
+MIR6081	progenitor
+MIR6082	progenitor
+MIR6083	progenitor
+MIR6084	progenitor
+MIR6085	progenitor
+MIR6086	progenitor
+MIR6088	progenitor
+MIR6089	progenitor
+MIR6090	progenitor
+MIR6124	progenitor
+MIR6125	progenitor
+MIR6126	progenitor
+MIR6127	progenitor
+MIR6128	progenitor
+MIR6129	progenitor
+MIR6130	progenitor
+MIR6131	progenitor
+MIR6132	progenitor
+MIR6133	progenitor
+MIR6134	progenitor
+MIR6165	progenitor
+MIR6499	progenitor
+MIR6500	progenitor
+MIR6501	progenitor
+MIR6502	progenitor
+MIR6503	progenitor
+MIR6504	progenitor
+MIR6505	progenitor
+MIR6506	progenitor
+MIR6507	progenitor
+MIR6508	progenitor
+MIR6509	progenitor
+MIR6510	progenitor
+MIR6511A1	progenitor
+MIR6511A2	progenitor
+MIR6511A3	progenitor
+MIR6511A4	progenitor
+MIR6511B1	progenitor
+MIR6511B2	progenitor
+MIR6512	progenitor
+MIR6513	progenitor
+MIR6514	progenitor
+MIR6515	progenitor
+MIR6516	progenitor
+MIR6715A	progenitor
+MIR6715B	progenitor
+MIR6716	progenitor
+MIR6717	progenitor
+MIR6718	progenitor
+MIR6719	progenitor
+MIR6720	progenitor
+MIR6721	progenitor
+MIR6722	progenitor
+MIR6724-1	progenitor
+MIR6724-2	progenitor
+MIR6724-3	progenitor
+MIR6724-4	progenitor
+MIR6726	progenitor
+MIR6727	progenitor
+MIR6728	progenitor
+MIR6729	progenitor
+MIR6730	progenitor
+MIR6731	progenitor
+MIR6732	progenitor
+MIR6733	progenitor
+MIR6734	progenitor
+MIR6735	progenitor
+MIR6736	progenitor
+MIR6737	progenitor
+MIR6738	progenitor
+MIR6739	progenitor
+MIR6740	progenitor
+MIR6741	progenitor
+MIR6742	progenitor
+MIR6743	progenitor
+MIR6744	progenitor
+MIR6745	progenitor
+MIR6746	progenitor
+MIR6747	progenitor
+MIR6748	progenitor
+MIR6749	progenitor
+MIR6750	progenitor
+MIR6751	progenitor
+MIR6752	progenitor
+MIR6753	progenitor
+MIR6754	progenitor
+MIR6755	progenitor
+MIR6756	progenitor
+MIR6757	progenitor
+MIR6758	progenitor
+MIR6759	progenitor
+MIR6760	progenitor
+MIR6761	progenitor
+MIR6762	progenitor
+MIR6763	progenitor
+MIR6764	progenitor
+MIR6765	progenitor
+MIR6766	progenitor
+MIR6767	progenitor
+MIR6768	progenitor
+MIR6769A	progenitor
+MIR6769B	progenitor
+MIR6770-1	progenitor
+MIR6770-2	progenitor
+MIR6770-3	progenitor
+MIR6771	progenitor
+MIR6772	progenitor
+MIR6773	progenitor
+MIR6774	progenitor
+MIR6775	progenitor
+MIR6776	progenitor
+MIR6777	progenitor
+MIR6778	progenitor
+MIR6779	progenitor
+MIR6780A	progenitor
+MIR6780B	progenitor
+MIR6781	progenitor
+MIR6782	progenitor
+MIR6783	progenitor
+MIR6784	progenitor
+MIR6785	progenitor
+MIR6786	progenitor
+MIR6787	progenitor
+MIR6788	progenitor
+MIR6789	progenitor
+MIR6790	progenitor
+MIR6791	progenitor
+MIR6792	progenitor
+MIR6793	progenitor
+MIR6794	progenitor
+MIR6795	progenitor
+MIR6796	progenitor
+MIR6797	progenitor
+MIR6798	progenitor
+MIR6799	progenitor
+MIR6800	progenitor
+MIR6801	progenitor
+MIR6802	progenitor
+MIR6803	progenitor
+MIR6804	progenitor
+MIR6805	progenitor
+MIR6806	progenitor
+MIR6807	progenitor
+MIR6808	progenitor
+MIR6809	progenitor
+MIR6810	progenitor
+MIR6811	progenitor
+MIR6812	progenitor
+MIR6813	progenitor
+MIR6814	progenitor
+MIR6815	progenitor
+MIR6816	progenitor
+MIR6817	progenitor
+MIR6818	progenitor
+MIR6819	progenitor
+MIR6820	progenitor
+MIR6821	progenitor
+MIR6822	progenitor
+MIR6823	progenitor
+MIR6824	progenitor
+MIR6825	progenitor
+MIR6826	progenitor
+MIR6827	progenitor
+MIR6828	progenitor
+MIR6829	progenitor
+MIR6830	progenitor
+MIR6831	progenitor
+MIR6832	progenitor
+MIR6833	progenitor
+MIR6834	progenitor
+MIR6835	progenitor
+MIR6836	progenitor
+MIR6837	progenitor
+MIR6838	progenitor
+MIR6839	progenitor
+MIR6840	progenitor
+MIR6841	progenitor
+MIR6842	progenitor
+MIR6843	progenitor
+MIR6844	progenitor
+MIR6845	progenitor
+MIR6846	progenitor
+MIR6847	progenitor
+MIR6848	progenitor
+MIR6849	progenitor
+MIR6850	progenitor
+MIR6851	progenitor
+MIR6852	progenitor
+MIR6853	progenitor
+MIR6854	progenitor
+MIR6855	progenitor
+MIR6856	progenitor
+MIR6857	progenitor
+MIR6858	progenitor
+MIR6859-1	progenitor
+MIR6859-2	progenitor
+MIR6859-3	progenitor
+MIR6859-4	progenitor
+MIR6860	progenitor
+MIR6861	progenitor
+MIR6862-1	progenitor
+MIR6862-2	progenitor
+MIR6863	progenitor
+MIR6864	progenitor
+MIR6865	progenitor
+MIR6866	progenitor
+MIR6867	progenitor
+MIR6868	progenitor
+MIR6869	progenitor
+MIR6870	progenitor
+MIR6871	progenitor
+MIR6872	progenitor
+MIR6873	progenitor
+MIR6874	progenitor
+MIR6875	progenitor
+MIR6876	progenitor
+MIR6877	progenitor
+MIR6878	progenitor
+MIR6879	progenitor
+MIR6880	progenitor
+MIR6881	progenitor
+MIR6882	progenitor
+MIR6883	progenitor
+MIR6884	progenitor
+MIR6885	progenitor
+MIR6886	progenitor
+MIR6887	progenitor
+MIR6888	progenitor
+MIR6889	progenitor
+MIR6890	progenitor
+MIR6891	progenitor
+MIR6892	progenitor
+MIR6893	progenitor
+MIR6894	progenitor
+MIR6895	progenitor
+MIR7106	progenitor
+MIR7107	progenitor
+MIR7108	progenitor
+MIR7109	progenitor
+MIR7110	progenitor
+MIR7111	progenitor
+MIR7112	progenitor
+MIR7113	progenitor
+MIR7114	progenitor
+MIR7150	progenitor
+MIR7151	progenitor
+MIR7152	progenitor
+MIR7153	progenitor
+MIR7154	progenitor
+MIR7155	progenitor
+MIR7156	progenitor
+MIR7157	progenitor
+MIR7158	progenitor
+MIR7159	progenitor
+MIR7160	progenitor
+MIR7161	progenitor
+MIR7162	progenitor
+MIR7515	progenitor
+MIR7702	progenitor
+MIR7703	progenitor
+MIR7704	progenitor
+MIR7705	progenitor
+MIR7706	progenitor
+MIR7843	progenitor
+MIR7844	progenitor
+MIR7845	progenitor
+MIR7846	progenitor
+MIR7847	progenitor
+MIR7848	progenitor
+MIR7849	progenitor
+MIR7850	progenitor
+MIR7851	progenitor
+MIR7852	progenitor
+MIR7853	progenitor
+MIR7854	progenitor
+MIR7855	progenitor
+MIR7856	progenitor
+MIR7973-1	progenitor
+MIR7973-2	progenitor
+MIR7974	progenitor
+MIR7975	progenitor
+MIR7976	progenitor
+MIR7977	progenitor
+MIR7978	progenitor
+MIR8052	progenitor
+MIR8053	progenitor
+MIR8054	progenitor
+MIR8055	progenitor
+MIR8056	progenitor
+MIR8057	progenitor
+MIR8058	progenitor
+MIR8059	progenitor
+MIR8060	progenitor
+MIR8061	progenitor
+MIR8062	progenitor
+MIR8063	progenitor
+MIR8064	progenitor
+MIR8065	progenitor
+MIR8066	progenitor
+MIR8067	progenitor
+MIR8068	progenitor
+MIR8069-1	progenitor
+MIR8069-2	progenitor
+MIR8070	progenitor
+MIR8071-1	progenitor
+MIR8071-2	progenitor
+MIR8072	progenitor
+MIR8073	progenitor
+MIR8074	progenitor
+MIR8075	progenitor
+MIR8076	progenitor
+MIR8077	progenitor
+MIR8078	progenitor
+MIR8079	progenitor
+MIR8080	progenitor
+MIR8081	progenitor
+MIR8082	progenitor
+MIR8083	progenitor
+MIR8084	progenitor
+MIR8085	progenitor
+MIR8086	progenitor
+MIR8087	progenitor
+MIR8088	progenitor
+MIR8089	progenitor
+MIR8485	progenitor
+MIR9500	progenitor
+MIRLET7A1	progenitor
+MIRLET7A2	progenitor
+MIRLET7A3	progenitor
+MIRLET7B	progenitor
+MIRLET7C	progenitor
+MIRLET7D	progenitor
+MIRLET7E	progenitor
+MIRLET7F1	progenitor
+MIRLET7F2	progenitor
+MIRLET7G	progenitor
+MIRLET7I	progenitor
+MOB3B	progenitor
+MOCS2	progenitor
+MOGAT1	progenitor
+MOGS	progenitor
+MPDU1	progenitor
+MRPS26	progenitor
+MSH4	progenitor
+MTHFS	progenitor
+NADSYN1	progenitor
+NAE1	progenitor
+NECAB3	progenitor
+NEDD8-MDP1	progenitor
+NEUROD1	progenitor
+NEUROG2	progenitor
+NEUROG3	progenitor
+NKX2-2	progenitor
+NKX6-1	progenitor
+NMRK1	progenitor
+NMU	progenitor
+NOB1	progenitor
+NOTCH1	progenitor
+NPPA	progenitor
+NR5A2	progenitor
+NSUN2	progenitor
+NTS	progenitor
+NUP98	progenitor
+OCA2	progenitor
+OLIG2	progenitor
+ONECUT3	progenitor
+PAX4	progenitor
+PCOLCE	progenitor
+PCSK1N	progenitor
+PCSK2	progenitor
+PCSK5	progenitor
+PCSK6	progenitor
+PCSK9	progenitor
+PDX1	progenitor
+PGA3	progenitor
+PGA4	progenitor
+PGA5	progenitor
+PIGX	progenitor
+PIGZ	progenitor
+PIP4K2A	progenitor
+PLA2G4C	progenitor
+PLD3	progenitor
+PMM2	progenitor
+PMPCB	progenitor
+POLR1A	progenitor
+POLR1D	progenitor
+POLR2B	progenitor
+POP4	progenitor
+POU3F4	progenitor
+PPHLN1	progenitor
+PROC	progenitor
+PROK2	progenitor
+PROZ	progenitor
+PSEN2	progenitor
+PSENEN	progenitor
+PTF1A	progenitor
+PYCR3	progenitor
+RASD1	progenitor
+RBPJ	progenitor
+REST	progenitor
+RFT1	progenitor
+RLN3	progenitor
+RNA5-8S1	progenitor
+RNA5-8S2	progenitor
+RNA5-8S3	progenitor
+RNA5-8SN1	progenitor
+RNA5-8SN2	progenitor
+RNA5-8SN3	progenitor
+RNA5-8SN4	progenitor
+RNA5-8SN5	progenitor
+RNA5-8SP8	progenitor
+RNA5-8SP9	progenitor
+RNA5-8SP10	progenitor
+RNA18S1	progenitor
+RNA18S2	progenitor
+RNA18S3	progenitor
+RNA18SN1	progenitor
+RNA18SN2	progenitor
+RNA18SN3	progenitor
+RNA18SN4	progenitor
+RNA18SN5	progenitor
+RNA18SP3	progenitor
+RNA18SP4	progenitor
+RNA18SP5	progenitor
+RNA28S1	progenitor
+RNA28S2	progenitor
+RNA28S3	progenitor
+RNA28SN1	progenitor
+RNA28SN2	progenitor
+RNA28SN3	progenitor
+RNA28SN4	progenitor
+RNA28SN5	progenitor
+RNA45S1	progenitor
+RNA45S2	progenitor
+RNA45S3	progenitor
+RNA45SN1	progenitor
+RNA45SN2	progenitor
+RNA45SN3	progenitor
+RNA45SN4	progenitor
+RNA45SN5	progenitor
+RNR1	progenitor
+RNR2	progenitor
+RNR3	progenitor
+RNR4	progenitor
+RNR5	progenitor
+RNU2-1	progenitor
+RPL10A	progenitor
+RPP21	progenitor
+RPPH1	progenitor
+RPSA	progenitor
+SARS2	progenitor
+SCEL	progenitor
+SENP1	progenitor
+SENP3	progenitor
+SENP5	progenitor
+SENP6	progenitor
+SENP7	progenitor
+SENP8	progenitor
+SHH	progenitor
+SI	progenitor
+SLC38A1	progenitor
+SMAD5	progenitor
+SNORD3A	progenitor
+SNORD61	progenitor
+SNORD87	progenitor
+SNORD107	progenitor
+SNRPA	progenitor
+SNRPC	progenitor
+SNRPG	progenitor
+SORCS3	progenitor
+SRD5A3	progenitor
+SSB	progenitor
+STS	progenitor
+SUCNR1	progenitor
+TGM3	progenitor
+THOP1	progenitor
+TMEM59	progenitor
+TMPRSS15	progenitor
+TOMM34	progenitor
+TOMM40	progenitor
+TOMM70	progenitor
+TRMT10C	progenitor
+TSEN15	progenitor
+TSEN34	progenitor
+TSEN54	progenitor
+TSHZ3	progenitor, smooth muscle cell
+UBA3	progenitor
+UBE2L3	progenitor
+USP1	progenitor
+USP9Y	progenitor
+USP14	progenitor
+USP48	progenitor
+XK	progenitor
+XKR3	progenitor
+XKRY	progenitor
+XKRY2	progenitor
+ZBTB7B	progenitor
+MSMB	prostate gland cell secretes seminal fluid
+SCGB1D1	prostate gland cell secretes seminal fluid
+SCGB1D2	prostate gland cell secretes seminal fluid
+GRID2	purkinje cells
+GRID2IP	purkinje cells
+PPP1R17	purkinje cells
+TNFRSF18	regulatory t cell
+AMY1A	salivary gland mucous cell
+AMY1B	salivary gland mucous cell
+AMY1C	salivary gland mucous cell
+AMY2B	salivary gland mucous cell
+CA6	salivary gland mucous cell
+DNASE2B	salivary gland mucous cell
+ELF5	salivary gland mucous cell
+GPR39	salivary gland mucous cell
+LIFR	salivary gland mucous cell
+PLAG1	salivary gland mucous cell
+MPZ	schwann cell
+NF2	schwann cell
+NINJ1	schwann cell
+NINJ2	schwann cell
+PRX	schwann cell
+AWAT1	sebaceous gland cell sebum secretion
+KRT17	sebaceous gland cell sebum secretion
+CYP4F8	seminal vesicle cell
+KLK3	seminal vesicle cell
+CNGB3	sensory transducer cells
+FATE1	sertoli cell in testis, spermatocyte, spermatogonium cell
+PHF7	sertoli cell in testis
+PRSS55	sertoli cell in testis
+TCAM1P	sertoli cell in testis
+TES	sertoli cell in testis
+USP26	sertoli cell in testis
+CACNA1S	skeletal muscle cell
+CASQ1	skeletal muscle cell
+CASQ2	skeletal muscle cell
+ENO3	skeletal muscle cell
+MSTN	skeletal muscle cell
+MYOZ2	skeletal muscle cell
+PHIP	skeletal muscle cell
+SOX6	skeletal muscle cell
+ZBTB42	skeletal muscle cell
+ADAMTS7	smooth muscle cell
+ARHGAP42	smooth muscle cell
+ARHGEF15	smooth muscle cell
+BCAR1	smooth muscle cell
+GPBP1	smooth muscle cell
+GPR180	smooth muscle cell
+GRP	smooth muscle cell
+GRPR	smooth muscle cell
+HEXIM1	smooth muscle cell
+HSPG2	smooth muscle cell
+KCNB2	smooth muscle cell
+MGP	smooth muscle cell
+MRTFA	smooth muscle cell
+MYOCD	smooth muscle cell
+NPSR1	smooth muscle cell
+PDE1C	smooth muscle cell
+PODN	smooth muscle cell
+PRDM6	smooth muscle cell
+RBPMS2	smooth muscle cell
+S100A13	smooth muscle cell
+SMTN	smooth muscle cell
+TAC1	smooth muscle cell
+TAGLN	smooth muscle cell
+YWHAG	smooth muscle cell
+ACTRT1	spermatid
+ACTRT2	spermatid
+CCDC65	spermatid, spermatocyte
+CDY1	spermatid
+CDY1B	spermatid
+CDY2A	spermatid
+CDY2B	spermatid
+CPEB2	spermatid
+CYLC1	spermatid
+DYDC1	spermatid
+FHL5	spermatid
+HILS1	spermatid
+KLC3	spermatid
+MBD3L1	spermatid
+NASP	spermatid, spermatocyte
+RNF32	spermatid, spermatocyte
+SPACA1	spermatid
+TBATA	spermatid
+TEKT1	spermatid, spermatocyte
+TNP1	spermatid
+TRIM69	spermatid
+CTCFL	spermatocyte
+KLHDC3	spermatocyte
+PRSS42	spermatocyte
+RBMXL2	spermatocyte
+SLC25A31	spermatocyte
+SLC26A8	spermatocyte
+TEX15	spermatocyte
+DAZ1	spermatogonium cell
+DAZ2	spermatogonium cell
+DAZ3	spermatogonium cell
+DAZ4	spermatogonium cell
+DCTN1	spindle neurons
+LGALS7	stratified squamous epithelium
+LGALS7B	stratified squamous epithelium
+GNAT3	taste receptor cell of taste bud
+REEP2	taste receptor cell of taste bud
+TAS1R1	taste receptor cell of taste bud
+TAS2R1	taste receptor cell of taste bud
+TAS2R3	taste receptor cell of taste bud
+TAS2R4	taste receptor cell of taste bud
+TAS2R5	taste receptor cell of taste bud
+TAS2R7	taste receptor cell of taste bud
+TAS2R8	taste receptor cell of taste bud
+TAS2R9	taste receptor cell of taste bud
+TAS2R10	taste receptor cell of taste bud
+TAS2R13	taste receptor cell of taste bud
+TAS2R14	taste receptor cell of taste bud
+TAS2R16	taste receptor cell of taste bud
+TAS2R20	taste receptor cell of taste bud
+TAS2R31	taste receptor cell of taste bud
+TAS2R39	taste receptor cell of taste bud
+TAS2R40	taste receptor cell of taste bud
+TAS2R41	taste receptor cell of taste bud
+TAS2R43	taste receptor cell of taste bud
+TAS2R46	taste receptor cell of taste bud
+TAS2R50	taste receptor cell of taste bud
+TAS2R60	taste receptor cell of taste bud
+FSHR	theca interna cell of ovarian follicle secreting estrogen
+GNRH2	theca interna cell of ovarian follicle secreting estrogen
+PROKR1	theca interna cell of ovarian follicle secreting estrogen
+SLC14A2	urinary epithelium cell
+BYSL	uterus endometrium cell
+PAEP	uterus endometrium cell
+KRT2	wet stratified barrier epithelial cells
+KRT3	wet stratified barrier epithelial cells
+KRT4	wet stratified barrier epithelial cells
+KRT5	wet stratified barrier epithelial cells
+KRT6A	wet stratified barrier epithelial cells
+KRT6B	wet stratified barrier epithelial cells
+KRT7	wet stratified barrier epithelial cells
+KRT72	wet stratified barrier epithelial cells
